@@ -1,0 +1,267 @@
+{
+    "data": [
+        {
+            "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1&group_type=1",
+            "count": 20,
+            "desc": "10.1W人已结伴",
+            "h5NavUrl": "http://m.tuniu.com/community/company",
+            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/66/3C/Cii-TFfXkqWIAAZ-AAEt-ix3OdkAACWggHOZ0QAAS4S277.png",
+            "list": [
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=177&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/177",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/29/F5/Cii-TFekNZCIc5mSAAHRguMlhBIAAAyvwHQbOwAAdGa98_w640_h0_c0_t0.jpeg",
+                    "title": "途牛拼团"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1663&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1663",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/29/F8/Cii-T1ekNmuIepzLAAGpSHiGV54AAAywwOXZXAAAalg82_w640_h0_c0_t0.jpeg",
+                    "title": "带你玩"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=194&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/194",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0D/E9/Cii9EFdeYOGIcDsgAAB2cjkGzf4AAGhAgKFzcEAAHaK23_w640_h0_c0_t0.jpeg",
+                    "title": "去云南"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=224&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/224",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/4F/D4/Cii-TFfD-qyIKXr8AACMhl7ZI-EAAB1jAP9shIAAIye12_w640_h0_c0_t0_w640_h0_c0_t0.jpeg",
+                    "title": "求拼车"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=192&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/192",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0D/F0/Cii9EFdeYjmIZsdrAAGUXoSe0d4AAGhBQD1WVYAAZR295_w640_h0_c0_t0.jpeg",
+                    "title": "去泰国"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1431&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1431",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/0D/14/Cii-TleMhYaISEAFAASt8wz3KMIAAAR_wFIhbIABK4L80_w640_h0_c0_t0.jpeg",
+                    "title": "去新加坡"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1624&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1624",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/10/C6/Cii9EVdfyqSIUmk-AAD8VkTlUekAAGiogJ9MhcAAPxu86_w640_h0_c0_t0.jpeg",
+                    "title": "去香港"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1426&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1426",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/A3/24/Cii-Tlf5tXqIattaAAE2kImtmd4AADLigPuc7YAATao10_w640_h0_c0_t0.jpeg",
+                    "title": "去意大利"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=4910&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/4910",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/A3/24/Cii-Tlf5tUCILhqwAAG0vU2MhSUAADLigNcIM8AAbTV98_w640_h0_c0_t0.jpeg",
+                    "title": "去德国"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1392&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1392",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/A3/23/Cii-T1f5tL-IBy_aAAFoav9eQPsAADLiQGqQ1kAAWiC01_w640_h0_c0_t0.jpeg",
+                    "title": "去法国"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1915&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1915",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/59/9E/Cii-TFfM6lmIMUdgAAEurh-CrWIAACEBgOhY8cAAS7G36_w640_h0_c0_t0_w640_h0_c0_t0.jpeg",
+                    "title": "去欧洲"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1339&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1339",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/30/7A/Cii9EFdwg5yIQu7MAAIaCbmOAd8AAGwZwOdQRMAAhoh93_w640_h0_c0_t0_w640_h0_c0_t0.jpeg",
+                    "title": "去日本"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1338&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1338",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0D/F5/Cii9EFdeY22IMzA2AAE-1BiN2UkAAGhCAB4mw4AAT7s67_w640_h0_c0_t0.jpeg",
+                    "title": "去韩国"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1590&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1590",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/20/39/Cii-Tlee70SIYcWzAAF3GYH1RQIAAApygJUL_8AAXcx08_w640_h0_c0_t0.jpeg",
+                    "title": "去美国"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1389&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1389",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/10/B4/Cii9EFdfxTSIf9SXAADajheoW_4AAGilwIP3eMAANqm89_w640_h0_c0_t0.jpeg",
+                    "title": "去马代"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1654&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1654",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0D/86/Cii9EVdeQseId1dJAADNlPRFdbAAAGgxAKn4B0AAM2s88_w640_h0_c0_t0.jpeg",
+                    "title": "去巴厘岛"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1589&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1589",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/2E/DF/Cii-TFeoKyiIZo1tAAIyMCPhY7oAAA6HQPWREAAAjJI66_w640_h0_c0_t0.jpeg",
+                    "title": "去瑞士"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1622&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1622",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/10/BB/Cii9EVdfx9KIRbQAAACaxjptFN8AAGinAPwaFIAAJre96_w640_h0_c0_t0.jpeg",
+                    "title": "去普吉"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1693&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1693",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/10/C8/Cii9EFdfyziIJdzLAAEUlkosfIQAAGiowPkJb8AARSu56_w640_h0_c0_t0.jpeg",
+                    "title": "去厦门"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=25&group_type=1",
+                    "h5NavUrl": "http://m.tuniu.com/community/company",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/71/6F/Cii-Tlff1BKIBMu7AABAUOggddYAACkPAE-ldwAAEBo84_w640_h0_c0_t0_w640_h0_c0_t0.jpeg",
+                    "title": "更多结伴"
+                }
+            ],
+            "navTitle": "求结伴"
+        },
+        {
+            "appNavUrl": "tuniuapp://travel/discover/new_community/tag_square?tab_index=0",
+            "count": 20,
+            "desc": "40.2W人感兴趣",
+            "h5NavUrl": "http://m.tuniu.com/community/groups",
+            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/66/3C/Cii-TFfXkuyINjzcAADxvmYmNLwAACWggNQM5cAAPHW171.png",
+            "list": [
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=9&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/9",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/45/E2/Cii-TFe6wuSIZqwpAAIqA-jA_MIAABkZwB4KjIAAiob72.jpeg",
+                    "title": "爱上住酒店"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2282&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/2282",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/66/5A/Cii-TlfXoW2IcojuAAGExlLFIdgAACWpwKjCI0AAYTe23.jpeg",
+                    "title": "在厦门"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1621&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1621",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/3F/6B/Cii-T1e0F6eIBsVqAAF_mSGGpZYAABUPAC81ywAAX-x36.jpeg",
+                    "title": "敢玩不同"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1610&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1610",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B5/96/Cii-T1gF13yIeApIAAMbLsaAoFcAADfwQP5L88AAxtG33.jpeg",
+                    "title": "海岛游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1405&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1405",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B6/AF/Cii-T1gGzZKIe_sVAAJNboDp734AADgswPoOA4AAk2G95.jpeg",
+                    "title": "免费体验"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1401&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1401",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/E3/02/Cii9EFdH2_6IXUi_AAGSSSTab6IAAGMVgPvEhQAAZJh05.jpeg",
+                    "title": "天使美食探店"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1917&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1917",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/8C/1F/Cii-Tlft0YKIQ24yAAIzwnKpk7sAAC6rgEOopYAAjPa02.jpeg",
+                    "title": "户外游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=214&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/214",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B5/A4/Cii-TFgF3E6IaHbDAAFSlJRQxxgAADf0QGdEhkAAVKs14.jpeg",
+                    "title": "蜜月游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=30&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/30",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/8C/19/Cii-TFft0ECIUpx6AAIS2C5paMcAAC6qgCoeaMAAhLw51.jpeg",
+                    "title": "自驾游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=210&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/210",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/45/56/Cii-TFe6ew6Ib19BAAHwm_C-hJMAABjegOBQ3gAAfCz71.jpeg",
+                    "title": "亲子游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=197&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/197",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/4F/31/Cii-TFfDpWaINUSkAAJivAxXAhMAAB0dgK0qnwAAmLU24.jpeg",
+                    "title": "大玩家"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1635&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1635",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B5/A2/Cii-TlgF22GIRLLzAAMKtmqCNeUAADfzwDKYTwAAwrO22.jpeg",
+                    "title": "古镇游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=14&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/14",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B5/91/Cii-TFgF1UqILNBqAAMfJvGdu-oAADfuwHiXwUAAx8-02.jpeg",
+                    "title": "出游榜"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1382&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1382",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/59/98/Cii-TFfM58WIEoOKAAHOVBckJcwAACEAQP3BHgAAc5s50.jpeg",
+                    "title": "摄影游"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1361&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1361",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/B5/A4/Cii-T1gF3AqIc27eAAPDnx8_XL0AADf0AL9VEYAA8O348.jpeg",
+                    "title": "行走的味蕾"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=194&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/194",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/42/58/Cii-TFe2xyiIGd_bAACJpQ4pOkQAABbgQFldrEAAIm913.jpeg",
+                    "title": "玩家直播"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2342&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/2342",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/70/D9/Cii-TlffkzGIeaivAALPY8zMYRAAACjlgCwz3UAAs9788.jpeg",
+                    "title": "在南京"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2356&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/2356",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/70/D4/Cii-TlffkfyIYcSrAAHcAtkACN4AACjkABxR84AAdwa32.jpeg",
+                    "title": "在四川"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2357&group_type=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/2357",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/89/5B/Cii-TFfsqfqIcUR2AAJfAoEe4ZQAAC3-wE6_DUAAl8a66.jpeg",
+                    "title": "在东北"
+                },
+                {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/tag_square?tab_index=0",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups",
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/71/6F/Cii-T1ff07-IcNoEAABAUOggddYAACkOwPyZE8AAEBo38.jpeg",
+                    "title": "更多圈子"
+                }
+            ],
+            "navTitle": "兴趣圈"
+        }
+    ],
+    "errorCode": 710000,
+    "msg": "success",
+    "success": true
+}

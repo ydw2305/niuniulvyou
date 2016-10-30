@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/color_white"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_house_recommendforyou0"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/btn_house_recommendforyou_background"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:paddingLeft="13dp"
+            android:paddingRight="13dp"
+            android:textColor="@color/textcolor_house_recommendforyou" />
+
+        <RadioButton
+            android:id="@+id/radio_house_recommendforyou1"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_house_recommendforyou_background"
+            android:button="@null"
+            android:gravity="center"
+            android:textColor="@color/textcolor_house_recommendforyou" />
+
+        <RadioButton
+            android:id="@+id/radio_house_recommendforyou2"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_house_recommendforyou_background"
+            android:button="@null"
+            android:gravity="center"
+            android:textColor="@color/textcolor_house_recommendforyou" />
+
+        <RadioButton
+            android:id="@+id/radio_house_recommendforyou3"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_house_recommendforyou_background"
+            android:button="@null"
+            android:gravity="center"
+            android:textColor="@color/textcolor_house_recommendforyou" />
+    </RadioGroup>
+
+    <com.xinbo.widget.GridView4ScrollView
+        android:id="@+id/grid_house_recommendForYou"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup1"
+        android:background="@color/color_grey"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="1dp"
+        android:numColumns="4" >
+    </com.xinbo.widget.GridView4ScrollView>
+
+</RelativeLayout>

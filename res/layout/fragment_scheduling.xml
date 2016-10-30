@@ -1,0 +1,169 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tuniu.fragment.SchedulingFragment" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/ptrsv_scheduling"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            
+			<include 
+			    android:id="@+id/layout1"
+			    layout="@layout/layout_scheduling_head1"/>
+			<include 
+			    android:id="@+id/layout2"
+			    android:focusable="false"
+			    layout="@layout/layout_scheduling_head2"/>
+			<include 
+			    android:id="@+id/layout3"
+			    android:focusable="false"
+			    layout="@layout/layout_scheduling_head2"/>
+			<include 
+			    android:id="@+id/layout4"
+			    layout="@layout/layout_scheduling_head3"/>
+			
+            <com.xinbo.widget.ListView4ScrollView
+                android:id="@+id/lv_scheduling_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </com.xinbo.widget.ListView4ScrollView>
+
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+    <TextView
+        android:id="@+id/linear_scheduling_head_wodexc"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_green" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+		
+        <FrameLayout
+	        android:id="@+id/linear_scheduling_head_float_wodexc"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="我的行程"
+                android:textColor="@color/color_white"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/img_scheduling_shopping"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:src="@drawable/icon_shopping_bag"
+                tools:ignore="ContentDescription" />
+
+        </FrameLayout>
+
+        <HorizontalScrollView
+            android:id="@+id/horizontalScrollView_float"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/color_white"
+            android:visibility="gone"
+            android:paddingTop="10dp" >
+
+           <RadioGroup
+            android:id="@+id/radioGroup2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/hainan" />
+
+            <RadioButton
+                android:id="@+id/radio1_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/xiamen" />
+
+            <RadioButton
+                android:id="@+id/radio2_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/yunnan" />
+
+            <RadioButton
+                android:id="@+id/radio3_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/riben" />
+
+            <RadioButton
+                android:id="@+id/radio4_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/xianggang" />
+
+            <RadioButton
+                android:id="@+id/radio5_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/hanguo" />
+        </RadioGroup>
+        </HorizontalScrollView>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_scheduling_openMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:clickable="true"
+        android:layout_margin="20dp"
+        android:src="@drawable/icon_finder_delete_v2"
+        tools:ignore="ContentDescription" />
+
+</FrameLayout>

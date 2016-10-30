@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_house_hotRecommend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/m_normal"
+        android:layout_marginBottom="@dimen/m_in"
+        android:background="@color/color_white"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/ts_big"
+        android:padding="@dimen/p_normal" />
+
+    <com.xinbo.widget.GridView4ScrollView
+        android:id="@+id/grid_house_hotRecommend"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="1dp"
+        android:verticalSpacing="1dp"
+        android:listSelector="#00000000"
+        android:numColumns="4" >
+    </com.xinbo.widget.GridView4ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/m_in"
+            android:layout_marginTop="@dimen/m_normal"
+            android:background="@color/color_white"
+            android:padding="@dimen/p_out" >
+
+            <TextView
+                android:id="@+id/tv_house_findbeauty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textSize="@dimen/ts_big"
+                android:padding="@dimen/p_out" />
+
+            <ViewFlipper
+                android:id="@+id/vf_house_findbeauty"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/p_out"
+                android:layout_marginRight="@dimen/p_out"
+                android:layout_weight="1"
+                android:flipInterval="3000" >
+            </ViewFlipper>
+
+            <ImageView
+                android:id="@+id/iv_house_signIn"
+                android:layout_width="85dp"
+                android:layout_height="30dp"
+                android:scaleType="fitXY"
+                android:layout_margin="@dimen/m_out"
+                android:src="@drawable/icon_discount" />
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/grid_house_findBeauty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_white"
+            android:listSelector="#00000000"
+            android:numColumns="4" >
+        </GridView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/m_normal"
+        android:background="@color/color_white" >
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/m_normal"
+            android:src="@drawable/icon_offline" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="@dimen/ts_small"
+                android:text="为你推荐的当地城市"
+                android:textColor="@color/color_grey" />
+
+            <TextView
+                android:id="@+id/tv_house_offline_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="@dimen/p_out"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/m_normal"
+            android:src="@drawable/right_green" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/p_normal" >
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/m_normal"
+            android:layout_weight="1"
+            android:background="@color/color_grey" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/p_out"
+            android:layout_marginRight="@dimen/p_out"
+            android:src="@drawable/icon_more" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/color_grey"
+            android:textSize="@dimen/ts_small"
+            android:text="发现更多精彩" />
+
+        <TextView
+            android:id="@+id/textView81"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/m_normal"
+            android:layout_weight="1"
+            android:background="@color/color_grey" />
+    </LinearLayout>
+
+</LinearLayout>

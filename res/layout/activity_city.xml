@@ -1,0 +1,168 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tuniu.activity.CityActivity" >
+
+    <RelativeLayout
+        android:id="@+id/rela_city_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/h_header"
+        android:background="@color/color_white" >
+
+        <ImageView
+            android:id="@+id/iv_city_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/m_normal"
+            android:src="@drawable/btn_close" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="选择城市"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/color_grey" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/ed_city_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rela_city_title"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/m_normal"
+        android:background="@drawable/background_white"
+        android:drawableLeft="@drawable/search_icon"
+        android:drawablePadding="@dimen/p_out"
+        android:ems="10"
+        android:textSize="@dimen/ts_small"
+        android:hint="南京/nanjing/nj"
+        android:padding="@dimen/p_out" >
+    </EditText>
+
+    <RelativeLayout
+        android:id="@+id/rela_radioGroup_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed_city_search" >
+
+        <RadioGroup
+            android:id="@+id/radioGroup_city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_white"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_house_recommendforyou_background"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="境内"
+                android:textColor="@color/textcolor_house_recommendforyou" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_house_recommendforyou_background"
+                android:button="@null"
+                android:gravity="center"
+                android:text="境外"
+                android:textColor="@color/textcolor_house_recommendforyou" />
+        </RadioGroup>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@+id/radioGroup_city"
+            android:background="@color/color_grey" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list_city"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rela_radioGroup_city"
+        android:layout_toLeftOf="@+id/letterBarCustom1"
+        android:divider="#00000000"
+        android:listSelector="#00000000"
+        android:scrollbars="none" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/tv_city_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rela_radioGroup_city"
+        android:layout_toLeftOf="@+id/letterBarCustom1"
+        android:background="@color/color_white"
+        android:padding="@dimen/p_out"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/tv_city"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:alpha="0.7"
+        android:background="@drawable/background_city_notify"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/color_white"
+        android:textSize="35sp"
+        android:visibility="invisible" />
+
+    <com.tuniu.utils.letterBarCustom
+        android:id="@+id/letterBarCustom1"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rela_radioGroup_city"
+        android:background="@color/color_white"
+        app:bottom="20"
+        app:moColor="@color/color_green"
+        app:textSize="24"
+        app:touchColor="@color/color_grey" />
+
+    <RelativeLayout
+        android:id="@+id/rela_city_search1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ed_city_search"
+        android:background="@color/color_white"
+        android:visibility="gone" >
+
+        <ListView
+            android:id="@+id/list_city_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#00000000"
+            android:listSelector="#00000000" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/tv_city_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:text="查询后无此城市" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_grey_S" >
+
+    <TextView
+        android:id="@+id/tv_house_grid_modules"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/m_normal"
+        android:padding="@dimen/p_in"
+        android:gravity="center"
+        android:textSize="@dimen/ts_small" />
+
+</RelativeLayout>

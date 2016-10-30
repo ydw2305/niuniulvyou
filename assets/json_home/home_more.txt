@@ -1,0 +1,200 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "totalPageCount": 2,
+        "products": [
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/vnd/5e/c3/5ec3017d5813e9c7d64eef4ae261c727_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210049553&product_type=102",
+                "title": "昆大丽-香格里拉3飞8日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "骑行双廊爆款，升三飞含雪山，加赠1晚温泉，立减200（奔跑吧暑价）",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 2449,
+                "originalPrice": 2649,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "93%",
+                "peopleCount": 22878
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/vnd/5e/c3/5ec3017d5813e9c7d64eef4ae261c727_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210048637&product_type=102",
+                "title": "昆大丽-香格里拉双飞8日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "骑行双廊爆款，好评如潮，雪山普达措全含，赠温泉立减200（奔跑吧暑价）",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 2209,
+                "originalPrice": 2409,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "93%",
+                "peopleCount": 15136
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/CD/C6/Cii9EFc8AKyIVrdgACOmw6CwcC4AAF8HwCO3GMAI6bb651_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210052904&product_type=102",
+                "title": "昆大丽双飞6日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "双古城爆品，束河客栈，5A石林，雪山印象，洱海双廊全覆盖",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 1689,
+                "originalPrice": 1889,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "90%",
+                "peopleCount": 24346
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/99/00/Cii9EFch6X6IOLLZAHqJynZfmpUAAE3LgJIWFMAeoni768_w640_h0_c0_t0.png",
+                "url": "tuniuapp://travel/product_detail?product_id=210049047&product_type=102",
+                "title": "香格里拉-昆大丽双飞6日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "寻梦香巴拉，骑行双廊，热销4年，好评七千",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 1769,
+                "originalPrice": 1969,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "92%",
+                "peopleCount": 30771
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/98/C5/Cii9EFch3OaIGoYLAAQ3AhHtJKEAAE2VQKHcoAABDca657_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210054154&product_type=102",
+                "title": "香格里拉-昆大丽3飞6日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "秘境香巴拉，漫步普达措，骑行双廊，明星导游",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 2119,
+                "originalPrice": 2319,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "92%",
+                "peopleCount": 29656
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/5f/2b/5f2bd9345be1e94f3e0af27fb874b7f3_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210050708&product_type=102",
+                "title": "西双版纳-昆大丽四飞8日游",
+                "activityIconUrl": "",
+                "subTitle": "两大表演，两晚挂五，一晚温泉，冰川大索，错峰出游（奔跑吧红包）",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 2649,
+                "originalPrice": 2849,
+                "brandLabels": [],
+                "satisfaction": "91%",
+                "peopleCount": 6969
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/17/36/Cii9EVbYHQyIPyvzAAl66QcI9zUAACeFgBNT7cACXsB575_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210092541&product_type=102",
+                "title": "香格里拉-昆大丽双飞8日游",
+                "activityIconUrl": "",
+                "subTitle": "两大表演，最美普达措，两晚挂五，一晚温泉，两人立减（奔跑吧红包）",
+                "promotionDesc": "立省￥300",
+                "promotionPrice": 1909,
+                "originalPrice": 2209,
+                "brandLabels": [],
+                "satisfaction": "94%",
+                "peopleCount": 3418
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/03/CC/Cii9EVbKrcCIHhqQACPY4aMRstMAACIbANShIQAI9j5752_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210070131&product_type=102",
+                "title": "昆大丽3飞6日游",
+                "activityIconUrl": "http://m.tuniucdn.com/filebroker/cdn/mob/2c/ef/2cefbe529bf92f90e42d2214533adc36_w160_h40_c1_t0.png",
+                "subTitle": "双古城升级，昆飞丽20人小团，4晚挂五1晚温泉，含三文鱼宴",
+                "promotionDesc": "立省￥500",
+                "promotionPrice": 1909,
+                "originalPrice": 2409,
+                "brandLabels": [
+                    {
+                        "title": "牛人专线",
+                        "color": "#FB6A64"
+                    }
+                ],
+                "satisfaction": "94%",
+                "peopleCount": 1269
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/8C/FA/Cii9EVcddY2IGW1hABaMXp3bxQ0AAERTQMKZNwAFox2901_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210082398&product_type=102",
+                "title": "昆明-大理-丽江双飞6日游",
+                "activityIconUrl": "",
+                "subTitle": "0购物，一车一导，大理住海景房，洱海大游轮，双廊骑行，丽江古城客栈，暑期每人立减200元（奔跑吧红包）",
+                "promotionDesc": "立省￥200",
+                "promotionPrice": 3149,
+                "originalPrice": 3349,
+                "brandLabels": [],
+                "satisfaction": "90%",
+                "peopleCount": 533
+            },
+            {
+                "productTypeName": "跟团游",
+                "departCityName": "厦门",
+                "iconType": 1,
+                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/94/06/Cii9EFcgYiOIaKyCAAzi-WIlaZAAAEh5QN5Y68ADOMR289_w640_h0_c0_t0.jpg",
+                "url": "tuniuapp://travel/product_detail?product_id=210051883&product_type=102",
+                "title": "昆明-普洱-版纳3飞6日游",
+                "activityIconUrl": "",
+                "subTitle": "购物店少，住小熊猫庄园独栋木屋，升级一晚喜来登，享边境美食派对，两人立减（奔跑吧红包）",
+                "promotionDesc": "立省￥300",
+                "promotionPrice": 1839,
+                "originalPrice": 2139,
+                "brandLabels": [],
+                "satisfaction": "94%",
+                "peopleCount": 6799
+            }
+        ]
+    }
+}

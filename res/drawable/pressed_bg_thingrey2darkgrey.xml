@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 设置按下去状态 -->
+    <item android:state_pressed="true"><layer-list>
+            <item><shape>
+                    <corners android:radius="10dp" />
+                    <solid android:color="@color/color_darkGrey" />
+                </shape></item>
+        </layer-list></item>
+    <!--  -->
+    <item><shape>
+            <corners android:radius="10dp" />
+            <solid android:color="@color/color_thinGrey" />
+        </shape></item>
+
+</selector>

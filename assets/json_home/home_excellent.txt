@@ -1,0 +1,90 @@
+{
+    "data": {
+        "count": 2,
+        "list": [
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/108",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/B4/E9/Cii-T1gFjCGIEqgeAAA_9-h1hKoAADfAQEK-1AAAEAP71_w640_h0_c0_t0.jpeg",
+                "tagText": "尾货特卖",
+                "title": "尾货特卖 特价早知道",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=108&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/1692",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/B6/B3/Cii-TFgGz76ITkCKAABM3wcVkzUAADguQNqJW4AAEz398_w640_h0_c0_t0.jpeg",
+                "tagText": "活动中心",
+                "title": "最新活动早知道",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1692&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/2305",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/80/3D/Cii-TlfouaKIVZlcAAIJgvmEQ-QAACxbAB28KYAAgma74_w640_h0_c0_t0.jpeg",
+                "tagText": "特价机票",
+                "title": "1折起 免票活动抢先知",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2305&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/30",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/5D/F0/Cii-TlfPvy6IdZAEAABz9tFYP64AACJrABL04QAAHQO53_w640_h0_c0_t0.jpeg",
+                "tagText": "自驾游",
+                "title": "专业自驾游线路和攻略",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=30&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/2306",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/4F/96/Cii-T1fD3SaIPM4_AACevFQEWX4AAB1HAIvykgAAJ7U45_w640_h0_c0_t0.jpeg",
+                "tagText": "去云南",
+                "title": "玩转彩云之南",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=2306&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/1918",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/40/4A/Cii-TFe1FIeIAHqfAAHXcGS9KcIAABWhwPhzRQAAdeI74_w640_h0_c0_t0.jpeg",
+                "tagText": "高端旅行",
+                "title": "高端旅行休闲生活",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1918&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/181",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/A4/C1/Cii-TFf69JSIE9ucAAKpPqj90u4AADNaQOwTTgAAqlW38_w640_h0_c0_t0.jpeg",
+                "tagText": "牛口碑",
+                "title": "汇集途牛口碑线路",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=181&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/14",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/A4/C1/Cii-T1f69S6IJdUiAAzd_0NQlXwAADNawHcfOwADN4X591_w640_h0_c0_t0.png",
+                "tagText": "出游榜",
+                "title": "国内外吃喝玩乐全知道",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=14&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/1706",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/A4/C3/Cii-Tlf69cyIU9mQAAGXts1ydWMAADNbQCselEAAZfO49_w640_h0_c0_t0.jpeg",
+                "tagText": "目的地",
+                "title": "重新发现别样目的地",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1706&group_type=0"
+            },
+            {
+                "createTime": "23小时前",
+                "h5NavUrl": "http://m.tuniu.com/community/groups/1714",
+                "logo": "http://m.tuniucdn.com/fb2/t1/G2/M00/A4/C4/Cii-T1f69niIZB_TAAHxbqdporMAADNbgPtZpsAAfGG52_w640_h0_c0_t0.jpeg",
+                "tagText": "轻奢旅行",
+                "title": "最特色酒店，轻奢时代",
+                "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1714&group_type=0"
+            }
+        ]
+    },
+    "errorCode": 710000,
+    "msg": "success",
+    "success": true
+}

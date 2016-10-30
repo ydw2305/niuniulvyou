@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 设置按下去状态 -->
+    <item android:state_pressed="true"><layer-list>
+            <item><shape>
+                    <corners android:radius="10dp" />
+                    <stroke 
+                        android:dashGap="2.0dip" 
+                        android:width="2.0dip" 
+                        android:color="#FE8A06" />
+                    <solid android:color="#c0c0c0" />
+                </shape></item>
+        </layer-list></item>
+    <!--  -->
+    <item><shape>
+            <corners android:radius="10dp" />
+            <stroke 
+                android:dashGap="2.0dip" 
+                android:width="2.0dip" 
+                android:color="#FE8A06" />
+            <solid android:color="#00000000" />
+        </shape></item>
+
+</selector>

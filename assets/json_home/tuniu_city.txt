@@ -1,0 +1,2599 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "hotCityList": [
+            {
+                "cityName": "北京",
+                "cityCode": "200",
+                "cityLetter": "beijing",
+                "cityAcronym": "bj"
+            },
+            {
+                "cityName": "南京",
+                "cityCode": "1602",
+                "cityLetter": "nanjing",
+                "cityAcronym": "nj"
+            },
+            {
+                "cityName": "上海",
+                "cityCode": "2500",
+                "cityLetter": "shanghai",
+                "cityAcronym": "sh"
+            },
+            {
+                "cityName": "杭州",
+                "cityCode": "3402",
+                "cityLetter": "hangzhou",
+                "cityAcronym": "hz"
+            },
+            {
+                "cityName": "苏州",
+                "cityCode": "1615",
+                "cityLetter": "suzhou",
+                "cityAcronym": "sz"
+            },
+            {
+                "cityName": "天津",
+                "cityCode": "3000",
+                "cityLetter": "tianjin",
+                "cityAcronym": "tj"
+            },
+            {
+                "cityName": "深圳",
+                "cityCode": "619",
+                "cityLetter": "shenzhen",
+                "cityAcronym": "shz"
+            },
+            {
+                "cityName": "无锡",
+                "cityCode": "1619",
+                "cityLetter": "wuxi",
+                "cityAcronym": "wx"
+            },
+            {
+                "cityName": "成都",
+                "cityCode": "2802",
+                "cityLetter": "chengdu",
+                "cityAcronym": "cd"
+            },
+            {
+                "cityName": "重庆",
+                "cityCode": "300",
+                "cityLetter": "chongqing",
+                "cityAcronym": "cq"
+            },
+            {
+                "cityName": "武汉",
+                "cityCode": "1402",
+                "cityLetter": "wuhan",
+                "cityAcronym": "wh"
+            },
+            {
+                "cityName": "沈阳",
+                "cityCode": "1902",
+                "cityLetter": "shenyang",
+                "cityAcronym": "sy"
+            },
+            {
+                "cityName": "广州",
+                "cityCode": "602",
+                "cityLetter": "guangzhou",
+                "cityAcronym": "gz"
+            },
+            {
+                "cityName": "宁波",
+                "cityCode": "3415",
+                "cityLetter": "ningbo",
+                "cityAcronym": "nb"
+            },
+            {
+                "cityName": "西安",
+                "cityCode": "2702",
+                "cityLetter": "xian",
+                "cityAcronym": "xa"
+            },
+            {
+                "cityName": "石家庄",
+                "cityCode": "1002",
+                "cityLetter": "shijiazhuang",
+                "cityAcronym": "sjz"
+            }
+        ],
+        "indexCityList": [
+            {
+                "tagName": "A",
+                "cities": [
+                    {
+                        "cityName": "鞍山",
+                        "cityCode": "1903",
+                        "cityLetter": "anshan",
+                        "cityAcronym": "as"
+                    },
+                    {
+                        "cityName": "安庆",
+                        "cityCode": "103",
+                        "cityLetter": "anqing",
+                        "cityAcronym": "aq"
+                    },
+                    {
+                        "cityName": "安阳",
+                        "cityCode": "1203",
+                        "cityLetter": "anyang",
+                        "cityAcronym": "ay"
+                    },
+                    {
+                        "cityName": "安康",
+                        "cityCode": "2703",
+                        "cityLetter": "ankang",
+                        "cityAcronym": "ak"
+                    },
+                    {
+                        "cityName": "安国市",
+                        "cityCode": "40109",
+                        "cityLetter": "anguoshi",
+                        "cityAcronym": "agsh"
+                    },
+                    {
+                        "cityName": "阿勒泰",
+                        "cityCode": "3104",
+                        "cityLetter": "aletai",
+                        "cityAcronym": "alt"
+                    },
+                    {
+                        "cityName": "阿克苏",
+                        "cityCode": "3103",
+                        "cityLetter": "akesu",
+                        "cityAcronym": "aks"
+                    },
+                    {
+                        "cityName": "阿拉善右旗",
+                        "cityCode": "40393",
+                        "cityLetter": "alashanyouqi",
+                        "cityAcronym": "alsyq"
+                    },
+                    {
+                        "cityName": "阿拉善左旗",
+                        "cityCode": "40392",
+                        "cityLetter": "alashanzuoqi",
+                        "cityAcronym": "alszq"
+                    },
+                    {
+                        "cityName": "阿尔山市",
+                        "cityCode": "40374",
+                        "cityLetter": "aershanshi",
+                        "cityAcronym": "aesh"
+                    },
+                    {
+                        "cityName": "安顺",
+                        "cityCode": "803",
+                        "cityLetter": "anshun",
+                        "cityAcronym": "ash"
+                    },
+                    {
+                        "cityName": "阿坝",
+                        "cityCode": "2815",
+                        "cityLetter": "aba",
+                        "cityAcronym": "ab"
+                    },
+                    {
+                        "cityName": "阿里",
+                        "cityCode": "3203",
+                        "cityLetter": "ali",
+                        "cityAcronym": "alal"
+                    }
+                ]
+            },
+            {
+                "tagName": "B",
+                "cities": [
+                    {
+                        "cityName": "北京",
+                        "cityCode": "200",
+                        "cityLetter": "beijing",
+                        "cityAcronym": "bj"
+                    },
+                    {
+                        "cityName": "包头",
+                        "cityCode": "2104",
+                        "cityLetter": "baotou",
+                        "cityAcronym": "bt"
+                    },
+                    {
+                        "cityName": "蚌埠",
+                        "cityCode": "104",
+                        "cityLetter": "bengbu",
+                        "cityAcronym": "bb"
+                    },
+                    {
+                        "cityName": "保定",
+                        "cityCode": "1003",
+                        "cityLetter": "baoding",
+                        "cityAcronym": "bd"
+                    },
+                    {
+                        "cityName": "本溪",
+                        "cityCode": "1904",
+                        "cityLetter": "benxi",
+                        "cityAcronym": "bx"
+                    },
+                    {
+                        "cityName": "宝鸡",
+                        "cityCode": "2704",
+                        "cityLetter": "baoji",
+                        "cityAcronym": "bji"
+                    },
+                    {
+                        "cityName": "北海",
+                        "cityCode": "704",
+                        "cityLetter": "beihai",
+                        "cityAcronym": "bh"
+                    },
+                    {
+                        "cityName": "北流市",
+                        "cityCode": "41820",
+                        "cityLetter": "beiliushi",
+                        "cityAcronym": "beil"
+                    },
+                    {
+                        "cityName": "霸州市",
+                        "cityCode": "1017",
+                        "cityLetter": "bazhoushi",
+                        "cityAcronym": "bzhsh"
+                    },
+                    {
+                        "cityName": "泊头市",
+                        "cityCode": "40151",
+                        "cityLetter": "botoushi",
+                        "cityAcronym": "btsh"
+                    },
+                    {
+                        "cityName": "博乐市",
+                        "cityCode": "42624",
+                        "cityLetter": "boleshi",
+                        "cityAcronym": "bl"
+                    },
+                    {
+                        "cityName": "保山",
+                        "cityCode": "3304",
+                        "cityLetter": "baoshan",
+                        "cityAcronym": "baos"
+                    },
+                    {
+                        "cityName": "巴彦淖尔",
+                        "cityCode": "2109",
+                        "cityLetter": "bayannaoer",
+                        "cityAcronym": "byze"
+                    },
+                    {
+                        "cityName": "白山",
+                        "cityCode": "1804",
+                        "cityLetter": "baishan",
+                        "cityAcronym": "bais"
+                    },
+                    {
+                        "cityName": "毕节",
+                        "cityCode": "804",
+                        "cityLetter": "bijie",
+                        "cityAcronym": "bij"
+                    },
+                    {
+                        "cityName": "百色",
+                        "cityCode": "703",
+                        "cityLetter": "baise",
+                        "cityAcronym": "bs"
+                    }
+                ]
+            },
+            {
+                "tagName": "C",
+                "cities": [
+                    {
+                        "cityName": "成都",
+                        "cityCode": "2802",
+                        "cityLetter": "chengdu",
+                        "cityAcronym": "cd"
+                    },
+                    {
+                        "cityName": "重庆",
+                        "cityCode": "300",
+                        "cityLetter": "chongqing",
+                        "cityAcronym": "cq"
+                    },
+                    {
+                        "cityName": "长沙",
+                        "cityCode": "1502",
+                        "cityLetter": "changsha",
+                        "cityAcronym": "cs"
+                    },
+                    {
+                        "cityName": "长春",
+                        "cityCode": "1802",
+                        "cityLetter": "changchun",
+                        "cityAcronym": "cc"
+                    },
+                    {
+                        "cityName": "常州",
+                        "cityCode": "1604",
+                        "cityLetter": "changzhou",
+                        "cityAcronym": "cz"
+                    },
+                    {
+                        "cityName": "常德",
+                        "cityCode": "1503",
+                        "cityLetter": "changde",
+                        "cityAcronym": "chd"
+                    },
+                    {
+                        "cityName": "滁州",
+                        "cityCode": "107",
+                        "cityLetter": "chuzhou",
+                        "cityAcronym": "chuz"
+                    },
+                    {
+                        "cityName": "赤峰",
+                        "cityCode": "2105",
+                        "cityLetter": "chifeng",
+                        "cityAcronym": "cf"
+                    },
+                    {
+                        "cityName": "长治",
+                        "cityCode": "2603",
+                        "cityLetter": "changzhi",
+                        "cityAcronym": "chzh"
+                    },
+                    {
+                        "cityName": "沧州",
+                        "cityCode": "1005",
+                        "cityLetter": "cangzhou",
+                        "cityAcronym": "caz"
+                    },
+                    {
+                        "cityName": "池州",
+                        "cityCode": "109",
+                        "cityLetter": "chizhou",
+                        "cityAcronym": "chizh"
+                    },
+                    {
+                        "cityName": "承德",
+                        "cityCode": "1006",
+                        "cityLetter": "chengde",
+                        "cityAcronym": "cde"
+                    },
+                    {
+                        "cityName": "郴州",
+                        "cityCode": "1504",
+                        "cityLetter": "chenzhou",
+                        "cityAcronym": "czh"
+                    },
+                    {
+                        "cityName": "嵊州市",
+                        "cityCode": "40804",
+                        "cityLetter": "shengzhoushi",
+                        "cityAcronym": "chzhoush"
+                    },
+                    {
+                        "cityName": "朝阳",
+                        "cityCode": "1905",
+                        "cityLetter": "chaoyang",
+                        "cityAcronym": "chaoy"
+                    },
+                    {
+                        "cityName": "岑溪市",
+                        "cityCode": "41797",
+                        "cityLetter": "cenxishi",
+                        "cityAcronym": "cenx"
+                    },
+                    {
+                        "cityName": "长乐市",
+                        "cityCode": "40955",
+                        "cityLetter": "changleshi",
+                        "cityAcronym": "changle"
+                    },
+                    {
+                        "cityName": "长兴县",
+                        "cityCode": "40799",
+                        "cityLetter": "changxingxian",
+                        "cityAcronym": "changxing"
+                    },
+                    {
+                        "cityName": "慈溪市",
+                        "cityCode": "40781",
+                        "cityLetter": "cixishi",
+                        "cityAcronym": "cixish"
+                    },
+                    {
+                        "cityName": "常熟",
+                        "cityCode": "1637",
+                        "cityLetter": "changshu",
+                        "cityAcronym": "chs"
+                    },
+                    {
+                        "cityName": "昌都",
+                        "cityCode": "3204",
+                        "cityLetter": "changdu",
+                        "cityAcronym": "chdu"
+                    },
+                    {
+                        "cityName": "长海县",
+                        "cityCode": "40414",
+                        "cityLetter": "changhaixian",
+                        "cityAcronym": "chh"
+                    }
+                ]
+            },
+            {
+                "tagName": "D",
+                "cities": [
+                    {
+                        "cityName": "大连",
+                        "cityCode": "1906",
+                        "cityLetter": "dalian",
+                        "cityAcronym": "dl"
+                    },
+                    {
+                        "cityName": "大庆",
+                        "cityCode": "1104",
+                        "cityLetter": "daqing",
+                        "cityAcronym": "dq"
+                    },
+                    {
+                        "cityName": "大同",
+                        "cityCode": "2604",
+                        "cityLetter": "datong",
+                        "cityAcronym": "dt"
+                    },
+                    {
+                        "cityName": "东莞",
+                        "cityCode": "606",
+                        "cityLetter": "dongguan",
+                        "cityAcronym": "dg"
+                    },
+                    {
+                        "cityName": "丹东",
+                        "cityCode": "1907",
+                        "cityLetter": "dandong",
+                        "cityAcronym": "dd"
+                    },
+                    {
+                        "cityName": "东营",
+                        "cityCode": "2406",
+                        "cityLetter": "dongying",
+                        "cityAcronym": "dy"
+                    },
+                    {
+                        "cityName": "达州",
+                        "cityCode": "2804",
+                        "cityLetter": "dazhou",
+                        "cityAcronym": "daz"
+                    },
+                    {
+                        "cityName": "德阳",
+                        "cityCode": "2805",
+                        "cityLetter": "deyang",
+                        "cityAcronym": "dey"
+                    },
+                    {
+                        "cityName": "大理",
+                        "cityCode": "3306",
+                        "cityLetter": "dali",
+                        "cityAcronym": "dlz"
+                    },
+                    {
+                        "cityName": "东阳市",
+                        "cityCode": "40811",
+                        "cityLetter": "dongyangshi",
+                        "cityAcronym": "dongyangsh"
+                    },
+                    {
+                        "cityName": "东方市",
+                        "cityCode": "911",
+                        "cityLetter": "dongfangshi",
+                        "cityAcronym": "dongf"
+                    },
+                    {
+                        "cityName": "东兴市",
+                        "cityCode": "41805",
+                        "cityLetter": "dongxingshi",
+                        "cityAcronym": "dongx"
+                    },
+                    {
+                        "cityName": "德兴市",
+                        "cityCode": "41121",
+                        "cityLetter": "dexingshi",
+                        "cityAcronym": "dexing"
+                    },
+                    {
+                        "cityName": "德清县",
+                        "cityCode": "3432",
+                        "cityLetter": "deqingxian",
+                        "cityAcronym": "deqin"
+                    },
+                    {
+                        "cityName": "丹阳市",
+                        "cityCode": "1645",
+                        "cityLetter": "danyangshi",
+                        "cityAcronym": "danyang"
+                    },
+                    {
+                        "cityName": "大丰市",
+                        "cityCode": "40746",
+                        "cityLetter": "dafengqu",
+                        "cityAcronym": "dafsh"
+                    },
+                    {
+                        "cityName": "东台市",
+                        "cityCode": "40745",
+                        "cityLetter": "dongtaishi",
+                        "cityAcronym": "dongtsh"
+                    },
+                    {
+                        "cityName": "定州市",
+                        "cityCode": "40108",
+                        "cityLetter": "dingzhoushi",
+                        "cityAcronym": "dzhsh"
+                    },
+                    {
+                        "cityName": "敦煌市",
+                        "cityCode": "505",
+                        "cityLetter": "dunhuangshi",
+                        "cityAcronym": "dh"
+                    },
+                    {
+                        "cityName": "大兴安岭",
+                        "cityCode": "1105",
+                        "cityLetter": "daxinganling",
+                        "cityAcronym": "dxal"
+                    },
+                    {
+                        "cityName": "德宏",
+                        "cityCode": "3314",
+                        "cityLetter": "dehong",
+                        "cityAcronym": "dehong"
+                    },
+                    {
+                        "cityName": "稻城县",
+                        "cityCode": "42031",
+                        "cityLetter": "daochengxian",
+                        "cityAcronym": "dch"
+                    }
+                ]
+            },
+            {
+                "tagName": "E",
+                "cities": [
+                    {
+                        "cityName": "鄂尔多斯",
+                        "cityCode": "2106",
+                        "cityLetter": "eerduosi",
+                        "cityAcronym": "eeds"
+                    },
+                    {
+                        "cityName": "恩施",
+                        "cityCode": "1403",
+                        "cityLetter": "enshi",
+                        "cityAcronym": "es"
+                    },
+                    {
+                        "cityName": "恩平市",
+                        "cityCode": "41680",
+                        "cityLetter": "enpingshi",
+                        "cityAcronym": "enp"
+                    },
+                    {
+                        "cityName": "额尔古纳市",
+                        "cityCode": "40353",
+                        "cityLetter": "eergunashi",
+                        "cityAcronym": "eegn"
+                    },
+                    {
+                        "cityName": "额济纳旗",
+                        "cityCode": "40394",
+                        "cityLetter": "ejinaqi",
+                        "cityAcronym": "ejnq"
+                    },
+                    {
+                        "cityName": "二连浩特市",
+                        "cityCode": "40379",
+                        "cityLetter": "erlianhaoteshi",
+                        "cityAcronym": "elht"
+                    }
+                ]
+            },
+            {
+                "tagName": "F",
+                "cities": [
+                    {
+                        "cityName": "福州",
+                        "cityCode": "402",
+                        "cityLetter": "fuzhou",
+                        "cityAcronym": "fz"
+                    },
+                    {
+                        "cityName": "佛山",
+                        "cityCode": "607",
+                        "cityLetter": "foshan",
+                        "cityAcronym": "fs"
+                    },
+                    {
+                        "cityName": "阜阳",
+                        "cityCode": "108",
+                        "cityLetter": "fuyang",
+                        "cityAcronym": "fy"
+                    },
+                    {
+                        "cityName": "抚顺",
+                        "cityCode": "1908",
+                        "cityLetter": "fushun",
+                        "cityAcronym": "fus"
+                    },
+                    {
+                        "cityName": "福鼎市",
+                        "cityCode": "41026",
+                        "cityLetter": "fudingshi",
+                        "cityAcronym": "fuding"
+                    },
+                    {
+                        "cityName": "阜新",
+                        "cityCode": "1909",
+                        "cityLetter": "fuxin",
+                        "cityAcronym": "fx"
+                    },
+                    {
+                        "cityName": "福安市",
+                        "cityCode": "41025",
+                        "cityLetter": "fuanshi",
+                        "cityAcronym": "fuan"
+                    },
+                    {
+                        "cityName": "福清市",
+                        "cityCode": "40954",
+                        "cityLetter": "fuqingshi",
+                        "cityAcronym": "fuqing"
+                    },
+                    {
+                        "cityName": "丰城市",
+                        "cityCode": "1716",
+                        "cityLetter": "fengchengshi",
+                        "cityAcronym": "fengcheng"
+                    },
+                    {
+                        "cityName": "奉化市",
+                        "cityCode": "3438",
+                        "cityLetter": "fenghuashi",
+                        "cityAcronym": "fenghuash"
+                    },
+                    {
+                        "cityName": "富阳区",
+                        "cityCode": "3433",
+                        "cityLetter": "fuyangqu",
+                        "cityAcronym": "fuyangsh"
+                    },
+                    {
+                        "cityName": "丰镇市",
+                        "cityCode": "40372",
+                        "cityLetter": "fengzhenshi",
+                        "cityAcronym": "fzs"
+                    },
+                    {
+                        "cityName": "抚远县",
+                        "cityCode": "40645",
+                        "cityLetter": "fuyuanshi",
+                        "cityAcronym": "fyuan"
+                    }
+                ]
+            },
+            {
+                "tagName": "G",
+                "cities": [
+                    {
+                        "cityName": "广州",
+                        "cityCode": "602",
+                        "cityLetter": "guangzhou",
+                        "cityAcronym": "gz"
+                    },
+                    {
+                        "cityName": "贵阳",
+                        "cityCode": "802",
+                        "cityLetter": "guiyang",
+                        "cityAcronym": "gy"
+                    },
+                    {
+                        "cityName": "桂林",
+                        "cityCode": "705",
+                        "cityLetter": "guilin",
+                        "cityAcronym": "gl"
+                    },
+                    {
+                        "cityName": "赣州",
+                        "cityCode": "1704",
+                        "cityLetter": "ganzhou",
+                        "cityAcronym": "gaz"
+                    },
+                    {
+                        "cityName": "广元",
+                        "cityCode": "2810",
+                        "cityLetter": "guangyuan",
+                        "cityAcronym": "gyu"
+                    },
+                    {
+                        "cityName": "桂平市",
+                        "cityCode": "41814",
+                        "cityLetter": "guipingshi",
+                        "cityAcronym": "guip"
+                    },
+                    {
+                        "cityName": "高州市",
+                        "cityCode": "41693",
+                        "cityLetter": "gaozhoushi",
+                        "cityAcronym": "gaoz"
+                    },
+                    {
+                        "cityName": "南雄市",
+                        "cityCode": "41652",
+                        "cityLetter": "nanxiongshi",
+                        "cityAcronym": "gaox"
+                    },
+                    {
+                        "cityName": "贵溪市",
+                        "cityCode": "41060",
+                        "cityLetter": "guixishi",
+                        "cityAcronym": "guixi"
+                    },
+                    {
+                        "cityName": "高安市",
+                        "cityCode": "41099",
+                        "cityLetter": "gaoanshi",
+                        "cityAcronym": "gaoan"
+                    },
+                    {
+                        "cityName": "根河市",
+                        "cityCode": "40354",
+                        "cityLetter": "genheshi",
+                        "cityAcronym": "ghe"
+                    },
+                    {
+                        "cityName": "高邮市",
+                        "cityCode": "40751",
+                        "cityLetter": "gaoyoushi",
+                        "cityAcronym": "gaoysh"
+                    },
+                    {
+                        "cityName": "高碑店市",
+                        "cityCode": "40110",
+                        "cityLetter": "gaobeidianshi",
+                        "cityAcronym": "gbdsh"
+                    },
+                    {
+                        "cityName": "藁城市",
+                        "cityCode": "40023",
+                        "cityLetter": "gaochengqu",
+                        "cityAcronym": "gchsh"
+                    },
+                    {
+                        "cityName": "格尔木市",
+                        "cityCode": "42571",
+                        "cityLetter": "geermushi",
+                        "cityAcronym": "gem"
+                    },
+                    {
+                        "cityName": "固原",
+                        "cityCode": "2203",
+                        "cityLetter": "guyuan",
+                        "cityAcronym": "guyu"
+                    },
+                    {
+                        "cityName": "甘南",
+                        "cityCode": "506",
+                        "cityLetter": "gannan",
+                        "cityAcronym": "gn"
+                    },
+                    {
+                        "cityName": "甘孜",
+                        "cityCode": "2812",
+                        "cityLetter": "ganzi",
+                        "cityAcronym": "gzi"
+                    }
+                ]
+            },
+            {
+                "tagName": "H",
+                "cities": [
+                    {
+                        "cityName": "杭州",
+                        "cityCode": "3402",
+                        "cityLetter": "hangzhou",
+                        "cityAcronym": "hz"
+                    },
+                    {
+                        "cityName": "合肥",
+                        "cityCode": "102",
+                        "cityLetter": "hefei",
+                        "cityAcronym": "hf"
+                    },
+                    {
+                        "cityName": "海口",
+                        "cityCode": "902",
+                        "cityLetter": "haikou",
+                        "cityAcronym": "hk"
+                    },
+                    {
+                        "cityName": "哈尔滨",
+                        "cityCode": "1102",
+                        "cityLetter": "haerbin",
+                        "cityAcronym": "heb"
+                    },
+                    {
+                        "cityName": "呼和浩特",
+                        "cityCode": "2102",
+                        "cityLetter": "huhehaote",
+                        "cityAcronym": "hhht"
+                    },
+                    {
+                        "cityName": "惠州",
+                        "cityCode": "609",
+                        "cityLetter": "huizhou",
+                        "cityAcronym": "hzh"
+                    },
+                    {
+                        "cityName": "衡阳",
+                        "cityCode": "1505",
+                        "cityLetter": "hengyang",
+                        "cityAcronym": "hy"
+                    },
+                    {
+                        "cityName": "淮南",
+                        "cityCode": "112",
+                        "cityLetter": "huainan",
+                        "cityAcronym": "hn"
+                    },
+                    {
+                        "cityName": "淮安",
+                        "cityCode": "1606",
+                        "cityLetter": "huaian",
+                        "cityAcronym": "ha"
+                    },
+                    {
+                        "cityName": "湖州",
+                        "cityCode": "3409",
+                        "cityLetter": "huzhou",
+                        "cityAcronym": "huz"
+                    },
+                    {
+                        "cityName": "黄山",
+                        "cityCode": "113",
+                        "cityLetter": "huangshan",
+                        "cityAcronym": "hsh"
+                    },
+                    {
+                        "cityName": "邯郸",
+                        "cityCode": "1008",
+                        "cityLetter": "handan",
+                        "cityAcronym": "hd"
+                    },
+                    {
+                        "cityName": "菏泽",
+                        "cityCode": "2407",
+                        "cityLetter": "heze",
+                        "cityAcronym": "hze"
+                    },
+                    {
+                        "cityName": "汉中",
+                        "cityCode": "2705",
+                        "cityLetter": "hanzhong",
+                        "cityAcronym": "haz"
+                    },
+                    {
+                        "cityName": "黄冈",
+                        "cityCode": "1405",
+                        "cityLetter": "huanggang",
+                        "cityAcronym": "hg"
+                    },
+                    {
+                        "cityName": "黄石",
+                        "cityCode": "1406",
+                        "cityLetter": "huangshi",
+                        "cityAcronym": "hshi"
+                    },
+                    {
+                        "cityName": "怀化",
+                        "cityCode": "1506",
+                        "cityLetter": "huaihua",
+                        "cityAcronym": "hh"
+                    },
+                    {
+                        "cityName": "葫芦岛",
+                        "cityCode": "1910",
+                        "cityLetter": "huludao",
+                        "cityAcronym": "hld"
+                    },
+                    {
+                        "cityName": "合山市",
+                        "cityCode": "41853",
+                        "cityLetter": "heshanshi",
+                        "cityAcronym": "heshan"
+                    },
+                    {
+                        "cityName": "化州市",
+                        "cityCode": "41694",
+                        "cityLetter": "huazhoushi",
+                        "cityAcronym": "huaz"
+                    },
+                    {
+                        "cityName": "鹤山市",
+                        "cityCode": "41679",
+                        "cityLetter": "heshanshi",
+                        "cityAcronym": "hess"
+                    },
+                    {
+                        "cityName": "海宁市",
+                        "cityCode": "40796",
+                        "cityLetter": "hainingshi",
+                        "cityAcronym": "hainingsh"
+                    },
+                    {
+                        "cityName": "霍州市",
+                        "cityCode": "40279",
+                        "cityLetter": "huozhoushi",
+                        "cityAcronym": "huozs"
+                    },
+                    {
+                        "cityName": "侯马市",
+                        "cityCode": "40278",
+                        "cityLetter": "houmashi",
+                        "cityAcronym": "hms"
+                    },
+                    {
+                        "cityName": "霍林郭勒市",
+                        "cityCode": "40333",
+                        "cityLetter": "huolinguoleshi",
+                        "cityAcronym": "hlgle"
+                    },
+                    {
+                        "cityName": "海门市",
+                        "cityCode": "1605",
+                        "cityLetter": "haimenshi",
+                        "cityAcronym": "haimsh"
+                    },
+                    {
+                        "cityName": "河间市",
+                        "cityCode": "40154",
+                        "cityLetter": "hejianshi",
+                        "cityAcronym": "hjsh"
+                    },
+                    {
+                        "cityName": "黄骅市",
+                        "cityCode": "40153",
+                        "cityLetter": "huanghuashi",
+                        "cityAcronym": "hhsh"
+                    },
+                    {
+                        "cityName": "哈密",
+                        "cityCode": "3109",
+                        "cityLetter": "hami",
+                        "cityAcronym": "hm"
+                    },
+                    {
+                        "cityName": "和田",
+                        "cityCode": "3110",
+                        "cityLetter": "hetian",
+                        "cityAcronym": "ht"
+                    },
+                    {
+                        "cityName": "海西",
+                        "cityCode": "2303",
+                        "cityLetter": "haixi",
+                        "cityAcronym": "hx"
+                    },
+                    {
+                        "cityName": "海拉尔区",
+                        "cityCode": "40342",
+                        "cityLetter": "hailaerqu",
+                        "cityAcronym": "hle"
+                    },
+                    {
+                        "cityName": "黑河",
+                        "cityCode": "1107",
+                        "cityLetter": "heihe",
+                        "cityAcronym": "hhe"
+                    },
+                    {
+                        "cityName": "河池",
+                        "cityCode": "707",
+                        "cityLetter": "hechi",
+                        "cityAcronym": "hch"
+                    }
+                ]
+            },
+            {
+                "tagName": "J",
+                "cities": [
+                    {
+                        "cityName": "济南",
+                        "cityCode": "2402",
+                        "cityLetter": "jinan",
+                        "cityAcronym": "jn"
+                    },
+                    {
+                        "cityName": "金华",
+                        "cityCode": "3411",
+                        "cityLetter": "jinhua",
+                        "cityAcronym": "jh"
+                    },
+                    {
+                        "cityName": "吉林",
+                        "cityCode": "1808",
+                        "cityLetter": "jilin",
+                        "cityAcronym": "jl"
+                    },
+                    {
+                        "cityName": "锦州",
+                        "cityCode": "1911",
+                        "cityLetter": "jinzhou",
+                        "cityAcronym": "jiz"
+                    },
+                    {
+                        "cityName": "嘉兴",
+                        "cityCode": "3410",
+                        "cityLetter": "jiaxing",
+                        "cityAcronym": "jx"
+                    },
+                    {
+                        "cityName": "江门",
+                        "cityCode": "610",
+                        "cityLetter": "jiangmen",
+                        "cityAcronym": "jm"
+                    },
+                    {
+                        "cityName": "揭阳",
+                        "cityCode": "611",
+                        "cityLetter": "jieyang",
+                        "cityAcronym": "jy"
+                    },
+                    {
+                        "cityName": "嘉峪关",
+                        "cityCode": "516",
+                        "cityLetter": "jiayuguan",
+                        "cityAcronym": "jyg"
+                    },
+                    {
+                        "cityName": "九江",
+                        "cityCode": "1708",
+                        "cityLetter": "jiujiang",
+                        "cityAcronym": "jj"
+                    },
+                    {
+                        "cityName": "济宁",
+                        "cityCode": "2408",
+                        "cityLetter": "jining",
+                        "cityAcronym": "jin"
+                    },
+                    {
+                        "cityName": "晋城",
+                        "cityCode": "2606",
+                        "cityLetter": "jincheng",
+                        "cityAcronym": "jc"
+                    },
+                    {
+                        "cityName": "焦作",
+                        "cityCode": "1206",
+                        "cityLetter": "jiaozuo",
+                        "cityAcronym": "jz"
+                    },
+                    {
+                        "cityName": "荆州",
+                        "cityCode": "1408",
+                        "cityLetter": "jingzhou",
+                        "cityAcronym": "jzh"
+                    },
+                    {
+                        "cityName": "吉安",
+                        "cityCode": "1705",
+                        "cityLetter": "jian",
+                        "cityAcronym": "ja"
+                    },
+                    {
+                        "cityName": "景德镇",
+                        "cityCode": "1706",
+                        "cityLetter": "jingdezhen",
+                        "cityAcronym": "jdz"
+                    },
+                    {
+                        "cityName": "江山市",
+                        "cityCode": "3420",
+                        "cityLetter": "jiangshanshi",
+                        "cityAcronym": "jiangshsh"
+                    },
+                    {
+                        "cityName": "佳木斯",
+                        "cityCode": "1108",
+                        "cityLetter": "jiamusi",
+                        "cityAcronym": "jms"
+                    },
+                    {
+                        "cityName": "建瓯市",
+                        "cityCode": "41009",
+                        "cityLetter": "jianoushi",
+                        "cityAcronym": "jianou"
+                    },
+                    {
+                        "cityName": "晋江市",
+                        "cityCode": "40989",
+                        "cityLetter": "jinjiangshi",
+                        "cityAcronym": "jinjiang"
+                    },
+                    {
+                        "cityName": "界首市",
+                        "cityCode": "40910",
+                        "cityLetter": "jieshoushi",
+                        "cityAcronym": "jieshou"
+                    },
+                    {
+                        "cityName": "江阴",
+                        "cityCode": "1640",
+                        "cityLetter": "jiangyinshi",
+                        "cityAcronym": "jyin"
+                    },
+                    {
+                        "cityName": "嘉善县",
+                        "cityCode": "3434",
+                        "cityLetter": "jiashanxian",
+                        "cityAcronym": "jiashanx"
+                    },
+                    {
+                        "cityName": "建德市",
+                        "cityCode": "40773",
+                        "cityLetter": "jiandeshi",
+                        "cityAcronym": "jiandesh"
+                    },
+                    {
+                        "cityName": "靖江市",
+                        "cityCode": "1635",
+                        "cityLetter": "jingjiangshi",
+                        "cityAcronym": "jjiangshi"
+                    },
+                    {
+                        "cityName": "句容市",
+                        "cityCode": "40756",
+                        "cityLetter": "jurongshi",
+                        "cityAcronym": "jurongsh"
+                    },
+                    {
+                        "cityName": "金坛市",
+                        "cityCode": "1636",
+                        "cityLetter": "jintanqu",
+                        "cityAcronym": "jintanshi"
+                    },
+                    {
+                        "cityName": "冀州市",
+                        "cityCode": "40173",
+                        "cityLetter": "jizhoushi",
+                        "cityAcronym": "jizsh"
+                    },
+                    {
+                        "cityName": "晋州市",
+                        "cityCode": "40024",
+                        "cityLetter": "jinzhoushi",
+                        "cityAcronym": "jizhsh"
+                    },
+                    {
+                        "cityName": "金昌",
+                        "cityCode": "507",
+                        "cityLetter": "jinchang",
+                        "cityAcronym": "jch"
+                    },
+                    {
+                        "cityName": "鸡西",
+                        "cityCode": "1109",
+                        "cityLetter": "jixi",
+                        "cityAcronym": "jix"
+                    },
+                    {
+                        "cityName": "九寨沟县",
+                        "cityCode": "2811",
+                        "cityLetter": "jiuzhaigouxian",
+                        "cityAcronym": "jzhg"
+                    },
+                    {
+                        "cityName": "井冈山市",
+                        "cityCode": "1707",
+                        "cityLetter": "jinggangshanshi",
+                        "cityAcronym": "jgs"
+                    }
+                ]
+            },
+            {
+                "tagName": "K",
+                "cities": [
+                    {
+                        "cityName": "昆明",
+                        "cityCode": "3302",
+                        "cityLetter": "kunming",
+                        "cityAcronym": "km"
+                    },
+                    {
+                        "cityName": "克拉玛依",
+                        "cityCode": "3112",
+                        "cityLetter": "kelamayi",
+                        "cityAcronym": "klmy"
+                    },
+                    {
+                        "cityName": "开平市",
+                        "cityCode": "41678",
+                        "cityLetter": "kaipingshi",
+                        "cityAcronym": "kaip"
+                    },
+                    {
+                        "cityName": "库车县",
+                        "cityCode": "42639",
+                        "cityLetter": "kuchexian",
+                        "cityAcronym": "kch"
+                    },
+                    {
+                        "cityName": "库尔勒市",
+                        "cityCode": "42628",
+                        "cityLetter": "kuerleshi",
+                        "cityAcronym": "kel"
+                    },
+                    {
+                        "cityName": "喀什",
+                        "cityCode": "3111",
+                        "cityLetter": "kashi",
+                        "cityAcronym": "kash"
+                    },
+                    {
+                        "cityName": "凯里市",
+                        "cityCode": "42111",
+                        "cityLetter": "kailishi",
+                        "cityAcronym": "kl"
+                    },
+                    {
+                        "cityName": "昆山市",
+                        "cityCode": "1631",
+                        "cityLetter": "kunshanshi",
+                        "cityAcronym": "ksh"
+                    }
+                ]
+            },
+            {
+                "tagName": "L",
+                "cities": [
+                    {
+                        "cityName": "洛阳",
+                        "cityCode": "1210",
+                        "cityLetter": "luoyang",
+                        "cityAcronym": "luy"
+                    },
+                    {
+                        "cityName": "兰州",
+                        "cityCode": "502",
+                        "cityLetter": "lanzhou",
+                        "cityAcronym": "lz"
+                    },
+                    {
+                        "cityName": "柳州",
+                        "cityCode": "709",
+                        "cityLetter": "liuzhou",
+                        "cityAcronym": "lzhou"
+                    },
+                    {
+                        "cityName": "六盘水",
+                        "cityCode": "807",
+                        "cityLetter": "liupanshui",
+                        "cityAcronym": "lps"
+                    },
+                    {
+                        "cityName": "丽江",
+                        "cityCode": "3312",
+                        "cityLetter": "lijiang",
+                        "cityAcronym": "lj"
+                    },
+                    {
+                        "cityName": "辽阳",
+                        "cityCode": "1912",
+                        "cityLetter": "liaoyang",
+                        "cityAcronym": "liay"
+                    },
+                    {
+                        "cityName": "吕梁",
+                        "cityCode": "2607",
+                        "cityLetter": "luliang",
+                        "cityAcronym": "ll"
+                    },
+                    {
+                        "cityName": "连云港",
+                        "cityCode": "1610",
+                        "cityLetter": "lianyungang",
+                        "cityAcronym": "lyg"
+                    },
+                    {
+                        "cityName": "临沂",
+                        "cityCode": "2411",
+                        "cityLetter": "linyi",
+                        "cityAcronym": "ly"
+                    },
+                    {
+                        "cityName": "龙岩",
+                        "cityCode": "404",
+                        "cityLetter": "longyan",
+                        "cityAcronym": "lya"
+                    },
+                    {
+                        "cityName": "聊城",
+                        "cityCode": "2410",
+                        "cityLetter": "liaocheng",
+                        "cityAcronym": "lc"
+                    },
+                    {
+                        "cityName": "丽水",
+                        "cityCode": "3414",
+                        "cityLetter": "lishui",
+                        "cityAcronym": "ls"
+                    },
+                    {
+                        "cityName": "临汾",
+                        "cityCode": "2608",
+                        "cityLetter": "linfen",
+                        "cityAcronym": "lf"
+                    },
+                    {
+                        "cityName": "泸州",
+                        "cityCode": "2814",
+                        "cityLetter": "luzhou",
+                        "cityAcronym": "luz"
+                    },
+                    {
+                        "cityName": "乐山",
+                        "cityCode": "2813",
+                        "cityLetter": "leshan",
+                        "cityAcronym": "les"
+                    },
+                    {
+                        "cityName": "拉萨",
+                        "cityCode": "3202",
+                        "cityLetter": "lasa",
+                        "cityAcronym": "las"
+                    },
+                    {
+                        "cityName": "临海市",
+                        "cityCode": "3413",
+                        "cityLetter": "linhaishi",
+                        "cityAcronym": "linhaish"
+                    },
+                    {
+                        "cityName": "兰溪市",
+                        "cityCode": "40809",
+                        "cityLetter": "lanxishi",
+                        "cityAcronym": "lanxish"
+                    },
+                    {
+                        "cityName": "罗定市",
+                        "cityCode": "41753",
+                        "cityLetter": "luodingshi",
+                        "cityAcronym": "luod"
+                    },
+                    {
+                        "cityName": "连州市",
+                        "cityCode": "41738",
+                        "cityLetter": "lianzhoushi",
+                        "cityAcronym": "lianz"
+                    },
+                    {
+                        "cityName": "陆丰市",
+                        "cityCode": "41720",
+                        "cityLetter": "lufengshi",
+                        "cityAcronym": "luf"
+                    },
+                    {
+                        "cityName": "雷州市",
+                        "cityCode": "41688",
+                        "cityLetter": "leizhoushi",
+                        "cityAcronym": "leizhou"
+                    },
+                    {
+                        "cityName": "龙海市",
+                        "cityCode": "41001",
+                        "cityLetter": "longhaishi",
+                        "cityAcronym": "longhai"
+                    },
+                    {
+                        "cityName": "乐平市",
+                        "cityCode": "41039",
+                        "cityLetter": "lepingshi",
+                        "cityAcronym": "leping"
+                    },
+                    {
+                        "cityName": "龙泉市",
+                        "cityCode": "40838",
+                        "cityLetter": "longquanshi",
+                        "cityAcronym": "longquan"
+                    },
+                    {
+                        "cityName": "乐清市",
+                        "cityCode": "40792",
+                        "cityLetter": "leqingshi",
+                        "cityAcronym": "leqingsh"
+                    },
+                    {
+                        "cityName": "临安市",
+                        "cityCode": "3430",
+                        "cityLetter": "linanshi",
+                        "cityAcronym": "linansh"
+                    },
+                    {
+                        "cityName": "溧阳市",
+                        "cityCode": "1630",
+                        "cityLetter": "liyangshi",
+                        "cityAcronym": "lyangshi"
+                    },
+                    {
+                        "cityName": "鹿泉区",
+                        "cityCode": "40026",
+                        "cityLetter": "luquanqu",
+                        "cityAcronym": "lqsh"
+                    },
+                    {
+                        "cityName": "林芝",
+                        "cityCode": "3205",
+                        "cityLetter": "linzhi",
+                        "cityAcronym": "linz"
+                    },
+                    {
+                        "cityName": "临沧",
+                        "cityCode": "3311",
+                        "cityLetter": "lincang",
+                        "cityAcronym": "linc"
+                    }
+                ]
+            },
+            {
+                "tagName": "M",
+                "cities": [
+                    {
+                        "cityName": "绵阳",
+                        "cityCode": "2816",
+                        "cityLetter": "mianyang",
+                        "cityAcronym": "my"
+                    },
+                    {
+                        "cityName": "牡丹江",
+                        "cityCode": "1110",
+                        "cityLetter": "mudanjiang",
+                        "cityAcronym": "mdj"
+                    },
+                    {
+                        "cityName": "马鞍山",
+                        "cityCode": "116",
+                        "cityLetter": "maanshan",
+                        "cityAcronym": "mas"
+                    },
+                    {
+                        "cityName": "梅州",
+                        "cityCode": "614",
+                        "cityLetter": "meizhou",
+                        "cityAcronym": "mz"
+                    },
+                    {
+                        "cityName": "明光市",
+                        "cityCode": "40902",
+                        "cityLetter": "mingguangshi",
+                        "cityAcronym": "mingguang"
+                    },
+                    {
+                        "cityName": "满洲里市",
+                        "cityCode": "40350",
+                        "cityLetter": "manzhoulishi",
+                        "cityAcronym": "mzl"
+                    },
+                    {
+                        "cityName": "漠河县",
+                        "cityCode": "40679",
+                        "cityLetter": "mohexian",
+                        "cityAcronym": "mh"
+                    }
+                ]
+            },
+            {
+                "tagName": "N",
+                "cities": [
+                    {
+                        "cityName": "南京",
+                        "cityCode": "1602",
+                        "cityLetter": "nanjing",
+                        "cityAcronym": "nj"
+                    },
+                    {
+                        "cityName": "宁波",
+                        "cityCode": "3415",
+                        "cityLetter": "ningbo",
+                        "cityAcronym": "nb"
+                    },
+                    {
+                        "cityName": "南宁",
+                        "cityCode": "702",
+                        "cityLetter": "nanning",
+                        "cityAcronym": "nn"
+                    },
+                    {
+                        "cityName": "南昌",
+                        "cityCode": "1702",
+                        "cityLetter": "nanchang",
+                        "cityAcronym": "nc"
+                    },
+                    {
+                        "cityName": "南阳",
+                        "cityCode": "1211",
+                        "cityLetter": "nanyang",
+                        "cityAcronym": "ny"
+                    },
+                    {
+                        "cityName": "南通",
+                        "cityCode": "1611",
+                        "cityLetter": "nantong",
+                        "cityAcronym": "nt"
+                    },
+                    {
+                        "cityName": "宁德",
+                        "cityCode": "406",
+                        "cityLetter": "ningde",
+                        "cityAcronym": "nd"
+                    },
+                    {
+                        "cityName": "南充",
+                        "cityCode": "2818",
+                        "cityLetter": "nanchong",
+                        "cityAcronym": "nch"
+                    },
+                    {
+                        "cityName": "南安市",
+                        "cityCode": "40990",
+                        "cityLetter": "nananshi",
+                        "cityAcronym": "nanan"
+                    },
+                    {
+                        "cityName": "宁国市",
+                        "cityCode": "40942",
+                        "cityLetter": "ningguoshi",
+                        "cityAcronym": "ningguo"
+                    },
+                    {
+                        "cityName": "宁海县",
+                        "cityCode": "3437",
+                        "cityLetter": "ninghaixian",
+                        "cityAcronym": "ninghaix"
+                    },
+                    {
+                        "cityName": "南宫市",
+                        "cityCode": "40084",
+                        "cityLetter": "nangongshi",
+                        "cityAcronym": "ngsh"
+                    }
+                ]
+            },
+            {
+                "tagName": "P",
+                "cities": [
+                    {
+                        "cityName": "盘锦",
+                        "cityCode": "1913",
+                        "cityLetter": "panjin",
+                        "cityAcronym": "pj"
+                    },
+                    {
+                        "cityName": "平顶山",
+                        "cityCode": "1212",
+                        "cityLetter": "pingdingshan",
+                        "cityAcronym": "pds"
+                    },
+                    {
+                        "cityName": "莆田",
+                        "cityCode": "407",
+                        "cityLetter": "putian",
+                        "cityAcronym": "pt"
+                    },
+                    {
+                        "cityName": "攀枝花",
+                        "cityCode": "2820",
+                        "cityLetter": "panzhihua",
+                        "cityAcronym": "pzh"
+                    },
+                    {
+                        "cityName": "凭祥市",
+                        "cityCode": "41860",
+                        "cityLetter": "pingxiangshi",
+                        "cityAcronym": "px"
+                    },
+                    {
+                        "cityName": "普宁市",
+                        "cityCode": "41748",
+                        "cityLetter": "puningshi",
+                        "cityAcronym": "pun"
+                    },
+                    {
+                        "cityName": "平湖市",
+                        "cityCode": "3436",
+                        "cityLetter": "pinghushi",
+                        "cityAcronym": "pinghush"
+                    },
+                    {
+                        "cityName": "邳州市",
+                        "cityCode": "40709",
+                        "cityLetter": "pizhoushi",
+                        "cityAcronym": "pizhsh"
+                    }
+                ]
+            },
+            {
+                "tagName": "Q",
+                "cities": [
+                    {
+                        "cityName": "泉州",
+                        "cityCode": "408",
+                        "cityLetter": "quanzhou",
+                        "cityAcronym": "qz"
+                    },
+                    {
+                        "cityName": "青岛",
+                        "cityCode": "2413",
+                        "cityLetter": "qingdao",
+                        "cityAcronym": "qd"
+                    },
+                    {
+                        "cityName": "齐齐哈尔",
+                        "cityCode": "1111",
+                        "cityLetter": "qiqihaer",
+                        "cityAcronym": "qqhe"
+                    },
+                    {
+                        "cityName": "秦皇岛",
+                        "cityCode": "1012",
+                        "cityLetter": "qinhuangdao",
+                        "cityAcronym": "qhd"
+                    },
+                    {
+                        "cityName": "衢州",
+                        "cityCode": "3419",
+                        "cityLetter": "quzhou",
+                        "cityAcronym": "quzh"
+                    },
+                    {
+                        "cityName": "曲靖",
+                        "cityCode": "3315",
+                        "cityLetter": "qujing",
+                        "cityAcronym": "qjing"
+                    },
+                    {
+                        "cityName": "钦州",
+                        "cityCode": "710",
+                        "cityLetter": "qinzhou",
+                        "cityAcronym": "qzh"
+                    },
+                    {
+                        "cityName": "琼海市",
+                        "cityCode": "905",
+                        "cityLetter": "qionghaishi",
+                        "cityAcronym": "qiongh"
+                    },
+                    {
+                        "cityName": "庆阳",
+                        "cityCode": "514",
+                        "cityLetter": "qingyang",
+                        "cityAcronym": "qyang"
+                    },
+                    {
+                        "cityName": "启东市",
+                        "cityCode": "1644",
+                        "cityLetter": "qidongshi",
+                        "cityAcronym": "qidsh"
+                    },
+                    {
+                        "cityName": "迁安市",
+                        "cityCode": "40040",
+                        "cityLetter": "qiananshi",
+                        "cityAcronym": "qash"
+                    },
+                    {
+                        "cityName": "且末县",
+                        "cityCode": "42632",
+                        "cityLetter": "qiemoxian",
+                        "cityAcronym": "qm"
+                    }
+                ]
+            },
+            {
+                "tagName": "R",
+                "cities": [
+                    {
+                        "cityName": "日照",
+                        "cityCode": "2415",
+                        "cityLetter": "rizhao",
+                        "cityAcronym": "rz"
+                    },
+                    {
+                        "cityName": "瑞金市",
+                        "cityCode": "41077",
+                        "cityLetter": "ruijinshi",
+                        "cityAcronym": "ruijin"
+                    },
+                    {
+                        "cityName": "瑞昌市",
+                        "cityCode": "41055",
+                        "cityLetter": "ruichangshi",
+                        "cityAcronym": "ruichang"
+                    },
+                    {
+                        "cityName": "瑞安市",
+                        "cityCode": "40791",
+                        "cityLetter": "ruianshi",
+                        "cityAcronym": "ruiansh"
+                    },
+                    {
+                        "cityName": "如皋市",
+                        "cityCode": "1643",
+                        "cityLetter": "rugaoshi",
+                        "cityAcronym": "rugsh"
+                    },
+                    {
+                        "cityName": "任丘市",
+                        "cityCode": "40152",
+                        "cityLetter": "renqiushi",
+                        "cityAcronym": "rqsh"
+                    },
+                    {
+                        "cityName": "日喀则",
+                        "cityCode": "3207",
+                        "cityLetter": "rikaze",
+                        "cityAcronym": "rkz"
+                    }
+                ]
+            },
+            {
+                "tagName": "S",
+                "cities": [
+                    {
+                        "cityName": "上海",
+                        "cityCode": "2500",
+                        "cityLetter": "shanghai",
+                        "cityAcronym": "sh"
+                    },
+                    {
+                        "cityName": "苏州",
+                        "cityCode": "1615",
+                        "cityLetter": "suzhou",
+                        "cityAcronym": "sz"
+                    },
+                    {
+                        "cityName": "深圳",
+                        "cityCode": "619",
+                        "cityLetter": "shenzhen",
+                        "cityAcronym": "shz"
+                    },
+                    {
+                        "cityName": "沈阳",
+                        "cityCode": "1902",
+                        "cityLetter": "shenyang",
+                        "cityAcronym": "sy"
+                    },
+                    {
+                        "cityName": "三亚",
+                        "cityCode": "906",
+                        "cityLetter": "sanya",
+                        "cityAcronym": "sya"
+                    },
+                    {
+                        "cityName": "石家庄",
+                        "cityCode": "1002",
+                        "cityLetter": "shijiazhuang",
+                        "cityAcronym": "sjz"
+                    },
+                    {
+                        "cityName": "绍兴",
+                        "cityCode": "3422",
+                        "cityLetter": "shaoxing",
+                        "cityAcronym": "sx"
+                    },
+                    {
+                        "cityName": "松原",
+                        "cityCode": "1810",
+                        "cityLetter": "songyuan",
+                        "cityAcronym": "syu"
+                    },
+                    {
+                        "cityName": "汕头",
+                        "cityCode": "616",
+                        "cityLetter": "shantou",
+                        "cityAcronym": "st"
+                    },
+                    {
+                        "cityName": "四平",
+                        "cityCode": "1809",
+                        "cityLetter": "siping",
+                        "cityAcronym": "sp"
+                    },
+                    {
+                        "cityName": "韶关",
+                        "cityCode": "618",
+                        "cityLetter": "shaoguan",
+                        "cityAcronym": "sg"
+                    },
+                    {
+                        "cityName": "商丘",
+                        "cityCode": "1215",
+                        "cityLetter": "shangqiu",
+                        "cityAcronym": "sq"
+                    },
+                    {
+                        "cityName": "上饶",
+                        "cityCode": "1711",
+                        "cityLetter": "shangrao",
+                        "cityAcronym": "sr"
+                    },
+                    {
+                        "cityName": "上虞区",
+                        "cityCode": "40803",
+                        "cityLetter": "shangyuqu",
+                        "cityAcronym": "shangyush"
+                    },
+                    {
+                        "cityName": "四会市",
+                        "cityCode": "41703",
+                        "cityLetter": "sihuishi",
+                        "cityAcronym": "sih"
+                    },
+                    {
+                        "cityName": "邵武市",
+                        "cityCode": "41008",
+                        "cityLetter": "shaowushi",
+                        "cityAcronym": "shaowu"
+                    },
+                    {
+                        "cityName": "石狮市",
+                        "cityCode": "40988",
+                        "cityLetter": "shishishi",
+                        "cityAcronym": "shishi"
+                    },
+                    {
+                        "cityName": "随州",
+                        "cityCode": "1411",
+                        "cityLetter": "suizhou",
+                        "cityAcronym": "suiz"
+                    },
+                    {
+                        "cityName": "深州市",
+                        "cityCode": "40174",
+                        "cityLetter": "shenzhoushi",
+                        "cityAcronym": "shzhsh"
+                    },
+                    {
+                        "cityName": "三河市",
+                        "cityCode": "40163",
+                        "cityLetter": "sanheshi",
+                        "cityAcronym": "shsh"
+                    },
+                    {
+                        "cityName": "沙河市",
+                        "cityCode": "40085",
+                        "cityLetter": "shaheshi",
+                        "cityAcronym": "shhsh"
+                    },
+                    {
+                        "cityName": "思茅区",
+                        "cityCode": "42192",
+                        "cityLetter": "simaoqu",
+                        "cityAcronym": "smao"
+                    },
+                    {
+                        "cityName": "神农架",
+                        "cityCode": "1412",
+                        "cityLetter": "shennongjia",
+                        "cityAcronym": "snj"
+                    }
+                ]
+            },
+            {
+                "tagName": "T",
+                "cities": [
+                    {
+                        "cityName": "天津",
+                        "cityCode": "3000",
+                        "cityLetter": "tianjin",
+                        "cityAcronym": "tj"
+                    },
+                    {
+                        "cityName": "太原",
+                        "cityCode": "2602",
+                        "cityLetter": "taiyuan",
+                        "cityAcronym": "ty"
+                    },
+                    {
+                        "cityName": "唐山",
+                        "cityCode": "1013",
+                        "cityLetter": "tangshan",
+                        "cityAcronym": "ts"
+                    },
+                    {
+                        "cityName": "台州",
+                        "cityCode": "3424",
+                        "cityLetter": "taizhou",
+                        "cityAcronym": "tz"
+                    },
+                    {
+                        "cityName": "通辽",
+                        "cityCode": "2110",
+                        "cityLetter": "tongliao",
+                        "cityAcronym": "tli"
+                    },
+                    {
+                        "cityName": "泰州",
+                        "cityCode": "1617",
+                        "cityLetter": "taizhou",
+                        "cityAcronym": "tzh"
+                    },
+                    {
+                        "cityName": "泰安",
+                        "cityCode": "2416",
+                        "cityLetter": "taian",
+                        "cityAcronym": "ta"
+                    },
+                    {
+                        "cityName": "通化",
+                        "cityCode": "1811",
+                        "cityLetter": "tonghua",
+                        "cityAcronym": "th"
+                    },
+                    {
+                        "cityName": "台山市",
+                        "cityCode": "41677",
+                        "cityLetter": "taishanshi",
+                        "cityAcronym": "tais"
+                    },
+                    {
+                        "cityName": "天长市",
+                        "cityCode": "40901",
+                        "cityLetter": "tianchangshi",
+                        "cityAcronym": "tianchang"
+                    },
+                    {
+                        "cityName": "桐城市",
+                        "cityCode": "40888",
+                        "cityLetter": "tongchengshi",
+                        "cityAcronym": "tongcheng"
+                    },
+                    {
+                        "cityName": "桐乡市",
+                        "cityCode": "3431",
+                        "cityLetter": "tongxiangshi",
+                        "cityAcronym": "txiangsh"
+                    },
+                    {
+                        "cityName": "泰兴市",
+                        "cityCode": "1633",
+                        "cityLetter": "taixingshi",
+                        "cityAcronym": "taixingsh"
+                    },
+                    {
+                        "cityName": "天水",
+                        "cityCode": "511",
+                        "cityLetter": "tianshui",
+                        "cityAcronym": "tsh"
+                    },
+                    {
+                        "cityName": "通州市",
+                        "cityCode": "40723",
+                        "cityLetter": "tongzhouqu",
+                        "cityAcronym": "tongzhsh"
+                    },
+                    {
+                        "cityName": "太仓市",
+                        "cityCode": "1629",
+                        "cityLetter": "taicangshi",
+                        "cityAcronym": "tcsh"
+                    },
+                    {
+                        "cityName": "塔城",
+                        "cityCode": "3117",
+                        "cityLetter": "tacheng",
+                        "cityAcronym": "tch"
+                    },
+                    {
+                        "cityName": "吐鲁番",
+                        "cityCode": "3118",
+                        "cityLetter": "tulufan",
+                        "cityAcronym": "tlf"
+                    },
+                    {
+                        "cityName": "腾冲县",
+                        "cityCode": "3323",
+                        "cityLetter": "tengchongshi",
+                        "cityAcronym": "tengchong"
+                    },
+                    {
+                        "cityName": "铜仁",
+                        "cityCode": "808",
+                        "cityLetter": "tongren",
+                        "cityAcronym": "tr"
+                    }
+                ]
+            },
+            {
+                "tagName": "W",
+                "cities": [
+                    {
+                        "cityName": "武汉",
+                        "cityCode": "1402",
+                        "cityLetter": "wuhan",
+                        "cityAcronym": "wh"
+                    },
+                    {
+                        "cityName": "无锡",
+                        "cityCode": "1619",
+                        "cityLetter": "wuxi",
+                        "cityAcronym": "wx"
+                    },
+                    {
+                        "cityName": "温州",
+                        "cityCode": "3426",
+                        "cityLetter": "wenzhou",
+                        "cityAcronym": "wz"
+                    },
+                    {
+                        "cityName": "芜湖",
+                        "cityCode": "120",
+                        "cityLetter": "wuhu",
+                        "cityAcronym": "whu"
+                    },
+                    {
+                        "cityName": "梧州",
+                        "cityCode": "711",
+                        "cityLetter": "wuzhou",
+                        "cityAcronym": "wuz"
+                    },
+                    {
+                        "cityName": "乌鲁木齐",
+                        "cityCode": "3102",
+                        "cityLetter": "wulumuqi",
+                        "cityAcronym": "wlmq"
+                    },
+                    {
+                        "cityName": "潍坊",
+                        "cityCode": "2417",
+                        "cityLetter": "weifang",
+                        "cityAcronym": "wf"
+                    },
+                    {
+                        "cityName": "威海",
+                        "cityCode": "2418",
+                        "cityLetter": "weihai",
+                        "cityAcronym": "wha"
+                    },
+                    {
+                        "cityName": "渭南",
+                        "cityCode": "2706",
+                        "cityLetter": "weinan",
+                        "cityAcronym": "wn"
+                    },
+                    {
+                        "cityName": "万宁市",
+                        "cityCode": "908",
+                        "cityLetter": "wanningshi",
+                        "cityAcronym": "wann"
+                    },
+                    {
+                        "cityName": "文昌市",
+                        "cityCode": "909",
+                        "cityLetter": "wenchangshi",
+                        "cityAcronym": "wenc"
+                    },
+                    {
+                        "cityName": "五指山市",
+                        "cityCode": "910",
+                        "cityLetter": "wuzhishanshi",
+                        "cityAcronym": "wuzs"
+                    },
+                    {
+                        "cityName": "吴川市",
+                        "cityCode": "41689",
+                        "cityLetter": "wuchuanshi",
+                        "cityAcronym": "wus"
+                    },
+                    {
+                        "cityName": "武安市",
+                        "cityCode": "40066",
+                        "cityLetter": "wuanshi",
+                        "cityAcronym": "wash"
+                    },
+                    {
+                        "cityName": "温岭市",
+                        "cityCode": "40829",
+                        "cityLetter": "wenlingshi",
+                        "cityAcronym": "wenllingsh"
+                    },
+                    {
+                        "cityName": "乌海",
+                        "cityCode": "2111",
+                        "cityLetter": "wuhai",
+                        "cityAcronym": "whai"
+                    },
+                    {
+                        "cityName": "文山",
+                        "cityCode": "3317",
+                        "cityLetter": "wenshan",
+                        "cityAcronym": "wsh"
+                    },
+                    {
+                        "cityName": "武夷山市",
+                        "cityCode": "413",
+                        "cityLetter": "wuyishanshi",
+                        "cityAcronym": "wys"
+                    }
+                ]
+            },
+            {
+                "tagName": "X",
+                "cities": [
+                    {
+                        "cityName": "西安",
+                        "cityCode": "2702",
+                        "cityLetter": "xian",
+                        "cityAcronym": "xa"
+                    },
+                    {
+                        "cityName": "厦门",
+                        "cityCode": "414",
+                        "cityLetter": "xiamen",
+                        "cityAcronym": "xm"
+                    },
+                    {
+                        "cityName": "襄阳",
+                        "cityCode": "1416",
+                        "cityLetter": "xiangyang",
+                        "cityAcronym": "xy"
+                    },
+                    {
+                        "cityName": "徐州",
+                        "cityCode": "1620",
+                        "cityLetter": "xuzhou",
+                        "cityAcronym": "xz"
+                    },
+                    {
+                        "cityName": "新乡",
+                        "cityCode": "1216",
+                        "cityLetter": "xinxiang",
+                        "cityAcronym": "xx"
+                    },
+                    {
+                        "cityName": "咸阳",
+                        "cityCode": "2710",
+                        "cityLetter": "xianyang",
+                        "cityAcronym": "xya"
+                    },
+                    {
+                        "cityName": "西双版纳",
+                        "cityCode": "3318",
+                        "cityLetter": "xishuangbanna",
+                        "cityAcronym": "xsbn"
+                    },
+                    {
+                        "cityName": "许昌",
+                        "cityCode": "1218",
+                        "cityLetter": "xuchang",
+                        "cityAcronym": "xuc"
+                    },
+                    {
+                        "cityName": "湘潭",
+                        "cityCode": "1510",
+                        "cityLetter": "xiangtan",
+                        "cityAcronym": "xtan"
+                    },
+                    {
+                        "cityName": "西宁",
+                        "cityCode": "2302",
+                        "cityLetter": "xining",
+                        "cityAcronym": "xin"
+                    },
+                    {
+                        "cityName": "孝感",
+                        "cityCode": "1417",
+                        "cityLetter": "xiaogan",
+                        "cityAcronym": "xgan"
+                    },
+                    {
+                        "cityName": "兴宁市",
+                        "cityCode": "41716",
+                        "cityLetter": "xingningshi",
+                        "cityAcronym": "xingn"
+                    },
+                    {
+                        "cityName": "信宜市",
+                        "cityCode": "41695",
+                        "cityLetter": "xinyishi",
+                        "cityAcronym": "xiny"
+                    },
+                    {
+                        "cityName": "西昌市",
+                        "cityCode": "2828",
+                        "cityLetter": "xichangshi",
+                        "cityAcronym": "xch"
+                    },
+                    {
+                        "cityName": "兴化市",
+                        "cityCode": "40759",
+                        "cityLetter": "xinghuashi",
+                        "cityAcronym": "xinghuash"
+                    },
+                    {
+                        "cityName": "新沂市",
+                        "cityCode": "40708",
+                        "cityLetter": "xinyishi",
+                        "cityAcronym": "xinysh"
+                    },
+                    {
+                        "cityName": "新乐市",
+                        "cityCode": "40025",
+                        "cityLetter": "xinleshi",
+                        "cityAcronym": "xlsh"
+                    },
+                    {
+                        "cityName": "辛集市",
+                        "cityCode": "40022",
+                        "cityLetter": "xinjishi",
+                        "cityAcronym": "xjsh"
+                    },
+                    {
+                        "cityName": "锡林浩特市",
+                        "cityCode": "40380",
+                        "cityLetter": "xilinhaoteshi",
+                        "cityAcronym": "xlht"
+                    },
+                    {
+                        "cityName": "香格里拉县",
+                        "cityCode": "3322",
+                        "cityLetter": "xianggelilashi",
+                        "cityAcronym": "xgll"
+                    },
+                    {
+                        "cityName": "兴义市",
+                        "cityCode": "42094",
+                        "cityLetter": "xingyishi",
+                        "cityAcronym": "xinyi"
+                    }
+                ]
+            },
+            {
+                "tagName": "Y",
+                "cities": [
+                    {
+                        "cityName": "义乌市",
+                        "cityCode": "40810",
+                        "cityLetter": "yiwushi",
+                        "cityAcronym": "yw"
+                    },
+                    {
+                        "cityName": "延安",
+                        "cityCode": "2711",
+                        "cityLetter": "yanan",
+                        "cityAcronym": "ya"
+                    },
+                    {
+                        "cityName": "宜昌",
+                        "cityCode": "1418",
+                        "cityLetter": "yichang",
+                        "cityAcronym": "yic"
+                    },
+                    {
+                        "cityName": "运城",
+                        "cityCode": "2613",
+                        "cityLetter": "yuncheng",
+                        "cityAcronym": "yuc"
+                    },
+                    {
+                        "cityName": "扬州",
+                        "cityCode": "1622",
+                        "cityLetter": "yangzhou",
+                        "cityAcronym": "yz"
+                    },
+                    {
+                        "cityName": "营口",
+                        "cityCode": "1915",
+                        "cityLetter": "yingkou",
+                        "cityAcronym": "yk"
+                    },
+                    {
+                        "cityName": "银川",
+                        "cityCode": "2202",
+                        "cityLetter": "yinchuan",
+                        "cityAcronym": "ych"
+                    },
+                    {
+                        "cityName": "盐城",
+                        "cityCode": "1621",
+                        "cityLetter": "yancheng",
+                        "cityAcronym": "yc"
+                    },
+                    {
+                        "cityName": "榆林",
+                        "cityCode": "2712",
+                        "cityLetter": "yulin",
+                        "cityAcronym": "yl"
+                    },
+                    {
+                        "cityName": "岳阳",
+                        "cityCode": "1512",
+                        "cityLetter": "yueyang",
+                        "cityAcronym": "yy"
+                    },
+                    {
+                        "cityName": "玉林",
+                        "cityCode": "712",
+                        "cityLetter": "yulin",
+                        "cityAcronym": "yul"
+                    },
+                    {
+                        "cityName": "烟台",
+                        "cityCode": "2419",
+                        "cityLetter": "yantai",
+                        "cityAcronym": "yt"
+                    },
+                    {
+                        "cityName": "宜宾",
+                        "cityCode": "2825",
+                        "cityLetter": "yibin",
+                        "cityAcronym": "yb"
+                    },
+                    {
+                        "cityName": "宜春",
+                        "cityCode": "1713",
+                        "cityLetter": "yichun",
+                        "cityAcronym": "yich"
+                    },
+                    {
+                        "cityName": "永州",
+                        "cityCode": "1513",
+                        "cityLetter": "yongzhou",
+                        "cityAcronym": "yzh"
+                    },
+                    {
+                        "cityName": "永康市",
+                        "cityCode": "40812",
+                        "cityLetter": "yongkangshi",
+                        "cityAcronym": "yongkangsh"
+                    },
+                    {
+                        "cityName": "宜州市",
+                        "cityCode": "41847",
+                        "cityLetter": "yizhoushi",
+                        "cityAcronym": "yizhou"
+                    },
+                    {
+                        "cityName": "英德市",
+                        "cityCode": "41737",
+                        "cityLetter": "yingdeshi",
+                        "cityAcronym": "yingd"
+                    },
+                    {
+                        "cityName": "阳春市",
+                        "cityCode": "41730",
+                        "cityLetter": "yangchunshi",
+                        "cityAcronym": "yangc"
+                    },
+                    {
+                        "cityName": "永安市",
+                        "cityCode": "40978",
+                        "cityLetter": "yonganshi",
+                        "cityAcronym": "yongan"
+                    },
+                    {
+                        "cityName": "延吉市",
+                        "cityCode": "40547",
+                        "cityLetter": "yanjishi",
+                        "cityAcronym": "yj"
+                    },
+                    {
+                        "cityName": "余姚市",
+                        "cityCode": "40780",
+                        "cityLetter": "yuyaoshi",
+                        "cityAcronym": "yuyaosh"
+                    },
+                    {
+                        "cityName": "扬中市",
+                        "cityCode": "1647",
+                        "cityLetter": "yangzhongshi",
+                        "cityAcronym": "yangzhsh"
+                    },
+                    {
+                        "cityName": "仪征市",
+                        "cityCode": "1632",
+                        "cityLetter": "yizhengshi",
+                        "cityAcronym": "yizs"
+                    },
+                    {
+                        "cityName": "牙克石市",
+                        "cityCode": "40351",
+                        "cityLetter": "yakeshishi",
+                        "cityAcronym": "yks"
+                    },
+                    {
+                        "cityName": "宜兴市",
+                        "cityCode": "1628",
+                        "cityLetter": "yixingshi",
+                        "cityAcronym": "yxsh"
+                    },
+                    {
+                        "cityName": "伊宁县",
+                        "cityCode": "42674",
+                        "cityLetter": "yiningxian",
+                        "cityAcronym": "yn"
+                    },
+                    {
+                        "cityName": "玉树",
+                        "cityCode": "2310",
+                        "cityLetter": "yushu",
+                        "cityAcronym": "ysh"
+                    },
+                    {
+                        "cityName": "伊春",
+                        "cityCode": "1115",
+                        "cityLetter": "yichun",
+                        "cityAcronym": "ychun"
+                    },
+                    {
+                        "cityName": "玉环县",
+                        "cityCode": "40825",
+                        "cityLetter": "yuhuanxian",
+                        "cityAcronym": "yuhuanx"
+                    }
+                ]
+            },
+            {
+                "tagName": "Z",
+                "cities": [
+                    {
+                        "cityName": "郑州",
+                        "cityCode": "1202",
+                        "cityLetter": "zhengzhou",
+                        "cityAcronym": "zz"
+                    },
+                    {
+                        "cityName": "遵义",
+                        "cityCode": "811",
+                        "cityLetter": "zunyi",
+                        "cityAcronym": "zy"
+                    },
+                    {
+                        "cityName": "张家界",
+                        "cityCode": "1514",
+                        "cityLetter": "zhangjiajie",
+                        "cityAcronym": "zjj"
+                    },
+                    {
+                        "cityName": "珠海",
+                        "cityCode": "628",
+                        "cityLetter": "zhuhai",
+                        "cityAcronym": "zh"
+                    },
+                    {
+                        "cityName": "中山",
+                        "cityCode": "627",
+                        "cityLetter": "zhongshan",
+                        "cityAcronym": "zs"
+                    },
+                    {
+                        "cityName": "漳州",
+                        "cityCode": "415",
+                        "cityLetter": "zhangzhou",
+                        "cityAcronym": "zhzh"
+                    },
+                    {
+                        "cityName": "株洲",
+                        "cityCode": "1515",
+                        "cityLetter": "zhuzhou",
+                        "cityAcronym": "zhz"
+                    },
+                    {
+                        "cityName": "张家口",
+                        "cityCode": "1016",
+                        "cityLetter": "zhangjiakou",
+                        "cityAcronym": "zjk"
+                    },
+                    {
+                        "cityName": "湛江",
+                        "cityCode": "625",
+                        "cityLetter": "zhanjiang",
+                        "cityAcronym": "zj"
+                    },
+                    {
+                        "cityName": "淄博",
+                        "cityCode": "2421",
+                        "cityLetter": "zibo",
+                        "cityAcronym": "zb"
+                    },
+                    {
+                        "cityName": "镇江",
+                        "cityCode": "1626",
+                        "cityLetter": "zhenjiang",
+                        "cityAcronym": "zhj"
+                    },
+                    {
+                        "cityName": "舟山",
+                        "cityCode": "3427",
+                        "cityLetter": "zhoushan",
+                        "cityAcronym": "zsh"
+                    },
+                    {
+                        "cityName": "枣庄",
+                        "cityCode": "2420",
+                        "cityLetter": "zaozhuang",
+                        "cityAcronym": "zzh"
+                    },
+                    {
+                        "cityName": "张掖",
+                        "cityCode": "515",
+                        "cityLetter": "zhangye",
+                        "cityAcronym": "zhy"
+                    },
+                    {
+                        "cityName": "诸暨市",
+                        "cityCode": "3428",
+                        "cityLetter": "zhujishi",
+                        "cityAcronym": "zhujish"
+                    },
+                    {
+                        "cityName": "廉江市",
+                        "cityCode": "41687",
+                        "cityLetter": "lianjiangshi",
+                        "cityAcronym": "zhanjiang"
+                    },
+                    {
+                        "cityName": "漳平县",
+                        "cityCode": "41017",
+                        "cityLetter": "zhangpingxian",
+                        "cityAcronym": "zhangping"
+                    },
+                    {
+                        "cityName": "樟树市",
+                        "cityCode": "41098",
+                        "cityLetter": "zhangshushi",
+                        "cityAcronym": "zhangshu"
+                    },
+                    {
+                        "cityName": "昭通",
+                        "cityCode": "3321",
+                        "cityLetter": "zhaotong",
+                        "cityAcronym": "zt"
+                    },
+                    {
+                        "cityName": "扎兰屯市",
+                        "cityCode": "40352",
+                        "cityLetter": "zhalantunshi",
+                        "cityAcronym": "zlt"
+                    },
+                    {
+                        "cityName": "中卫",
+                        "cityCode": "2206",
+                        "cityLetter": "zhongwei",
+                        "cityAcronym": "zw"
+                    },
+                    {
+                        "cityName": "张家港市",
+                        "cityCode": "1638",
+                        "cityLetter": "zhangjiagangshi",
+                        "cityAcronym": "zhjgsh"
+                    },
+                    {
+                        "cityName": "涿州市",
+                        "cityCode": "40107",
+                        "cityLetter": "zhuozhoushi",
+                        "cityAcronym": "zhzhsh"
+                    },
+                    {
+                        "cityName": "遵化市",
+                        "cityCode": "40039",
+                        "cityLetter": "zunhuashi",
+                        "cityAcronym": "zhsh"
+                    }
+                ]
+            }
+        ]
+    }
+}

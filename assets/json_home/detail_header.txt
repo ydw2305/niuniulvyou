@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "productType": 102,
+        "teamDesc": "出发地",
+        "productId": 210139110,
+        "productSource": 0,
+        "name": "[国庆]<刷邮储上海分行信用卡立减2500 法瑞意13-14日 意大利深度游>4至5星，五星庄园酒店，THE MALL，五渔村，黄金快车，少女峰，爆款线路，点评过千",
+        "category": "跟团游",
+        "defaultAdultNum": 2,
+        "defaultChildNum": 0,
+        "productLineTypeId": 9,
+        "images": [
+            {
+                "simage": "http://m.tuniucdn.com/filebroker/cdn/prd/f9/e1/f9e10553cf75abf4362a8f5b5e07f388_w640_h320_c1_t0.jpg",
+                "bimage": "http://m.tuniucdn.com/filebroker/cdn/prd/f9/e1/f9e10553cf75abf4362a8f5b5e07f388_w640_h320_c1_t0.jpg"
+            },
+            {
+                "simage": "http://m.tuniucdn.com/filebroker/cdn/prd/d7/2c/d72c03e741cc58d1a89ab91b80378ea2_w640_h320_c1_t0.jpg",
+                "bimage": "http://m.tuniucdn.com/filebroker/cdn/prd/d7/2c/d72c03e741cc58d1a89ab91b80378ea2_w640_h320_c1_t0.jpg"
+            },
+            {
+                "simage": "http://m.tuniucdn.com/filebroker/cdn/prd/e0/95/e09509ed3cf640cea426c00a9dd1dbbc_w640_h320_c1_t0.jpg",
+                "bimage": "http://m.tuniucdn.com/filebroker/cdn/prd/e0/95/e09509ed3cf640cea426c00a9dd1dbbc_w640_h320_c1_t0.jpg"
+            },
+            {
+                "simage": "http://m.tuniucdn.com/filebroker/cdn/prd/08/fb/08fbc2f1c5c0f2999b7db67757893bc0_w640_h320_c1_t0.jpg",
+                "bimage": "http://m.tuniucdn.com/filebroker/cdn/prd/08/fb/08fbc2f1c5c0f2999b7db67757893bc0_w640_h320_c1_t0.jpg"
+            }
+        ],
+        "teamType": {
+            "teamTypeId": 0,
+            "teamTypeName": "出发地成团"
+        },
+        "proMode": 1,
+        "schduleRemark": "告别排队，O手续费，旅游归来，途牛金服轻松购物退税，或扫码退税：",
+        "haveBookCity": null,
+        "cattleWord": {
+            "cattleSj": "私家定制",
+            "cattleDl": "吃住升级",
+            "cattleXc": "优质行程",
+            "cattleZs": "资深导游"
+        },
+        "isCattle": 1,
+        "departAndBackCityList": [
+            {
+                "go": {
+                    "cityCode": "2500",
+                    "cityName": "上海"
+                },
+                "backList": []
+            }
+        ],
+        "brandId": 2,
+        "productFetureTag": [
+            {
+                "conditionId": 2005,
+                "conditionName": "情侣蜜月"
+            },
+            {
+                "conditionId": 2064,
+                "conditionName": "购物血拼"
+            },
+            {
+                "conditionId": 1530,
+                "conditionName": "免费wifi"
+            }
+        ],
+        "tagType": 4,
+        "classBrandId": 0,
+        "promotion": [],
+        "departCity": "2500",
+        "bookCity": 2500,
+        "promotionDate": "",
+        "sharingPreferential": 0,
+        "sharingPromotionId": 0,
+        "promotionDesc": "",
+        "lowestPromoPrice": 15999,
+        "lowestPrice": 15999,
+        "departName": "上海",
+        "departCities": [
+            {
+                "departCityCode": "2500",
+                "departCityName": "上海"
+            }
+        ],
+        "guaGuoIntroduction": [],
+        "isGuaGuo": 0,
+        "baMaIntroduction": [],
+        "isBaMa": false,
+        "hasUseNewCityInfo": 1,
+        "backCityCode": "0",
+        "satisfaction": 94,
+        "travelCount": 6793,
+        "remarkCount": 1622,
+        "compList": [
+            {
+                "specName": "导游服务",
+                "satisfaction": 94
+            },
+            {
+                "specName": "行程安排",
+                "satisfaction": 93
+            },
+            {
+                "specName": "餐饮住宿",
+                "satisfaction": 87
+            },
+            {
+                "specName": "旅行交通",
+                "satisfaction": 95
+            }
+        ],
+        "niuLineFlag": 1,
+        "htmlLink": "",
+        "niuLineIntroductionImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/35/17/Cii9EVbrpguIMiscAAJHQCqC2f4AACrAALM5VEAAkdY402_w640_h0_c0_t0.png",
+        "shouHang": {
+            "status": 0,
+            "url": "",
+            "title": ""
+        },
+        "isStudyTour": 0,
+        "isBeHappy": 0,
+        "journeyDetails": []
+    }
+}

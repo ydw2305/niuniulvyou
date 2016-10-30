@@ -1,0 +1,545 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "count": 6,
+        "list": [
+            {
+                "productId": "210147871",
+                "name": "<招牌法瑞意-新天鹅堡11或12日游>资深领队，比萨，铁力士，部分法拉利列车，部分升级意深庞贝",
+                "mainName": "<招牌法瑞意-新天鹅堡11或12日游>",
+                "subName": "资深领队，比萨，铁力士，部分法拉利列车，部分升级意深庞贝",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/filebroker/cdn/prd/66/f6/66f66c583289cb70192aa1cf8a5c1ab2_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/filebroker/cdn/prd/66/f6/66f66c583289cb70192aa1cf8a5c1ab2_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 13999,
+                "lowestPrice": 15999,
+                "travelCount": 2513,
+                "remarkCount": 604,
+                "countDesc": "604人点评",
+                "satisfaction": 95,
+                "satisfactionDesc": "95%满意",
+                "niuLineFlag": 1,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    14
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": 0,
+                    "promoIcoDesc": "无"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "07/13",
+                    "07/18",
+                    "08/05",
+                    "08/24",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/66/f6/66f66c583289cb70192aa1cf8a5c1ab2.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "立减优惠",
+                "distance": 0,
+                "glocation": "48.865601,2.320700",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 13999,
+                "recommend": "凡尔赛宫 塞纳河游船 贡多拉 比萨斜塔 因斯布鲁克游览",
+                "brandType": "2",
+                "saleChannel": [
+                    "20000",
+                    "30000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "70004",
+                    "70005"
+                ],
+                "productFeature": [
+                    "亲子游",
+                    "情侣蜜月",
+                    "购物血拼"
+                ],
+                "id": "210147871",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelText": "立减",
+                        "labelColorValue": "#FA7864"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "牛人专线",
+                        "labelColorValue": "#EEAA44"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "亲子游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "情侣蜜月",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            },
+            {
+                "productId": "210140662",
+                "name": "[国庆]<德意不忘法-法瑞意德12或13日游>好评如潮，4至5星，部分含庄园酒店，金色山口，少女峰，the mall购物村",
+                "mainName": "[国庆]<德意不忘法-法瑞意德12或13日游>",
+                "subName": "好评如潮，4至5星，部分含庄园酒店，金色山口，少女峰，the mall购物村",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/7A/56/Cii9EFZ6ABaIej69ABDOmyqV1DUAABHqwD0r6kAEM6z625_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/7A/56/Cii9EFZ6ABaIej69ABDOmyqV1DUAABHqwD0r6kAEM6z625_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 17581,
+                "lowestPrice": 17595,
+                "travelCount": 1385,
+                "remarkCount": 371,
+                "countDesc": "371人点评",
+                "satisfaction": 97,
+                "satisfactionDesc": "97%满意",
+                "niuLineFlag": 1,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    16
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": 0,
+                    "promoIcoDesc": "无"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "07/31",
+                    "08/17",
+                    "08/22",
+                    "09/20",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/7A/56/Cii9EFZ6ABaIej69ABDOmyqV1DUAABHqwD0r6kAEM6z625.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "早多优惠",
+                "distance": 0,
+                "glocation": "46.425079,10.000202",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 17581,
+                "recommend": "巴黎自由活动 贡多拉 塞纳河游船 意大利特色餐 凡尔赛宫 卢浮宫 悬崖全景餐厅 土拨鼠亲子游",
+                "brandType": "2",
+                "saleChannel": [
+                    "20000",
+                    "30000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "70004",
+                    "70005"
+                ],
+                "productFeature": [
+                    "亲子游",
+                    "爸妈游",
+                    "情侣蜜月"
+                ],
+                "id": "210140662",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "牛人专线",
+                        "labelColorValue": "#EEAA44"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "亲子游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "爸妈游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "情侣蜜月",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            },
+            {
+                "productId": "210137435",
+                "name": "<西法13日游>TGV，米其林餐，南法深度，巴黎自由活动",
+                "mainName": "<西法13日游>",
+                "subName": "TGV，米其林餐，南法深度，巴黎自由活动",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/filebroker/cdn/prd/8e/85/8e852ea9bf4b9313af57fa09939f5154_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/filebroker/cdn/prd/8e/85/8e852ea9bf4b9313af57fa09939f5154_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 17199,
+                "lowestPrice": 17699,
+                "travelCount": 212,
+                "remarkCount": 54,
+                "countDesc": "54人点评",
+                "satisfaction": 96,
+                "satisfactionDesc": "96%满意",
+                "niuLineFlag": 1,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    14
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": 0,
+                    "promoIcoDesc": "无"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "07/28",
+                    "08/09",
+                    "08/11",
+                    "08/23",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8e/85/8e852ea9bf4b9313af57fa09939f5154.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "立减优惠",
+                "distance": 0,
+                "glocation": "37.177200,-3.590710",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 17199,
+                "recommend": "高迪建筑 世遗之旅 特色餐 巴黎自由活动",
+                "brandType": "2",
+                "saleChannel": [
+                    "20000",
+                    "30000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "70004",
+                    "70005"
+                ],
+                "productFeature": [
+                    "情侣蜜月"
+                ],
+                "id": "210137435",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelText": "立减",
+                        "labelColorValue": "#FA7864"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "牛人专线",
+                        "labelColorValue": "#EEAA44"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "情侣蜜月",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            },
+            {
+                "productId": "210140719",
+                "name": "[国庆]<法瑞意德典藏-莱茵河畔13或14日游>4至5星，海德堡，吕德斯海姆，少女峰，THE MALL,铁塔二层，部分A380",
+                "mainName": "[国庆]<法瑞意德典藏-莱茵河畔13或14日游>",
+                "subName": "4至5星，海德堡，吕德斯海姆，少女峰，THE MALL,铁塔二层，部分A380",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/filebroker/cdn/prd/be/43/be430da2cbfb356b5a4e14d0d00cdadb_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/filebroker/cdn/prd/be/43/be430da2cbfb356b5a4e14d0d00cdadb_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 15999,
+                "lowestPrice": 16999,
+                "travelCount": 149,
+                "remarkCount": 47,
+                "countDesc": "47人点评",
+                "satisfaction": 97,
+                "satisfactionDesc": "97%满意",
+                "niuLineFlag": 1,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    14
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": 0,
+                    "promoIcoDesc": "无"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "07/16",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/be/43/be430da2cbfb356b5a4e14d0d00cdadb.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "立减优惠",
+                "distance": 0,
+                "glocation": "48.858299,2.294210",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 15999,
+                "recommend": "巴黎圣母院 凡尔赛宫 卢浮宫（含讲解） 塞纳河游船 贡多拉 法国特色餐",
+                "brandType": "2",
+                "saleChannel": [
+                    "20000",
+                    "30000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "70004",
+                    "70005",
+                    "70008"
+                ],
+                "productFeature": [
+                    "亲子游",
+                    "爸妈游",
+                    "情侣蜜月"
+                ],
+                "id": "210140719",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelText": "立减",
+                        "labelColorValue": "#FA7864"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "牛人专线",
+                        "labelColorValue": "#EEAA44"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "亲子游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "爸妈游",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            },
+            {
+                "productId": "210135178",
+                "name": "<法瑞意11-12日游>金色山口快车，登铁力士雪山，THE MALL，双游船，比萨斜塔，部分团期巴黎一天自由活动",
+                "mainName": "<法瑞意11-12日游>",
+                "subName": "金色山口快车，登铁力士雪山，THE MALL，双游船，比萨斜塔，部分团期巴黎一天自由活动",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/66/CD/Cii9EFZxAAmIFPtKAAhPmpPRws4AABCUwPkNUUACE-y227_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/66/CD/Cii9EFZxAAmIFPtKAAhPmpPRws4AABCUwPkNUUACE-y227_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 13999,
+                "lowestPrice": 14999,
+                "travelCount": 61,
+                "remarkCount": 20,
+                "countDesc": "20人点评",
+                "satisfaction": 99,
+                "satisfactionDesc": "99%满意",
+                "niuLineFlag": 1,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    14
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": 0,
+                    "promoIcoDesc": "无"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "08/17",
+                    "08/23",
+                    "09/07",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/66/CD/Cii9EFZxAAmIFPtKAAhPmpPRws4AABCUwPkNUUACE-y227.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "立减优惠",
+                "distance": 0,
+                "glocation": "46.425079,10.000202",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 13999,
+                "recommend": "含凡尔赛 罗马深度游 正餐升级 The Mall购物村",
+                "brandType": "2",
+                "saleChannel": [
+                    "20000",
+                    "30000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "70004"
+                ],
+                "productFeature": [
+                    "亲子游",
+                    "爸妈游",
+                    "情侣蜜月"
+                ],
+                "id": "210135178",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelText": "立减",
+                        "labelColorValue": "#FA7864"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "牛人专线",
+                        "labelColorValue": "#EEAA44"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "亲子游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "爸妈游",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            },
+            {
+                "productId": "210137804",
+                "name": "<法国10日游>瓦朗索勒，慕隆酒庄，奥赛美术博物馆，法国特色餐",
+                "mainName": "<法国10日游>",
+                "subName": "瓦朗索勒，慕隆酒庄，奥赛美术博物馆，法国特色餐",
+                "productType": 102,
+                "iconType": 1,
+                "category": "跟团游",
+                "startCity": 2500,
+                "startCityName": "上海",
+                "largeImage": "http://m.tuniucdn.com/filebroker/cdn/prd/09/27/0927304ec82e261808ee0540384cfe7d_w450_h300_c1_t0_w640_h480_c1_t0.jpg",
+                "smallImage": "http://m.tuniucdn.com/filebroker/cdn/prd/09/27/0927304ec82e261808ee0540384cfe7d_w450_h300_c1_t0_w320_h180_c1_t0.jpg",
+                "lowestPromoPrice": 14490,
+                "lowestPrice": 15690,
+                "travelCount": 43,
+                "remarkCount": 10,
+                "countDesc": "10人点评",
+                "satisfaction": 97,
+                "satisfactionDesc": "97%满意",
+                "niuLineFlag": 0,
+                "guaGuoFlag": 0,
+                "promoTypes": [
+                    14
+                ],
+                "promoIcon": "",
+                "maximumStay": "",
+                "entryTimes": "",
+                "promoIcoInfo": {
+                    "promoIco": "1",
+                    "promoIcoDesc": "推荐"
+                },
+                "onSale": false,
+                "onSaleUrl": "",
+                "planDates": [
+                    "07/17",
+                    "07/23",
+                    "08/06",
+                    "09/13",
+                    "..."
+                ],
+                "newPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/09/27/0927304ec82e261808ee0540384cfe7d_w450_h300_c1_t0.jpg",
+                "activityType": 0,
+                "activityTypeDesc": "立减优惠",
+                "distance": 0,
+                "glocation": "43.534500,5.436210",
+                "groupCityName": "",
+                "mainPoiCityName": "",
+                "isSameTopic": false,
+                "topicId": 0,
+                "topicImg": "",
+                "salePrice": 14490,
+                "recommend": "南部深度 莫奈花园 卢浮宫讲解 ",
+                "brandType": "1",
+                "saleChannel": [
+                    "20000",
+                    "40000",
+                    "50000",
+                    "60000",
+                    "30000",
+                    "70004"
+                ],
+                "productFeature": [
+                    "购物血拼",
+                    "爸妈游",
+                    "情侣蜜月"
+                ],
+                "id": "210137804",
+                "classBrandId": 1,
+                "labelImgListNew": [
+                    {
+                        "labelText": "立减",
+                        "labelColorValue": "#FA7864"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "购物血拼",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "爸妈游",
+                        "labelColorValue": "#999999"
+                    },
+                    {
+                        "labelImgUrl": "",
+                        "labelText": "情侣蜜月",
+                        "labelColorValue": "#999999"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "topImage": "http://img4.tuniucdn.com/u/super/app/page/banner6.png",
+        "topIcons": [
+            {
+                "name": "7ecf517873a96cd5",
+                "image": "http://img4.tuniucdn.com/u/super/app/page/1-1x.png",
+                "linkType": 1
+            },
+            {
+                "name": "77015fc359579910",
+                "image": "http://img4.tuniucdn.com/u/super/app/page/1-2x.png",
+                "linkType": 2
+            },
+            {
+                "name": "81ea7531642d914d",
+                "image": "http://img4.tuniucdn.com/u/super/app/page/1-3x.png",
+                "linkType": 3
+            }
+        ],
+        "detailData": [
+            {
+                "playType": 3,
+                "destPlayWays": [
+                    {
+                        "destCityName": "4e094e9a",
+                        "destCityCode": 906,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/sanya@3x.jpg",
+                        "playTitle": "1279cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 1,
+                        "travelDays": 5
+                    },
+                    {
+                        "destCityName": "53a695e8",
+                        "destCityCode": 414,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/xiamen@3x.jpg",
+                        "playTitle": "1979cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 1,
+                        "travelDays": 4
+                    },
+                    {
+                        "destCityName": "621090fd",
+                        "destCityCode": 2802,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/chengdu@3x.jpg",
+                        "playTitle": "1379cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 1,
+                        "travelDays": 4
+                    },
+                    {
+                        "destCityName": "4e3d6c5f",
+                        "destCityCode": 3312,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/lijiang.jpg",
+                        "playTitle": "1579cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 1,
+                        "travelDays": 4
+                    },
+                    {
+                        "destCityName": "53174eac",
+                        "destCityCode": 200,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/beijing@3x.jpg",
+                        "playTitle": "1179cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 1,
+                        "travelDays": 5
+                    },
+                    {
+                        "destCityName": "97525c9b",
+                        "destCityCode": 2413,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/qingdao@3x.jpg",
+                        "playTitle": "979cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 4
+                    }
+                ],
+                "title": "56fd518570ed95e8",
+                "subTitle": "",
+                "adImgUrl": "http://img4.tuniucdn.com/u/super/app/page/gn2icon@3x.png"
+            },
+            {
+                "playType": 3,
+                "destPlayWays": [
+                    {
+                        "destCityName": "99996e2f",
+                        "destCityCode": 1300,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/xianggang@3x.jpg",
+                        "playTitle": "1779cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 4
+                    },
+                    {
+                        "destCityName": "99965c14",
+                        "destCityCode": 43796,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/shouer@3x.jpg",
+                        "playTitle": "779cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 4
+                    },
+                    {
+                        "destCityName": "666e5409",
+                        "destCityCode": 785093,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/puji@3x.jpg",
+                        "playTitle": "679cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 7
+                    },
+                    {
+                        "destCityName": "82cf68855c9b",
+                        "destCityCode": 784722,
+                        "image": "http://m.tuniucdn.com/fb2/t1/G2/M00/27/D7/Cii-TFei8OWISPHlAAHBDHJvSDEAAAwsALM32YAAcEk20.jpeg",
+                        "playTitle": "379cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 6
+                    },
+                    {
+                        "destCityName": "6e058fc8",
+                        "destCityCode": 784710,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/qingmai@3x.jpg",
+                        "playTitle": "579cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 5
+                    },
+                    {
+                        "destCityName": "4e1c4eac",
+                        "destCityCode": 45103,
+                        "image": "http://img4.tuniucdn.com/u/super/app/page/dongjing@3x.jpg",
+                        "playTitle": "879cd73a96cd5",
+                        "jumpType": 1,
+                        "area": 2,
+                        "travelDays": 6
+                    }
+                ],
+                "title": "51fa588370ed95e8",
+                "subTitle": "",
+                "adImgUrl": "http://img4.tuniucdn.com/u/super/app/page/cjicon@3x.png"
+            },
+            {
+                "playType": 2,
+                "title": "65b053d173b0 65b073a96cd5",
+                "subTitle": "8fbe4eba63a8835073a96cd5",
+                "adImgUrl": "http://img4.tuniucdn.com/u/super/app/page/icon/faxian@3x.png",
+                "themeLabels": [
+                    {
+                        "moduleId": 7845151,
+                        "labelName": "6d775357",
+                        "isDefault": 1
+                    },
+                    {
+                        "moduleId": 7845152,
+                        "labelName": "53a695e8",
+                        "isDefault": 0
+                    },
+                    {
+                        "moduleId": 7845153,
+                        "labelName": "4e915357",
+                        "isDefault": 0
+                    },
+                    {
+                        "moduleId": 7845154,
+                        "labelName": "65e5672c",
+                        "isDefault": 0
+                    },
+                    {
+                        "moduleId": 7845155,
+                        "labelName": "99996e2f",
+                        "isDefault": 0
+                    },
+                    {
+                        "moduleId": 7845156,
+                        "labelName": "97e956fd",
+                        "isDefault": 0
+                    }
+                ]
+            }
+        ]
+    }
+}

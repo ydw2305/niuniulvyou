@@ -1,0 +1,188 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tuniu.fragment.DestinationFragment" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <com.tuniu.utils.MyScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp" >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/icon_super_search_header" />
+
+                <LinearLayout
+                    android:id="@+id/linear_destination_search"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|center_horizontal"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/bg_white_round"
+                    android:gravity="center_horizontal"
+                    android:padding="5dp" >
+
+                    <ImageView
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:layout_marginRight="5dp"
+                        android:src="@drawable/search_icon" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="输入你想去的地方" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_white"
+                android:baselineAligned="false" >
+
+                <LinearLayout
+                    android:id="@+id/linear_destination_mudidq"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical"
+                    android:paddingRight="5dp" >
+
+                    <TextView
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:lines="2"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:paddingTop="5dp"
+                        android:text="目的地大全" />
+
+                    <TextView
+                        android:id="@+id/tv_destination_line1"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_bg_green" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_destination_bangnixmd"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="start"
+                    android:orientation="vertical"
+                    android:paddingLeft="5dp" >
+
+                    <TextView
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:lines="2"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:paddingTop="5dp"
+                        android:text="帮你选目的地" />
+
+                    <TextView
+                        android:id="@+id/tv_destination_line2"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_bg_green" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <com.tuniu.utils.MyListView4ScrollView
+                    android:id="@+id/mlv4sv_destination_tip1"
+                    android:layout_width="80dp"
+                    android:layout_height="match_parent" >
+                </com.tuniu.utils.MyListView4ScrollView>
+
+                <com.tuniu.utils.MyListView4ScrollView
+                    android:id="@+id/mlv4sv_destination_tip2"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                </com.tuniu.utils.MyListView4ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+    </com.tuniu.utils.MyScrollView>
+
+    <LinearLayout
+        android:id="@+id/linear_destination_float"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:visibility="invisible"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="end"
+            android:orientation="vertical"
+            android:paddingRight="5dp" >
+
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:text="目的地大全" />
+
+            <TextView
+                android:id="@+id/tv_destination_line1_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line_bg_green" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:orientation="vertical"
+            android:paddingLeft="5dp" >
+
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:text="帮你选目的地" />
+
+            <TextView
+                android:id="@+id/tv_destination_line2_float"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line_bg_green" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

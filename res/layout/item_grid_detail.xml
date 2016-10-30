@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_margin="@dimen/m_out"
+        android:background="@drawable/btn_background_press" >
+
+        <ImageView
+            android:id="@+id/iv_detail_grid_detail"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/p_out" >
+
+            <TextView
+                android:id="@+id/tv_detail_grid_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"/>
+
+            <TextView
+                android:id="@+id/tv_detail_grid_subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/color_grey"
+                android:textSize="@dimen/ts_ssmall" />
+
+            <TextView
+                android:id="@+id/tv_detail_grid_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/color_oringe" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

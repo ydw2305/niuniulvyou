@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=25&group_type=1",
+            "h5NavUrl": "http://m.tuniu.com/community/company",
+            "logoImgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/88/AD/Cii-TFfse_6IYx-NAAALosC6QPAAAC3MgP_88kAAAw3612.png",
+            "title": "结伴"
+        },
+        {
+            "appNavUrl": "tuniuapp://travel/tripchannel",
+            "h5NavUrl": "http://m.tuniu.com/community/trips",
+            "logoImgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/3E/22/Cii-TFfse_6IcSgJAAAGaK7XIFgAABRzQP_-YAAAAaA385.png",
+            "title": "游记"
+        },
+        {
+            "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.play.HomePlayActivity&pluginType=6",
+            "h5NavUrl": "http://m.tuniu.com/community/play",
+            "logoImgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/88/B3/Cii-T1fse_6IMAXoAAAIUXbTq74AAC3PQP_9b0AAAhp900.png",
+            "title": "玩法"
+        },
+        {
+            "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=22&group_type=0",
+            "h5NavUrl": "http://m.tuniu.com/community/groups/22",
+            "logoImgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/7B/BD/Cii-Tlfse_6IZDP8AAAFLVgvyUcAACutwP_-rkAAAVH035.png",
+            "title": "福利"
+        },
+        {
+            "appNavUrl": "http://m.tuniu.com/h5/bbs/index",
+            "h5NavUrl": "http://m.tuniu.com/h5/bbs/index",
+            "logoImgUrl": "http://m.tuniucdn.com/fb2/t1/G2/M00/88/BC/Cii-Tlfse_6IZ_r2AAAHGjxqoCQAAC3RwP_9cIAAAcy051.png",
+            "title": "问答"
+        }
+    ],
+    "errorCode": 710000,
+    "msg": "success",
+    "success": true,
+    "traceId": ""
+}

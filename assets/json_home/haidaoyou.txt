@@ -1,0 +1,901 @@
+{
+    "data": {
+        "count": 57,
+        "list": [
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089333",
+                    "flagTxt": "海岛游",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1610&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1610",
+                    "h5NavUrl": "http://m.tuniu.com/trips/10089333",
+                    "id": 65942,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/0E/Cii9EVdn4laIbyagAAHAYcu_ldAAAGpCgKQEkoAAcB599.jpeg",
+                    "introduction": "超大网兜，一起晒太阳，看海鸟到天荒地老",
+                    "title": "怎么去皇帝岛最好玩？躺着去"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089333",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 0,
+                    "contentId": 65942,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/0E/Cii9EVdn4laIbyagAAHAYcu_ldAAAGpCgKQEkoAAcB599.jpeg",
+                    "excellent": false,
+                    "flagTxt": "海岛游",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1610&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1610",
+                    "h5NavUrl": "http://m.tuniu.com/trips/10089333",
+                    "h5Url": "http://m.tuniu.com/trips/10089333",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 87,
+                    "imgTemplate": 1,
+                    "introduction": "超大网兜，一起晒太阳，看海鸟到天荒地老",
+                    "mateId": 10089333,
+                    "originId": 10089333,
+                    "praiseCnt": 4,
+                    "remainSeconds": 0,
+                    "shareCnt": 0,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1610,
+                            "tagName": "海岛游",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "",
+                    "time": "16小时前",
+                    "title": "怎么去皇帝岛最好玩？躺着去",
+                    "top": false,
+                    "type": 8,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "A1ED97F99E4924D6E62339DD35AB70E5",
+                        "headImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/6E/67/Cii9EFZ0wiqIBSDOAAUMqo1SZXQAABEqAPeHYgABQzC191_w120_h120_c1_t0.jpg",
+                        "level": 0,
+                        "nickName": "扭蛋蛋糕",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 7197530,
+                        "userName": "6822600035"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089721",
+                    "flagTxt": "大玩家",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=197&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/197",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10089721",
+                    "id": 65676,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1E/FB/Cii9EVdn23SIJ7bkAAF2wtcJ6SIAAGpBQKtsfIAAXba70.jpeg",
+                    "introduction": "人均三千，带着爸妈逛夜市、观鲸、做手工",
+                    "title": "让父母都赞不绝口台湾之行"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089721",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 2,
+                    "contentId": 65676,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1E/FB/Cii9EVdn23SIJ7bkAAF2wtcJ6SIAAGpBQKtsfIAAXba70.jpeg",
+                    "excellent": false,
+                    "flagTxt": "大玩家",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=197&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/197",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10089721",
+                    "h5Url": "http://m.tuniu.com/trips/10089721",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 559,
+                    "imgTemplate": 1,
+                    "introduction": "人均三千，带着爸妈逛夜市、观鲸、做手工",
+                    "mateId": 10089721,
+                    "originId": 10089721,
+                    "praiseCnt": 3,
+                    "remainSeconds": 0,
+                    "shareCnt": 2,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 197,
+                            "tagName": "大玩家",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "",
+                    "time": "22小时前",
+                    "title": "让父母都赞不绝口台湾之行",
+                    "top": false,
+                    "type": 8,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "B59532BF49BE98F98BF3113D673AFA56",
+                        "headImage": "http://m.tuniucdn.com/filebroker/cdn/snc/f5/ba/f5ba6e0589a7dbd1547c7cd088482f81_w120_h120_c1_t0.jpg",
+                        "level": 2,
+                        "nickName": "翼云kiki",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 1344651,
+                        "userName": "yiyunkiki"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/companiondetail?companion_id=62108&user_id=2184928",
+                    "flagTxt": "结伴",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1339&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1339",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/62108",
+                    "id": 57401,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/20/04/Cii9EFdootmIYdj1AAG8ITHygPsAAGpagFJMaUAAbw512.jpeg",
+                    "introduction": "喜欢摄影，南京出发",
+                    "title": "目的地：日本意瑞法等，近期出发"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/companiondetail?companion_id=62108&user_id=2184928",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 23,
+                    "contentId": 57401,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/20/04/Cii9EFdootmIYdj1AAG8ITHygPsAAGpagFJMaUAAbw512.jpeg",
+                    "excellent": false,
+                    "flagTxt": "结伴",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1339&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1339",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/62108",
+                    "h5Url": "http://m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/62108",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 215,
+                    "imgTemplate": 2,
+                    "introduction": "喜欢摄影，南京出发",
+                    "mateId": 62108,
+                    "originId": 62108,
+                    "praiseCnt": 13,
+                    "remainSeconds": 0,
+                    "shareCnt": 41,
+                    "showChat": true,
+                    "source": 1,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1338,
+                            "tagName": "结伴去韩国",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1339,
+                            "tagName": "结伴去日本",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1392,
+                            "tagName": "结伴去法国",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1426,
+                            "tagName": "结伴去意大利",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1589,
+                            "tagName": "结伴去瑞士",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "有人近期出去玩吗，最好南京出发，喜欢拍照，性格好不矫情女生优先",
+                    "time": "2016-06-06",
+                    "title": "目的地：日本意瑞法等，近期出发",
+                    "top": false,
+                    "type": 3,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "0CC3B3253B65313C2C2DD2E4F2ADC726",
+                        "headImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/FB/81/Cii9EFdUbvyIDBJVAAgNIgtZlqgAAGZngDMAQIACA06834_w120_h120_c1_t0.jpg",
+                        "level": 4,
+                        "nickName": "Vivianne240",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 2184928,
+                        "userName": "6812085923"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=64133",
+                    "flagTxt": "免费体验",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1405&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1405",
+                    "h5NavUrl": "http://m.tuniu.com/community/content/64133",
+                    "id": 64133,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/18/D6/Cii9EFdj3LeIQXyPAAThop6NEPoAAGmOgMwJVAABOG618.jpeg",
+                    "introduction": "重磅福利，免往返机票，送万元旅游基金！",
+                    "title": "免费游英国，我们在找你！"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=64133",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 9,
+                    "contentId": 64133,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/18/D6/Cii9EFdj3LeIQXyPAAThop6NEPoAAGmOgMwJVAABOG618.jpeg",
+                    "excellent": true,
+                    "flagTxt": "免费体验",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1405&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1405",
+                    "h5NavUrl": "http://m.tuniu.com/community/content/64133",
+                    "h5Url": "http://m.tuniu.com/community/content/64133",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 1876,
+                    "imgTemplate": 1,
+                    "introduction": "重磅福利，免往返机票，送万元旅游基金！",
+                    "mateId": 0,
+                    "originId": 0,
+                    "praiseCnt": 99,
+                    "remainSeconds": 0,
+                    "shareCnt": 61,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 197,
+                            "tagName": "大玩家",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 22,
+                            "tagName": "牛福利",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1405,
+                            "tagName": "免费体验",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 7,
+                            "tagName": "自助游天下",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 2,
+                            "tagId": 1702,
+                            "tagName": "邂逅英伦",
+                            "topCategory": 4
+                        }
+                    ],
+                    "text": "热爱旅行的伙伴们，隆重推出好消息，千万不能错过！！！\n前方高能，请伙伴们赶紧找到小板凳坐好，以免过于兴奋激动而晕倒！\n0元深度游英国的机会来啦！不花一分钱，玩转整个英国，10000元旅游基金任意花！",
+                    "time": "4天前",
+                    "title": "免费游英国，我们在找你！",
+                    "top": false,
+                    "type": 1,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "2347E11AE099EEC3A3D3014A85EC4061",
+                        "headImage": "http://m.tuniucdn.com/filebroker/cdn/snc/2a/45/2a4576e6ea09bac20225e74e101aecb1_w120_h120_c1_t0.png",
+                        "level": 0,
+                        "nickName": "途牛社区",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 27099794,
+                        "userName": "8020891789"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10090182",
+                    "flagTxt": "古镇游",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1635&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1635",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10090182",
+                    "id": 65711,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/22/Cii9EVdn60CIAcGXAAGDlFPTxYAAAGpEAA4e84AAYOs07.jpeg",
+                    "introduction": "傍晚或清晨，伴着蒙蒙细雨的江南才最有味道",
+                    "title": "周庄，写一张明信片给未来的自己"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10090182",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 9,
+                    "contentId": 65711,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/22/Cii9EVdn60CIAcGXAAGDlFPTxYAAAGpEAA4e84AAYOs07.jpeg",
+                    "excellent": false,
+                    "flagTxt": "古镇游",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1635&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/1635",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10090182",
+                    "h5Url": "http://m.tuniu.com/trips/10090182",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 2010,
+                    "imgTemplate": 1,
+                    "introduction": "傍晚或清晨，伴着蒙蒙细雨的江南才最有味道",
+                    "mateId": 10090182,
+                    "originId": 10090182,
+                    "praiseCnt": 10,
+                    "remainSeconds": 0,
+                    "shareCnt": 0,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 197,
+                            "tagName": "大玩家",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1635,
+                            "tagName": "古镇游",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "",
+                    "time": "22小时前",
+                    "title": "周庄，写一张明信片给未来的自己",
+                    "top": false,
+                    "type": 8,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "A3F405FB1203014BEF7E48C3F58CC820",
+                        "headImage": "http://m.tuniucdn.com/filebroker/cdn/prd/3a/ce/3ace4d7b18a0854d1b58f7c95aed0ffd_w120_h120_c1_t0.jpg",
+                        "level": 3,
+                        "nickName": "最爱凤凰",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 1160869,
+                        "userName": "tuniu1160918"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1339&group_type=0",
+                    "flagTxt": "",
+                    "flagTxtAppNavUrl": "",
+                    "flagTxtH5NavUrl": "",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1339",
+                    "id": 26,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/E8/BA/Cii9EFdL11mIMxOlAAFIQpa5b4gAAGPOwPqfEoAAUha33.jpeg",
+                    "introduction": "",
+                    "title": "结伴去日本"
+                },
+                "content": null,
+                "itemType": 0,
+                "tag": {
+                    "ads": [
+                        {
+                            "appNavUrl": "tuniuapp://travel/companiondetail?companion_id=66440&user_id=6130439",
+                            "h5NavUrl": "http://dynamic.m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/66440",
+                            "id": 2258,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/F3/Cii9EFdon_WIQeIzAAGQ8YLg-yAAAGpZQJG-n4AAZEJ38.jpeg",
+                            "mixTagId": 26,
+                            "title": "九月出发"
+                        },
+                        {
+                            "appNavUrl": "tuniuapp://travel/companiondetail?companion_id=68183&user_id=7611179",
+                            "h5NavUrl": "http://dynamic.m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/68183",
+                            "id": 2259,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/E5/Cii9EFdoneuIFaBwAAFxFUmcZXEAAGpYgPvr3MAAXEt20.jpeg",
+                            "mixTagId": 26,
+                            "title": "日本冲绳"
+                        },
+                        {
+                            "appNavUrl": "tuniuapp://travel/companiondetail?companion_id=62108&user_id=2184928",
+                            "h5NavUrl": "http://dynamic.m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/62108",
+                            "id": 2260,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/EE/Cii9EVdonvSIWQZEAAGDpQ1hZH4AAGpZADMSkMAAYO934.jpeg",
+                            "mixTagId": 26,
+                            "title": "南京出发"
+                        }
+                    ],
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1339&group_type=0",
+                    "background": "http://m.tuniucdn.com/fb2/t1/G1/M00/E8/BA/Cii9EFdL11mIMxOlAAFIQpa5b4gAAGPOwPqfEoAAUha33.jpeg",
+                    "countList": [
+                        "62条结伴",
+                        "2个帖子"
+                    ],
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1339",
+                    "id": 26,
+                    "lines": [
+                        {
+                            "appNavUrl": "http://m.tuniu.com/x/Yz0FMF",
+                            "h5NavUrl": "http://m.tuniu.com/x/Yz0FMF",
+                            "id": 2253,
+                            "imgUrl": "",
+                            "mixTagId": 26,
+                            "title": "日本-本州6日游"
+                        },
+                        {
+                            "appNavUrl": "http://m.tuniu.com/x/74aZcI",
+                            "h5NavUrl": "http://m.tuniu.com/x/74aZcI",
+                            "id": 2254,
+                            "imgUrl": "",
+                            "mixTagId": 26,
+                            "title": "日本大阪-京都-奈良-东京"
+                        },
+                        {
+                            "appNavUrl": "http://m.tuniu.com/x/bBz9dN",
+                            "h5NavUrl": "http://m.tuniu.com/x/bBz9dN",
+                            "id": 2255,
+                            "imgUrl": "",
+                            "mixTagId": 26,
+                            "title": "日本本州7日游"
+                        },
+                        {
+                            "appNavUrl": "http://m.tuniu.com/tours/5523513",
+                            "h5NavUrl": "http://m.tuniu.com/tours/5523513",
+                            "id": 2256,
+                            "imgUrl": "",
+                            "mixTagId": 26,
+                            "title": "大阪5日自助游 千元游"
+                        },
+                        {
+                            "appNavUrl": "http://m.tuniu.com/tours/5156596",
+                            "h5NavUrl": "http://m.tuniu.com/tours/5156596",
+                            "id": 2257,
+                            "imgUrl": "",
+                            "mixTagId": 26,
+                            "title": "冲绳5日自助游 送WiFi"
+                        }
+                    ],
+                    "logoBottomTxt": "TAG",
+                    "logoTopTxt": "兴趣圈子",
+                    "tagImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1E/82/Cii9EVdnsjSIGe6iAAVgiO7Qbf4AAGo1wAq8aAABWCg31_w640_h0_c0_t0.jpeg",
+                    "title": "结伴去日本"
+                }
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1401&group_type=0",
+                    "flagTxt": "",
+                    "flagTxtAppNavUrl": "",
+                    "flagTxtH5NavUrl": "",
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1401",
+                    "id": 37,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/E3/11/Cii9EFdH4hqIcekGAAGG0M1rk-0AAGMZABUwN0AAYbo01.jpeg",
+                    "introduction": "",
+                    "title": "天使美食探店"
+                },
+                "content": null,
+                "itemType": 0,
+                "tag": {
+                    "ads": [
+                        {
+                            "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=65401",
+                            "h5NavUrl": "http://m.tuniu.com/community/content/65401",
+                            "id": 2263,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/13/9F/Cii9EVdhMZ2IaIjSAAEP_QRKKxYAAGkAQHxRSUAARAV86.jpeg",
+                            "mixTagId": 37,
+                            "title": "西北菜"
+                        },
+                        {
+                            "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=63861",
+                            "h5NavUrl": "http://m.tuniu.com/community/content/63861",
+                            "id": 2264,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/20/13/Cii9EFdopYCIXrZWAAGg15PZQfEAAGpbwPjOZIAAaDv40.jpeg",
+                            "mixTagId": 37,
+                            "title": "闽南炸枣"
+                        },
+                        {
+                            "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=63757",
+                            "h5NavUrl": "http://m.tuniu.com/community/content/63757",
+                            "id": 2265,
+                            "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/20/19/Cii9EFdoptyIfD9mAAHfJEOnCHMAAGpcQN1QiYAAd8869.jpeg",
+                            "mixTagId": 37,
+                            "title": "韩国餐吧"
+                        }
+                    ],
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=1401&group_type=0",
+                    "background": "http://m.tuniucdn.com/fb2/t1/G1/M00/E3/11/Cii9EFdH4hqIcekGAAGG0M1rk-0AAGMZABUwN0AAYbo01.jpeg",
+                    "countList": [
+                        "49个帖子"
+                    ],
+                    "h5NavUrl": "http://m.tuniu.com/community/groups/1401",
+                    "id": 37,
+                    "lines": [
+                        {
+                            "appNavUrl": "http://m.tuniu.com/tours/210130437",
+                            "h5NavUrl": "http://m.tuniu.com/tours/210130437",
+                            "id": 2261,
+                            "imgUrl": "",
+                            "mixTagId": 37,
+                            "title": "厦门-鼓浪屿双飞3日游"
+                        },
+                        {
+                            "appNavUrl": "http://m.tuniu.com/tours/210141130",
+                            "h5NavUrl": "http://m.tuniu.com/tours/210141130",
+                            "id": 2262,
+                            "imgUrl": "",
+                            "mixTagId": 37,
+                            "title": "日本-本州6日游，享日式温泉料理"
+                        }
+                    ],
+                    "logoBottomTxt": "TAG",
+                    "logoTopTxt": "兴趣圈子",
+                    "tagImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/E3/02/Cii9EFdH2_6IXUi_AAGSSSTab6IAAGMVgPvEhQAAZJh05.jpeg",
+                    "title": "天使美食探店"
+                }
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/h5_post_detail?post_id=65823&h5_url=http://m.tuniu.com/community/h/65832&h5_title=  &activity_url=http://m.tuniu.com/event/newCms/index/name/xxl&group_id=151&group_name=",
+                    "flagTxt": "当季热玩",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=151&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/151",
+                    "h5NavUrl": "http://m.tuniu.com/community/h/65832",
+                    "id": 65832,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/0E/Cii9EFdn4pyIfPlAAAGajB-nBJEAAGpCgK_lmAAAZqk95.jpeg",
+                    "introduction": "定制线路送箱包，写游记还有旅游券哦",
+                    "title": "现金券限时抢，旅行更省钱"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "http://m.tuniu.com/event/newCms/index/name/xxl",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/h5_post_detail?post_id=65823&h5_url=http://m.tuniu.com/community/h/65832&h5_title=  &activity_url=http://m.tuniu.com/event/newCms/index/name/xxl&group_id=151&group_name=",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": false,
+                    "commentCnt": 0,
+                    "contentId": 65832,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1F/0E/Cii9EFdn4pyIfPlAAAGajB-nBJEAAGpCgK_lmAAAZqk95.jpeg",
+                    "excellent": false,
+                    "flagTxt": "当季热玩",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=151&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/151",
+                    "h5NavUrl": "http://m.tuniu.com/community/h/65832",
+                    "h5Url": "http://m.tuniu.com/community/h/65832",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 48,
+                    "imgTemplate": 1,
+                    "introduction": "定制线路送箱包，写游记还有旅游券哦",
+                    "mateId": 0,
+                    "originId": 0,
+                    "praiseCnt": 0,
+                    "remainSeconds": 0,
+                    "shareCnt": 0,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 151,
+                            "tagName": "当季热玩",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "美旅箱包现金券限时抢",
+                    "time": "18小时前",
+                    "title": "现金券限时抢，旅行更省钱",
+                    "top": false,
+                    "type": 2,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "3AEFE0A9E7318CD6ABDF4FB641A1136A",
+                        "headImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/65/Cii9EVZznZqIbPSPAAA3km0RZUYAABERAKyyuoAADeq36_w120_h120_c1_t0.jpeg",
+                        "level": 1,
+                        "nickName": "掘逗士-探探",
+                        "sex": 0,
+                        "tag": "牛小二",
+                        "userId": 7609660,
+                        "userName": "tnpgc_tanghong"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089236",
+                    "flagTxt": "大玩家",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=197&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/197",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10089236",
+                    "id": 63638,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1E/E9/Cii9EVdn0ZOIaiErAAHFs0Ww1S8AAGpAQJEDpwAAcXL08.jpeg",
+                    "introduction": "高跷垂钓文化已慢慢消失，现有的多是表演",
+                    "title": "斯里兰卡，静看高跷垂钓"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/tripdetail?trip_id=10089236",
+                    "applyCnt": 0,
+                    "applyEndDate": "",
+                    "applyLimitCnt": 0,
+                    "applyRemainCnt": 0,
+                    "applyStartDate": "",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 4,
+                    "contentId": 63638,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1E/E9/Cii9EVdn0ZOIaiErAAHFs0Ww1S8AAGpAQJEDpwAAcXL08.jpeg",
+                    "excellent": true,
+                    "flagTxt": "大玩家",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=197&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/197",
+                    "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10089236",
+                    "h5Url": "http://m.tuniu.com/trips/10089236",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 955,
+                    "imgTemplate": 1,
+                    "introduction": "高跷垂钓文化已慢慢消失，现有的多是表演",
+                    "mateId": 10089236,
+                    "originId": 10089236,
+                    "praiseCnt": 5,
+                    "remainSeconds": 0,
+                    "shareCnt": 0,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1610,
+                            "tagName": "海岛游",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 197,
+                            "tagName": "大玩家",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "",
+                    "time": "4天前",
+                    "title": "斯里兰卡，静看高跷垂钓",
+                    "top": false,
+                    "type": 8,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "CE0AC1B6DD0791CD6B2CD1187FD9C313",
+                        "headImage": "http://m.tuniucdn.com/fb2/t1/G1/M00/EF/E0/Cii9EFdO75-IN2KlAAMvem8r_hcAAGSKgNkCwYAAy-S987_w120_h120_c1_t0.jpg",
+                        "level": 0,
+                        "nickName": "UC大人",
+                        "sex": 1,
+                        "tag": "",
+                        "userId": 49694701,
+                        "userName": "ucchow"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            },
+            {
+                "common": {
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=63850",
+                    "flagTxt": "社区活动",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=22&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/22",
+                    "h5NavUrl": "http://m.tuniu.com/community/content/63850",
+                    "id": 63850,
+                    "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1D/8D/Cii9EVdnWrmIShYKAAGXbqP_luAAAGoWAPkcBcAAZeG23.jpeg",
+                    "introduction": "第二期免费游广西活动，为老爸报个名吧！",
+                    "title": "银发且壮游， 免费游广西"
+                },
+                "content": {
+                    "activityImgUrl": "",
+                    "activityUrl": "",
+                    "anonymous": false,
+                    "appNavUrl": "tuniuapp://travel/discover/new_community/post_detail?post_id=63850",
+                    "applyCnt": 0,
+                    "applyEndDate": "2016-06-25 00:00:00",
+                    "applyLimitCnt": 520,
+                    "applyRemainCnt": 520,
+                    "applyStartDate": "2016-06-16 00:00:00",
+                    "applyState": 0,
+                    "canApply": false,
+                    "canComment": true,
+                    "commentCnt": 10,
+                    "contentId": 63850,
+                    "countDownTime": 1466482145816,
+                    "coverImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/1D/8D/Cii9EVdnWrmIShYKAAGXbqP_luAAAGoWAPkcBcAAZeG23.jpeg",
+                    "excellent": true,
+                    "flagTxt": "社区活动",
+                    "flagTxtAppNavUrl": "tuniuapp://travel/discover/new_community/group_detail?group_id=22&group_type=0",
+                    "flagTxtH5NavUrl": "http://m.tuniu.com/community/groups/22",
+                    "h5NavUrl": "http://m.tuniu.com/community/content/63850",
+                    "h5Url": "http://m.tuniu.com/community/content/63850",
+                    "hasApplied": false,
+                    "hasPraised": false,
+                    "hotIndex": 1563,
+                    "imgTemplate": 1,
+                    "introduction": "第二期免费游广西活动，为老爸报个名吧！",
+                    "mateId": 0,
+                    "originId": 0,
+                    "praiseCnt": 77,
+                    "remainSeconds": 0,
+                    "shareCnt": 36,
+                    "showChat": false,
+                    "source": 0,
+                    "tags": [
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1655,
+                            "tagName": "越玩越年轻",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 197,
+                            "tagName": "大玩家",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 22,
+                            "tagName": "牛福利",
+                            "topCategory": 1
+                        },
+                        {
+                            "appNavUrl": "",
+                            "h5NavUrl": "",
+                            "listTemplate": 1,
+                            "tagId": 1591,
+                            "tagName": "银发且壮游",
+                            "topCategory": 1
+                        }
+                    ],
+                    "text": "银发且壮游，免费旅行火爆招募中！第二站，广西！",
+                    "time": "4天前",
+                    "title": "银发且壮游， 免费游广西",
+                    "top": false,
+                    "type": 1,
+                    "userInfo": {
+                        "age": 0,
+                        "custIndentity": "2347E11AE099EEC3A3D3014A85EC4061",
+                        "headImage": "http://m.tuniucdn.com/filebroker/cdn/snc/2a/45/2a4576e6ea09bac20225e74e101aecb1_w120_h120_c1_t0.png",
+                        "level": 0,
+                        "nickName": "途牛社区",
+                        "sex": 0,
+                        "tag": "",
+                        "userId": 27099794,
+                        "userName": "8020891789"
+                    }
+                },
+                "itemType": 1,
+                "tag": null
+            }
+        ],
+        "timestamp": 1466482145823
+    },
+    "errorCode": 710000,
+    "msg": "success",
+    "success": true,
+    "traceId": ""
+}

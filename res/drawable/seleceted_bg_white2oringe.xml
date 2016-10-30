@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 设置选中状态 -->
+    <item
+        android:state_focused="true"><layer-list>
+            <item><shape>
+                    <corners android:radius="10dp" />
+
+                    <solid android:color="@color/color_oringe" />
+                </shape></item>
+        </layer-list></item>
+    <!--  -->
+    <item 
+        android:state_focused="false"><layer-list>
+            <item><shape>
+                    <corners android:radius="10dp" />
+
+                    <solid android:color="#00000000" />
+                </shape></item>
+        </layer-list></item>
+
+</selector>

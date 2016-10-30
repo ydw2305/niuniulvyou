@@ -1,0 +1,150 @@
+{
+    "data": {
+        "banners": [
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":0}",
+                "bannerId": 121,
+                "desc": " ",
+                "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10095969",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "穿梭在童话与现实之间——欢乐香港之旅~",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/filebroker/cdn/snc/6b/20/6b209d12359d4c04f3f69b38bb2f7a38_w120_h120_c1_t0.jpg",
+                    "nickName": "超级小包子",
+                    "userId": 15323759
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":3}",
+                "bannerId": 122,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/community/playways/200584",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "游北辰山，祭闽王，吃大锅饭，赏美景",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G2/M00/73/3E/Cii-Tlfg8XOIPiNsAAFDqsHrMNoAACmigP96KcAAUPC371_w120_h120_c1_t0.jpg",
+                    "nickName": "duck_ye",
+                    "userId": 8439931
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":2}",
+                "bannerId": 120,
+                "desc": " ",
+                "h5NavUrl": "http://dynamic.m.tuniu.com/trips/10098996",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "尼泊尔：在喜马拉雅山观景台上做一回神仙",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G2/M00/41/4A/Cii-T1e1rq2IVSUXAAT2R-QbuIsAABYjAD3WW0ABPZf878_w120_h120_c1_t0.jpg",
+                    "nickName": "登围墙",
+                    "userId": 53399032
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":3}",
+                "bannerId": 139,
+                "desc": " ",
+                "h5NavUrl": "http://dynamic.m.tuniu.com/community/playways/202676",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "香港购物+美食两日游玩法",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G1/M00/DE/DF/Cii9EFdFco-IfGunAAeJ8v0QjFsAAGKwgOQi1QAB4oK598_w120_h120_c1_t0.jpg",
+                    "nickName": "喵梓葱头",
+                    "userId": 6333730
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":1}",
+                "bannerId": 138,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/m2015/travelGuide/partner/partnerDetail/messageId/109640",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "结伴去欧洲，邂逅浪漫故事",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G1/M00/DF/5E/Cii9EFawQ0uIQ_A6AARO-CRQAvYAABurQP5WKsABE8Q157_w120_h120_c1_t0.jpg",
+                    "nickName": "结伴小助手",
+                    "userId": 7611179
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":3}",
+                "bannerId": 115,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/community/playways/201194",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "五天四晚，享尽墨尔本美食，独特的小众玩法",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G2/M00/AD/12/Cii-T1f_gw2ISo9hAAsb0jbA3woAADWNQDOcGAACxvq894_w120_h120_c1_t0.jpg",
+                    "nickName": "不逗",
+                    "userId": 7059963
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":2}",
+                "bannerId": 117,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/community/h/204706",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "刀口舔蜜，美中冒险——又爱又恨的越南之行",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G1/M00/31/43/Cii9EFdwy7eILywgAAIgYc22oAMAAGw0ANGkeEAAiB5620_w120_h120_c1_t0.jpg",
+                    "nickName": "帅酷小侠女",
+                    "userId": 1564012
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":2}",
+                "bannerId": 118,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/community/content/204696",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "遇见欧洲，遇见爱——德奥捷两周自助游",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G2/M00/B2/A9/Cii-T1gD0MWIEkuIAA8GwIpEQ2oAADcmwBHXnoADwbY105_w120_h120_c1_t0.jpg",
+                    "nickName": "熊喵大冒险",
+                    "userId": 6135590
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":1}",
+                "bannerId": 141,
+                "desc": " ",
+                "h5NavUrl": "http://dynamic.m.tuniu.com/community/playways/209137",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "11月想去泰国，一起结伴么？",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G2/M00/B3/57/Cii-TFgEbwGIWNFwAAFeyatOjRQAADdmAPa544AAV7h310_w120_h120_c1_t0.jpg",
+                    "nickName": "BrokenHeart",
+                    "userId": 26782783
+                }
+            },
+            {
+                "appNavUrl": "tuniuapp://page?pageName=com.tuniu.community.activity.square.CommunityPlazaActivity&pluginType=6&parameters={\"tab_index\":3}",
+                "bannerId": 136,
+                "desc": " ",
+                "h5NavUrl": "http://m.tuniu.com/community/trips",
+                "imgUrl": "",
+                "imgUrlList": [],
+                "title": "法国南部马赛、阿维尼翁、普罗旺斯自由行",
+                "userInfo": {
+                    "headImg": "http://m.tuniucdn.com/fb2/t1/G1/M00/9F/C9/Cii9EVckQ7WICcttAAB_gUaqMdQAAFIbQMfoY8AAH-Z741_w120_h120_c1_t0.jpg",
+                    "nickName": "享旅",
+                    "userId": 43589115
+                }
+            }
+        ]
+    },
+    "errorCode": 710000,
+    "msg": "success",
+    "success": true,
+    "traceId": ""
+}

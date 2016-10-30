@@ -1,0 +1,157 @@
+{
+    success: true, 
+    msg: "success", 
+    errorCode: 710000, 
+    data: [
+        {
+            sectionName: "分区1", 
+            sectionMenus: [
+                {
+                    menuId: "397", 
+                    iconURL: "http://img1.tuniucdn.com/site/img/journey/chuyou/nxin2x.png", 
+                    titleText: "消息", 
+                    detailText: null, 
+                    detailURL: "tuniuapp://travel/user_center/chat", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "92", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_my_orders.png", 
+                    titleText: "我的订单", 
+                    detailText: "", 
+                    detailURL: "http://dynamic.m.tuniu.com/u/order?pageNum=1", 
+                    rightSideIcon: "", 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "93", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_mall.png", 
+                    titleText: "商城", 
+                    detailText: "", 
+                    detailURL: "http://dynamic.m.tuniu.com/m2015/mall/index", 
+                    rightSideIcon: "", 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "373", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_favorite.png", 
+                    titleText: "我的收藏", 
+                    detailText: null, 
+                    detailURL: "http://dynamic.m.tuniu.com/m2015/user/collection", 
+                    rightSideIcon: null, 
+                    hasNewItem: null, 
+                    isNeedLogin: true
+                }
+            ]
+        }, 
+        {
+            sectionName: "分区2", 
+            sectionMenus: [
+                {
+                    menuId: "95", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_my_wallet.png", 
+                    titleText: "我的小金库", 
+                    detailText: "首付出发、旅游券", 
+                    detailURL: "tuniuapp://travel/user_center/sub_menu", 
+                    rightSideIcon: "", 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "122", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_ninth_gift.png", 
+                    titleText: "优惠券", 
+                    detailText: "", 
+                    detailURL: "http://dynamic.m.tuniu.com/m2015/user/couponCode", 
+                    rightSideIcon: "", 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "103", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_privilege.png", 
+                    titleText: "会员俱乐部", 
+                    detailText: "活动、权益", 
+                    detailURL: "tuniuapp://travel/user_center/member_club", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "104", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_activity.png", 
+                    titleText: "活动", 
+                    detailText: "签到、夺宝", 
+                    detailURL: "http://dynamic.m.tuniu.com/m2015/user/activity", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "371", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_travel_asst.png?_=0", 
+                    titleText: "出游助手", 
+                    detailText: null, 
+                    detailURL: "http://dynamic.m.tuniu.com/journey", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "105", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_data_steward.png", 
+                    titleText: "资料管家", 
+                    detailText: "个人资料、常旅资料", 
+                    detailURL: "tuniuapp://travel/user_center/sub_menu", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "106", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_invite_new.png", 
+                    titleText: "牛拉牛", 
+                    detailText: null, 
+                    detailURL: "http://dynamic.m.tuniu.com/m2015/user/invite", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "377", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_community.png", 
+                    titleText: "社区", 
+                    detailText: "帖子、照片、游记、问答", 
+                    detailURL: "tuniuapp://travel/user_center/sub_menu", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "403", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_person.png", 
+                    titleText: "专属顾问", 
+                    detailText: null, 
+                    detailURL: "http://m.tuniu.com/m2015/user/userConsultant", 
+                    rightSideIcon: null, 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }, 
+                {
+                    menuId: "108", 
+                    iconURL: "http://img1.tuniucdn.com/site/wap/img/member/newmenu/uc_icon_more.png", 
+                    titleText: "更多", 
+                    detailText: "修改密码、设置", 
+                    detailURL: "tuniuapp://travel/user_center/sub_menu", 
+                    rightSideIcon: "", 
+                    hasNewItem: false, 
+                    isNeedLogin: true
+                }
+            ]
+        }
+    ]
+}

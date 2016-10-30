@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/rel_floheight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" >
+        </android.support.v4.view.ViewPager>
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/search_jiebang1"
+            android:id="@+id/searchjiabang"
+            android:layout_alignBottom="@+id/pager"
+            />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/searchjiabang"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="在路上，不孤单" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="您最近浏览过的目的地共有8442人在结伴" />
+
+        <com.common.widget.hzlib.HorizontalListView
+            android:id="@+id/horlistview"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@+id/textView3"
+            android:src="@android:drawable/ic_menu_more"
+            app:listSelector="#00000000" >
+        </com.common.widget.hzlib.HorizontalListView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_xia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rel_floheight"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:id="@+id/rel_dainiwan"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="10dp" >
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="带你玩" />
+
+                <TextView
+                    android:id="@+id/tv_play_ind"
+                    android:layout_width="50dp"
+                    android:layout_height="0.5dp"
+                    android:layout_below="@+id/textview4"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="25dp"
+                    android:background="#006600" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rel_qiujiebang"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="10dp" >
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="求结伴" />
+
+                <TextView
+                    android:id="@+id/tv_jie_ind"
+                    android:layout_width="50dp"
+                    android:layout_height="0.5dp"
+                    android:layout_below="@+id/textview6"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="25dp"
+                    android:visibility="gone"
+                    android:background="#006600" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:padding="5dp"
+                android:src="@drawable/icon_note" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView2"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/imageView2"
+                android:padding="5dp"
+                android:singleLine="true"
+                android:text="免费申明：一下结伴由发起人自行发布，" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <com.xinbo.widget.ListView4ScrollView
+        android:id="@+id/lis_jiebang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:listSelector="#00000000"
+        android:layout_below="@+id/lin_xia" >
+    </com.xinbo.widget.ListView4ScrollView>
+
+</RelativeLayout>

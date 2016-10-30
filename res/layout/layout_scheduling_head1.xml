@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/img_scheduling_head1_top"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/superdiyhomepage_placeholder_big"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="@string/scheduling_head_text1" />
+
+        <TextView
+            android:id="@+id/tv_scheduling_iflogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/scheduling_head_text_ifLogin" />
+
+        <TextView
+            android:id="@+id/tv_scheduling_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@drawable/pressed_bg_white2grey_line_oringe"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="5dp"
+            android:text="现在登录"
+            android:clickable="true"
+            android:textColor="@color/color_oringe"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="开始新的行程"
+            android:textSize="15sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="0"
+            android:background="@color/color_grey" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:text="从" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:text="选择出发地"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_starttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:layout_margin="10dp"
+                android:text="10月27日\t周四"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:text="出发" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_grey" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:text="到" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_end"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="选择目的地"
+                android:textSize="15sp"
+                android:layout_weight="1"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_sub"
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:background="@drawable/pressed_bg_thingrey2darkgrey"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/sub" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_endtime"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:gravity="center"
+                android:text="3" />
+
+            <TextView
+                android:id="@+id/tv_scheduling_add"
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/pressed_bg_thingrey2darkgrey"
+                android:textSize="15sp"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:text="@string/scheduling_add" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_weight="0"
+                android:text="天" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_scheduling_endDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="10月29日\t周六\t返回" />
+
+        <TextView
+            android:id="@+id/tv_scheduling_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:clickable="true"
+            android:textColor="@color/color_white"
+            android:background="@drawable/pressed_bg_oringe2grey"
+            android:text="搜索自由行套餐" />
+    </LinearLayout>
+
+</LinearLayout>

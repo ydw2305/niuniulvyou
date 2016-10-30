@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView_"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp" >
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/hainan" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/xiamen" />
+
+            <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/yunnan" />
+
+            <RadioButton
+                android:id="@+id/radio3"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/riben" />
+
+            <RadioButton
+                android:id="@+id/radio4"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/xianggang" />
+
+            <RadioButton
+                android:id="@+id/radio5"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/hanguo" />
+        </RadioGroup>
+    </HorizontalScrollView>
+
+</LinearLayout>

@@ -1,0 +1,138 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "count": 16,
+        "list": [
+            {
+                "productId": 210014251,
+                "mainName": "<黄山全景2日游>",
+                "subName": "天天发班，饱览黄山N项绝景，含门票赠景交",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/09/48/0948bb6ca1e505357106479fcd988ab2_w450_h300_c1_t0.jpg",
+                "price": 538
+            },
+            {
+                "productId": 210017227,
+                "mainName": "<黄山全景2日游>",
+                "subName": "宿山上独卫可升级四星住宿，门票全含赏花踏青游  多人享立减",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0E/02/Cii9EVbRW5OISVInAA73fHLxl2UAACWQQCOVkgADveU419.jpg",
+                "price": 518
+            },
+            {
+                "productId": 210015963,
+                "mainName": "<黄山-宏村双世遗3日游>",
+                "subName": "含门票赠景交赠1早，1晚醉梦在山上",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/09/AD/Cii9EVbOXXmIJ5TvAAGUHKpF6zsAACR3wP-ausAAZUV284.jpg",
+                "price": 698
+            },
+            {
+                "productId": 210043481,
+                "mainName": "<杭州西湖-西溪湿地1日游>",
+                "subName": "含西溪湿地门票、电瓶车、游船 邂逅西湖苏堤春晓",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/3A/81/Cii9EFbv1SWIBMaBAAFRn0NyEJcAACtbANIHVkAAVG3589.jpg",
+                "price": 54
+            },
+            {
+                "productId": 210018235,
+                "mainName": "<富春江-瑶琳仙境-大奇山2日游>",
+                "subName": "宿中心商务，3月非周末免费升级景区住宿，旖旎风光，为你而来",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f8/6b/f86bfde0d2f5ef26b8be5e18c7e0ecc4.jpg",
+                "price": 399
+            },
+            {
+                "productId": 210058687,
+                "mainName": "<浙东小九寨-古韵绍兴-风情安昌2日游>",
+                "subName": "宿五星级酒店,299门票全含,春游踏青咯",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/0C/37/Cii9EVbP8rSIea9jABW-MGnsKIkAACTtwCrjtIAFb5I677.jpg",
+                "price": 299
+            },
+            {
+                "productId": 210018032,
+                "mainName": "<九华山2日游>",
+                "subName": "祈福求运，住宿九华山上，包含门票及景区小交通",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/online/2a/3f/2a3f784a_w450_h300_c1_t0.jpg",
+                "price": 390
+            },
+            {
+                "productId": 210015462,
+                "mainName": "<九华山祈福还愿1日游>",
+                "subName": "天天发团，礼莲花佛国，瞻九华真身",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/vnd/de/12/de12a65f0d6412390b873a4b06941d90_w450_h300_c1_t0.jpg",
+                "price": 149
+            },
+            {
+                "productId": 210018010,
+                "mainName": "<九华山家庭尊享2日游>",
+                "subName": "小团体优惠，祈福平安乐，宿山上三星酒店",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/olb/b8/85/b8851f40bc414161d55499e80d14bf29_w320_h240_c1_t0.jpg",
+                "price": 468
+            },
+            {
+                "productId": 210044927,
+                "mainName": "<周庄1日游>",
+                "subName": "含摇橹船 赠送价值120元生命奥秘馆  纯玩不进店",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/online/14/37/143733a7_w450_h300_c1_t0.jpg",
+                "price": 119
+            },
+            {
+                "productId": 210014099,
+                "mainName": "<四季悦温泉-七里山塘1日游>",
+                "subName": "爆款秒杀88元 满20人免1人报名费 泡温泉赏特色美食",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/c9/db/c9dbc8b4ad6cddc74a7da440c182282d.jpg",
+                "price": 88
+            },
+            {
+                "productId": 210014116,
+                "mainName": "<周庄1日游>",
+                "subName": "市区内早晨免费接，赠价值50元船游，上千点评 上万关注，铁定发班 随心预定",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/vnd/ce/2a/ce2ad8231a5b4e07cfb14445d3eabda5_w450_h300_c1_t0.jpg",
+                "price": 128
+            },
+            {
+                "productId": 210018732,
+                "mainName": "<方特一期欢乐世界1日游>",
+                "subName": "一票制，疯狂火流星，天天发班",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e1/cc/e1cc772ffcb22047269c089c52d617fe_w450_h300_c1_t0.jpg",
+                "price": 218
+            },
+            {
+                "productId": 210043356,
+                "mainName": "<方特四期东方神画1日游>",
+                "subName": "天天发班，一票全含，畅玩东方神画故事主题乐园",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/bd/9f/bd9f0fc69028a4c45e22ea64e35f256b_w450_h300_c1_t0.jpg",
+                "price": 218
+            },
+            {
+                "productId": 210015623,
+                "mainName": "<方特梦幻世界二期1日游>",
+                "subName": "一票制  牛人专线 总统府发车  矿泉水赠送",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/snc/d8/37/d83742eef2682da9aa938c3481235dc4_w450_h300_c1_t0.jpg",
+                "price": 211
+            },
+            {
+                "productId": 210027997,
+                "mainName": "<大别山彩虹瀑布-皖西大裂谷纯玩2日游>",
+                "subName": "特价299宿商务酒店  赏花踏青门票全含",
+                "productType": 102,
+                "pictureUrl": "http://m.tuniucdn.com/filebroker/cdn/olb/fa/b8/fab8a4f6e665d60de37af8a1611d29b9_w450_h300_c1_t0.jpg",
+                "price": 299
+            }
+        ]
+    }
+}

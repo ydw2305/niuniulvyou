@@ -1,0 +1,2782 @@
+{
+    "success": true,
+    "errorCode": 710000,
+    "msg": "OK",
+    "data": {
+        "multiJourneyFlag": 1,
+        "journeyDetailList": [
+            {
+                "isDefaultJourney": 1,
+                "journeyBaseInfo": {
+                    "journeyName": "A行程",
+                    "journeyAbstractDesc": "",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [],
+                    "planDateStr": ""
+                },
+                "defaultJourneyDetail": [
+                    {
+                        "dayNum": 1,
+                        "journeyName": "第1天",
+                        "journeyIcon": "",
+                        "journeyDescription": "上海{plane}赫尔辛基{plane}罗马\n",
+                        "journeyInfor": " 参考航班：AY058 PVGHEL 1005/1440  转AY3243 HELFCO 1630/1855\n",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "各位途牛会员按照指定时间，于上海浦东国际机场，在领队带领下，办理登机及行李托运手续，搭乘芬航国际航班公司班机转机前往罗马，抵达后前往酒店休息。\n\n温馨提醒：不同团期航班略有不同，具体团期都有对应的航班时间哦。\n"
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "飞机上",
+                            "stay": "意大利当地酒店双人标准间\n参考酒店：MERCURE\nEUR ROMA WEST 或VINTAGE\nHOTEL ROME或 同级"
+                        }
+                    },
+                    {
+                        "dayNum": 2,
+                        "journeyName": "第2天",
+                        "journeyIcon": "",
+                        "journeyDescription": "罗马（梵蒂冈）{bus}锡耶纳",
+                        "journeyInfor": "“罗马不是一天造成的”，这是个伟大的历史名城，也是世界各地对历史文明有兴趣游客寻古探幽的好地方，不仅保留了原罗马帝国时代的遗物，更保存现代“罗马假日”的风味。\n",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，开始美妙的观光之旅，主要游览景点为：\n  \n【斗兽场、君士坦丁凯旋门】：斗兽场是古罗马时期最大的圆形角斗场，威严而壮观；以及于公元315年罗马最大的君士坦丁凯旋门，是为庆祝君士坦丁大帝于公元312年彻底战胜他的强敌马克森提，并统一帝国而建的。(游览时间约20分钟，外观)\n【古罗马废墟】：是昔日古罗马帝国的中心，是现存世界最大面积的古罗马废墟，建有无数的宫殿和建筑群，现在却只剩下颓垣败瓦，一片荒凉。（外观，约15分钟）\n  \n【罗马深度游*】：全程佩戴中文耳机，聆听专业中文讲解，游览罗马假日四大著名景点：【许愿池】、【威尼斯广场】、【万神庙】、【四河喷泉】（游览时间约2小时）\n  \n【自由活动时间】：许愿池附近自由活动时间（30分钟）\n  \n \n\n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "许愿池",
+                                        "subTitleText": "又叫做幸福喷泉，它的原名是特雷维喷泉（Fontana di Trevi），许愿池是力量的象征。传说会带给人们幸福，池中有一个巨大的海神，驾驮着马车，四周环绕着西方神话中的诸神，每一个雕像神态都不一样，栩栩如生，诸神雕像的基座是一片看似零乱的海礁。 喷泉的主体在海神的前面，泉水由各雕像之间、海礁石之间涌出，流向四面八方，最后又汇集于一处。 ",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "许愿池",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/be/a6/bea6e34f95012c5e50b097afd8b7a139_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/be/a6/bea6e34f95012c5e50b097afd8b7a139_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/be/a6/bea6e34f95012c5e50b097afd8b7a139_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/be/a6/bea6e34f95012c5e50b097afd8b7a139_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "斗兽场",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/7b/62/7b62e790a67d8984dfbc63cd8690b0da_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/7b/62/7b62e790a67d8984dfbc63cd8690b0da_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/7b/62/7b62e790a67d8984dfbc63cd8690b0da_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/7b/62/7b62e790a67d8984dfbc63cd8690b0da_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n【圣天使堡、圣天使桥】：圣天使桥是一座古罗马桥梁，桥上有十二尊的圣天使雕像与陵墓顶端的大天使雕像，融合成一体（游览时间约30分钟，圣天使堡为外观）\n\n\n【圣彼得广场】：罗马最大的广场，巴洛克式风格，可容纳50万人，是罗马教廷用来从事大型宗教活动的地方，广场周围有4列共284根多利安柱式的圆柱，圆柱上面是140个圣人像。(游览时间约20分钟，外观)\n\n\n【圣彼得大教堂】：是罗马天主教的中心教堂，欧洲天主教徒的朝圣地与梵蒂冈罗马教皇的教廷，位于梵蒂冈，是世界五大教堂之首，全世界第一大教堂。(游览时间约40分钟，入内参观，如遇宗教活动则改为外观)\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "圣彼得堡教堂\n",
+                                        "subTitleText": "教堂大圆屋顶由米开朗琪罗设计。圣彼得大教堂是一座长方形的教堂，整栋建筑呈现出一个十字架的结构，造型是非常传统而神圣的。教堂左边楼梯通向教皇的地下 陵墓。教堂前面左侧有珍宝馆的入口。圣彼得教堂不仅是一座富丽堂皇值得参观的建筑圣殿，它所拥有多达百件的艺术瑰宝，更被视为无价的资产。其中最有名的三 件雕刻艺术杰作：米开朗琪罗24 岁时雕塑作品；贝尔尼尼的雕制的青铜华盖；圣彼得宝座。 \n\n",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "圣彼得大教堂",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/a1/44/a14468fb7c97f458c65e3af4ea467fec_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/a1/44/a14468fb7c97f458c65e3af4ea467fec_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/a1/44/a14468fb7c97f458c65e3af4ea467fec_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/a1/44/a14468fb7c97f458c65e3af4ea467fec_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "圣彼得大教堂内部",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/00/b0/00b03768c1ce0fe540f3e56251a3b27c_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/00/b0/00b03768c1ce0fe540f3e56251a3b27c_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/00/b0/00b03768c1ce0fe540f3e56251a3b27c_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/00/b0/00b03768c1ce0fe540f3e56251a3b27c_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "行程结束后，入住酒店休息。"
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐     午餐：六菜一汤    晚餐：六菜一汤",
+                            "stay": "意大利当地酒店双人标准间\n参考酒店：MERCURE\nSIENA DEGLI ULIVI或同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 3,
+                        "journeyName": "第3天",
+                        "journeyIcon": "",
+                        "journeyDescription": "锡耶纳{bus}THE MALL{bus}佛罗伦萨\n",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，开始美妙的托斯卡纳田园风光之旅，主要游览景点为：\n  \n\n【锡耶纳古城区】：拜访花费二百年兴建而成的主教堂历史建筑，漫步世界驰名的贝壳广场（游览时间约30分钟，外观）\n  \n【锡耶纳大教堂】：位于古城最高处，表面镶嵌着黑白相间的大理石。（游览时间约30分钟，外观）\n  \n【自由活动时间】：贝壳广场附近自由活动。（约30分钟）\n  \n \n\n\n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "锡耶纳",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4a/a5/4aa59631029846ece78a6eb9df686826_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4a/a5/4aa59631029846ece78a6eb9df686826_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4a/a5/4aa59631029846ece78a6eb9df686826_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4a/a5/4aa59631029846ece78a6eb9df686826_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "锡耶纳",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/de/31de5756deb60a3b6c8d03a82abc5655_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/de/31de5756deb60a3b6c8d03a82abc5655_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/de/31de5756deb60a3b6c8d03a82abc5655_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/de/31de5756deb60a3b6c8d03a82abc5655_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n之后前往THE MALL购物村，抵达后：\n【THE MALL Outlets】：THE MALL Outlets自由活动，蓝天白云下亲吻名牌，尽量热辣折扣。\n\n它座落在意大利美丽的佛罗伦萨附近，是顾客以最好的价格购买奢侈品牌的之地。这里汇集了各种奢侈品牌，其中包括男装、女装、童装、鞋、手提包、配件、香水、珠宝以及礼品和家居用品。顾客在这里还可进行免税购物。（时间不少于2小时）\n\n此日晚餐安排意大利特色餐；\n行程结束后，入住佛罗伦萨五星庄园酒店 (部分团期安排威尼斯五星庄园酒店)。",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "THE MALL\n",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EVZzcCeILjM_AAA4J550hKMAABEDAJqcb8AADg_763_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EVZzcCeILjM_AAA4J550hKMAABEDAJqcb8AADg_763_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EVZzcCeILjM_AAA4J550hKMAABEDAJqcb8AADg_763_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EVZzcCeILjM_AAA4J550hKMAABEDAJqcb8AADg_763_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "THE MALL\n",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EFZzcCaIbdzTAABAp8q7EYIAABEDAJqqf4AAEC_726_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EFZzcCaIbdzTAABAp8q7EYIAABEDAJqqf4AAEC_726_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EFZzcCaIbdzTAABAp8q7EYIAABEDAJqqf4AAEC_726_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/F7/Cii9EFZzcCaIbdzTAABAp8q7EYIAABEDAJqqf4AAEC_726_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：敬请自理   晚餐：意大利特色餐",
+                            "stay": "佛罗伦萨五星庄园酒店 \n参考酒店：GRAND HOTEL VILLA\nMEDICI  或  Hotel Montebello\nSplendid  或 VILLA LE MASCHERE或同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 4,
+                        "journeyName": "第4天",
+                        "journeyIcon": "",
+                        "journeyDescription": "佛罗伦萨{bus}比萨",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，参观文艺复兴之都佛罗伦萨，主要游览景点为：\n  \n【花之圣母教堂】：佛罗伦萨的象征华丽的文艺复兴之花—花之圣母教堂，这座使用白、红、绿三色花岗岩贴面的美丽教堂将文艺复兴时代所推崇的古典、优雅、自由诠释得淋漓尽致，难怪会被命名为“花之圣母”。(游览时间约20分钟，外观)\n  \n【乔托钟楼】：这是由意大利文艺复兴初期一位与诗人但丁同时代的大壁画家乔托所设计的，故又名乔托钟楼。如此高的钟楼，在中世纪教堂建筑中实属罕见。在教堂的对面，还有一个直径27.5米的八边形洗礼堂，内部由穹顶覆盖，高约31米多。(游览时间约15分钟，外观)\n  \n【市政厅广场】：宏伟气派的市政厅广场是佛罗伦萨的政治中心，而那体现男人身体魅力的米开朗基罗的《大卫》雕像，也体现了这个城市的艺术气息\n  (游览时间约20分钟)\n  \n\n\n随后前往皮革工艺制作工厂，参观佛罗伦萨传承千年的工艺制作过程，之后圣十字教堂广场附近【自由活动】（约45分钟），感受意大利风情。\n\n\n【米开朗基罗广场】：意大利佛罗伦萨著名的俯瞰该市美丽全景的地点。这个著名广场位于该市阿诺河南岸，市中心以南的奥特拉诺区的山上，是一个热门旅游目的地，吸引了无数游客，出现在许多明信片中。俯瞰全景包括佛罗伦萨的中心区，观景城堡、佛罗伦萨圣十字大殿，河上依次排列着多座佛罗伦萨桥梁，尤其是老桥；主教座堂、旧宫、巴杰罗美术馆和八角形塔，以及市中心北部丘陵的菲耶索莱和（游览时间约30分钟）\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "圣母百花大教堂",
+                                        "subTitleText": "圣母百花大教堂（意大利语：Basilica di Santa Maria del Fiore），位于意大利佛罗伦萨城中  圣母百花大教堂全景\n，是天主教佛罗伦萨总教区的主教座堂。教堂建筑群由大教堂、钟塔与洗礼堂构成，1982年作为佛罗伦萨历史中心的一部分被列入世界文化遗产。 ",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "圣母百花大教堂",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiICkeLAABjqmxL95UAABEDgG7ThMAAGPC313_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiICkeLAABjqmxL95UAABEDgG7ThMAAGPC313_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiICkeLAABjqmxL95UAABEDgG7ThMAAGPC313_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiICkeLAABjqmxL95UAABEDgG7ThMAAGPC313_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "圣母百花大教堂",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiIKDlvAABun3qsfIUAABEDgHOhxIAAG63113_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiIKDlvAABun3qsfIUAABEDgHOhxIAAG63113_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiIKDlvAABun3qsfIUAABEDgHOhxIAAG63113_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6B/FC/Cii9EFZzcaiIKDlvAABun3qsfIUAABEDgHOhxIAAG63113_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n随后参观伽利略的故乡比萨，主要游览景点为：\n\n\n【比萨斜塔、教堂及洗礼堂】：世界七大奇景之一，让您惊讶此倾斜而不坠之奇景，誉为工程力学奇迹的比萨斜塔之所以闻名，是因它本身的斜度超过了力学上离中心点最大角度而仍能屹立不坠。（不登塔，游览时间约40分钟，外观）\n行程结束后，入住酒店休息。",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "比萨斜塔",
+                                        "subTitleText": "比萨斜塔位于意大利的比萨小镇，是一座由白色云石建成的古塔。该塔发生倾斜但斜而不倒，比萨因此远近闻名。比萨斜塔建于1807年，塔高79尺，自建成以\n后曾发生多次倾斜，常人只凭眼睛也能察觉。意大利科学家伽利略曾在斜塔的顶层做过自由落体运动的实验，开创了实验物理的新时代，斜塔也因而更加闻名遐迩。",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "比萨",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EFZzdVqIWYgzAABKm08qPg0AABEFQPxIWcAAEqz733_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EFZzdVqIWYgzAABKm08qPg0AABEFQPxIWcAAEqz733_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EFZzdVqIWYgzAABKm08qPg0AABEFQPxIWcAAEqz733_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EFZzdVqIWYgzAABKm08qPg0AABEFQPxIWcAAEqz733_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "比萨",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EVZzdYWIHakRAABC2L4hvCMAABEFQP-5DUAAELw373_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EVZzdYWIHakRAABC2L4hvCMAABEFQP-5DUAAELw373_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EVZzdYWIHakRAABC2L4hvCMAABEFQP-5DUAAELw373_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/07/Cii9EVZzdYWIHakRAABC2L4hvCMAABEFQP-5DUAAELw373_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：六菜一汤   晚餐：六菜一汤",
+                            "stay": "意大利当地酒店双人标准间\n参考酒店：TOWER\nINN PISA VALDERA 或  LHOTEL DI PISA  或 AC HOTEL PISA\n或\nSAN RANIERI或同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 5,
+                        "journeyName": "第5天",
+                        "journeyIcon": "",
+                        "journeyDescription": "比萨{bus}五渔村{bus}威尼斯\n",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "早餐后，\n\n驱车前往世界文化遗产之五渔村地区，抵达后参观：\n\n\n【五渔村*】：由蒙特罗索、威尔纳查、科尼利亚、马纳罗拉、利欧马乔雷五个健在悬崖边上的渔村而组成的五乡地区，明信片上的五彩缤纷的房子赫然在眼前。依著山势而开垦出的房舍与田园，保留原始的自然美，与世隔绝彷彿世外桃源，而被联合国教科文组织列为世界遗产。（游览时间约1.5小时，由于时间关系，会选择2-3个渔村深入游览）\n 行程结束后，驱车前往威尼斯水城，抵达后入住酒店。",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "五渔村",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIJ2vnAABoWhWzOQcAABEGgN1kksAAGhy591_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIJ2vnAABoWhWzOQcAABEGgN1kksAAGhy591_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIJ2vnAABoWhWzOQcAABEGgN1kksAAGhy591_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIJ2vnAABoWhWzOQcAABEGgN1kksAAGhy591_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "五渔村",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIYtXvAAB0yEHglbgAABEGgN1-r0AAHTg389_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIYtXvAAB0yEHglbgAABEGgN1-r0AAHTg389_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIYtXvAAB0yEHglbgAABEGgN1-r0AAHTg389_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/12/Cii9EFZzeIiIYtXvAAB0yEHglbgAABEGgN1-r0AAHTg389_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：敬请自理   晚餐：六菜一汤 \n",
+                            "stay": "意大利当地酒店双人标准间\n参考酒店：HOLIDAY INN MESTRE  或  NOVOTEL VENEZIA\nMESTRE 或 CROWNE PLAZA VENICE EAST或同级 \n"
+                        }
+                    },
+                    {
+                        "dayNum": 6,
+                        "journeyName": "第6天",
+                        "journeyIcon": "",
+                        "journeyDescription": "威尼斯{bus}米兰",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，乘船进入威尼斯本岛，开始美妙的观光之旅，主要游览景点为：\n  \n \n【圣马可广场】：千万只飞翔和平鸽的圣马可广场，是威尼斯的政治、宗教和传统节日的公共活动中心 (游览时间约15分钟）\n【圣马可大教堂】：这里曾是中世纪欧洲最大的教堂，是威尼斯建筑艺术的经典之作，它同时也是一座收藏丰富艺术品的宝库。圣马可大教堂是威尼斯的骄傲，圣马可大教堂是基督教世界负盛名的大教堂之一，是第四次十字军东征的出发地。(游览时间约20分钟，可入内参观，如遇宗教活动改为外观)\n  \n【叹息桥、总督府】：建于1603年因桥上死囚的叹息声而得名的著名的叹息桥。叹息桥是一座外观上奇特的桥，过桥的人被完全的封闭在桥梁里，是威尼斯著名的景点之一。(游览时间约20分钟，外观)\n  \n【威尼斯贡多拉*】：乘着船身纤巧、船尾镶着金色海马的贡多拉，船游威尼斯。（时间约30分钟，含船票，6人一条船）\n  \n\n\n【玻璃制造工艺表演】15世纪以来，威尼斯就成为欧洲最著名的玻璃生产基地。那里出产的玻璃器皿质地纯净，堪与天然水晶媲美。（约30分钟）\n\n\n【自由活动时间】：岛上自由活动。（约1小时）\n  \n \n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "圣马可广场",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/45/5e/455e095e14f6179c2a9392ef2ec3322e_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/45/5e/455e095e14f6179c2a9392ef2ec3322e_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/45/5e/455e095e14f6179c2a9392ef2ec3322e_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/45/5e/455e095e14f6179c2a9392ef2ec3322e_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "威尼斯",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/c9/97c908aa53de52b3ed8bf185b6ebaa86_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/c9/97c908aa53de52b3ed8bf185b6ebaa86_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/c9/97c908aa53de52b3ed8bf185b6ebaa86_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/c9/97c908aa53de52b3ed8bf185b6ebaa86_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  之后前往意大利时尚之都—米兰，抵达后参观：\n  \n\n【米兰大教堂】：米兰大教堂是世界上 大的哥特式建筑，是世界上 大的教堂之一，规模雄踞世界第二，是仅次于梵蒂冈的圣.彼得教堂，也是世界上影响力 大的教堂之一。(外观)\n  \n【斯卡拉歌剧院、达芬奇像】：达芬奇像位于斯卡拉广场南面，对面是著名的斯卡拉歌剧院，在世界艺术史上，很少有一座剧院像意大利米兰的拉·斯卡拉歌剧院 那样，被看成是完美的化身、建筑的典范。它不仅是一座华美的大歌剧院，同时也是歌剧、尤其是意大利歌剧的象征，甚至还是意大利音乐的象征。(游览时间约20分钟，外观)\n  \n【自由活动时间】：米兰艾曼纽二世回廊附近自由活动。（约30分钟）\n  \n \n\n\n\n\n\n\n行程结束后入住酒店休息。\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "米兰大教堂",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/d3/96/d396198398f8e16cf7fcac8831d6092e_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/d3/96/d396198398f8e16cf7fcac8831d6092e_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/d3/96/d396198398f8e16cf7fcac8831d6092e_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/d3/96/d396198398f8e16cf7fcac8831d6092e_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "米兰",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f0/70/f0703526f0e6dfc0477196734c2caae6_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f0/70/f0703526f0e6dfc0477196734c2caae6_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f0/70/f0703526f0e6dfc0477196734c2caae6_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f0/70/f0703526f0e6dfc0477196734c2caae6_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：六菜一汤  晚餐：六菜一汤",
+                            "stay": "意大利当地酒店双人标准间\n参考酒店：\n\nDOMINA INN MILAN 或 AS HOTEL CAMBIAGO  或 CAVALIERI DELLA CORONA 或同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 7,
+                        "journeyName": "第7天",
+                        "journeyIcon": "",
+                        "journeyDescription": "米兰{bus}琉森  因特拉肯 \n",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  \n\n\n\n\n \n  \n  早餐后，后前往瑞士最佳旅游度假胜地-琉森，抵达后参观：\n\n  \n【狮子纪念碑】：为了纪念法国大革命时期为保卫路易十六而牺牲的瑞士雇佣兵的狮子纪念碑。是琉森数一数二的雕刻作品，一支箭深深地插进了濒临死亡的雄狮背上，狮子面露痛苦的神情，前爪按盾牌和长矛，盾牌上有瑞士国徽。（外观）\n  \n【卡贝尔桥】：这是一座建于14世纪的木质廊桥，是琉森的象征，也是欧洲 古老的有顶木桥，桥的横眉上绘有120幅宗教历史油画。(外观)\n  \n【自由活动时间】：市中心自由活动，天鹅广场自由活动，您可在名表店购买瑞士制造的手表，也可以漫步在琉森湖畔，醉美于瑞士湖光山色之间。(时间约1小时)\n  \n \n\n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "卡贝尔廊桥",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/95/4b/954b17cc2c3731b7ff1870a593354011_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/95/4b/954b17cc2c3731b7ff1870a593354011_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/95/4b/954b17cc2c3731b7ff1870a593354011_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/95/4b/954b17cc2c3731b7ff1870a593354011_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "狮子纪念碑",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8f/31/8f31d56d7724a0e23e375ca6dee8e9d6_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8f/31/8f31d56d7724a0e23e375ca6dee8e9d6_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8f/31/8f31d56d7724a0e23e375ca6dee8e9d6_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8f/31/8f31d56d7724a0e23e375ca6dee8e9d6_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "之后乘坐欧洲 负盛名的观光列车－【金色山口快车Golden pass】前往因特拉肯，列车穿梭于连绵山峦之间，穿越众多的峡谷，旅途让您饱览瑞士的旖旎风光。\n\n行程结束后，入住酒店休息。",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "金色山口",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/16/Cii9EVZzehuINLeuAABQhOERe6YAABEHAP_rkAAAFCc085_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/16/Cii9EVZzehuINLeuAABQhOERe6YAABEHAP_rkAAAFCc085_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/16/Cii9EVZzehuINLeuAABQhOERe6YAABEHAP_rkAAAFCc085_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/16/Cii9EVZzehuINLeuAABQhOERe6YAABEHAP_rkAAAFCc085_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "金色山口",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/17/Cii9EFZzehuIYQs-AABbCsfJ8cQAABEHgP-vYQAAFsi783_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/17/Cii9EFZzehuIYQs-AABbCsfJ8cQAABEHgP-vYQAAFsi783_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/17/Cii9EFZzehuIYQs-AABbCsfJ8cQAABEHgP-vYQAAFsi783_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/fb2/t1/G1/M00/6C/17/Cii9EFZzehuIYQs-AABbCsfJ8cQAABEHgP-vYQAAFsi783_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：六菜一汤   晚餐：敬请自理",
+                            "stay": "瑞士当地酒店双人标准间\n参考酒店：SUNSTAR或Hotel Krone Sarnen或KIRCHBUHL或ROYAL ST GEORGES同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 8,
+                        "journeyName": "第8天",
+                        "journeyIcon": "",
+                        "journeyDescription": "因特拉肯{bus}伯尔尼\n",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，开始美妙的观光之旅，主要游览景点为：\n\n【少女峰*】：作为瑞士旅游业的经典景点之一,少女峰以冰雪与山峰、阳光与浮云吸引着八方游客。乘坐观光火车登上海拔3500米的峰峦之上，客人可在山顶的餐厅一边品尝咖啡或是品味美食，一边体验会当凌绝顶的感受，体验阿尔卑斯山的神秘壮丽 (含上下山火车，游览时间约4-5小时)。\n\n\n\n【自由活动】（不少于1.5小时）：可以漫步荷黑威格商业街，也可以自由欣赏这座两湖之间的小城，呼吸自由新鲜的空气。\n行程结束后，入住酒店休息。\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "少女峰",
+                                        "subTitleText": "欧洲之巅少女峰在瑞士的腹地，是瑞士的著名山峰，海拔4,158米（13,642英尺）。俯瞰劳特布伦嫩(Lauterbrunnen)谷地，位于因特拉肯(Interlaken)旅游地东南18公里(11哩)处。少女峰被称为阿尔卑斯山的“皇后”，欧洲最高峰,名字为\"Top of Europe\"。实质上并非欧洲最高峰，Top of Europe是火车站的名字。这座雪山上的火车站的确是欧洲最高的火车站。这座风景秀丽的山峰把伯恩州和瓦莱(Valais)州隔开，是伯恩阿尔卑斯山的一部分，宛如一位少女，披着长发，银装素裹，恬静地仰卧在白云之间。\n\n\n\n",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "少女峰",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/d1/97d186e708422c53924b5ef0d3ee6320_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/d1/97d186e708422c53924b5ef0d3ee6320_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/d1/97d186e708422c53924b5ef0d3ee6320_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/97/d1/97d186e708422c53924b5ef0d3ee6320_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "少女峰",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4d/dd/4dddba7d69516b1d7b337fe1449ac3fc_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4d/dd/4dddba7d69516b1d7b337fe1449ac3fc_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4d/dd/4dddba7d69516b1d7b337fe1449ac3fc_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/4d/dd/4dddba7d69516b1d7b337fe1449ac3fc_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐   午餐：敬请自理    晚餐：六菜一汤",
+                            "stay": "瑞士当地酒店双人标准间\n参考酒店：PARK\nINN BY RADISSON LULLY 或   MERCURE PLAZA BIEL或同级"
+                        }
+                    },
+                    {
+                        "dayNum": 9,
+                        "journeyName": "第9天",
+                        "journeyIcon": "",
+                        "journeyDescription": "伯尔尼{bus}巴黎",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "早餐后， 开始美妙的观光之旅，主要游览景点为：\n  \n\n【伯尔尼老城区】：老城区三面为阿勒河环绕，长6公里的拱廊是全欧洲最长的全天候购物通道，11处具有文艺复兴时期色彩的喷泉建于16世纪中叶；正点前可前往著名的大钟楼前，观看精彩的报时表演。古城保留了16世纪典雅的拱形长廊和喷泉。这座中世纪城镇的主体建筑在18世纪重新修建，并保留了原来的历史风貌。1983年被联合国教科文组织列入《世界遗产目录》（游览时间约1小时）\n\n之后驱车前往时尚之都巴黎，抵达后入住酒店休息。\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "伯尔尼",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/fb/af/fbafdf866e64ee3b0ebbc5df6c849003_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/fb/af/fbafdf866e64ee3b0ebbc5df6c849003_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/fb/af/fbafdf866e64ee3b0ebbc5df6c849003_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/fb/af/fbafdf866e64ee3b0ebbc5df6c849003_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "伯尔尼",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/0c/8b0c06c3fff406303a19fd9c85dbc1e4_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/0c/8b0c06c3fff406303a19fd9c85dbc1e4_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/0c/8b0c06c3fff406303a19fd9c85dbc1e4_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/0c/8b0c06c3fff406303a19fd9c85dbc1e4_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助早餐  午餐：六菜一汤   晚餐：敬请自理",
+                            "stay": "法国当地酒店双人标准间\n参考酒店：MERCURE PARIS VELIZY 或 NOVOTEL\nPOISSY ORGEVAL或\n RESIDHOME\nSEINE SAINT GERMAIN或同级 \n"
+                        }
+                    },
+                    {
+                        "dayNum": 10,
+                        "journeyName": "第10天",
+                        "journeyIcon": "",
+                        "journeyDescription": "巴黎",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "酒店早餐后，开始美妙的观光之旅，\n\n\n\n\n \n  \n  主要游览景点为：\n\n【凯旋门、协和广场、香榭丽舍大道】：游览光芒四射的花都名胜——屹立于星形广场的凯旋门、游人如鲫的香榭丽舍大道、宽阔的协和广场，(游览时间约30分钟)\n  \n \n\n\n\n\n\n\n\n\n\n\n \n  \n  【埃菲尔铁塔】：巴黎的地标性建筑-埃菲尔铁塔，矗立在法国巴黎的战神广场，是世界著名建筑，也是法国文化象征之一，巴黎城市地标之一。铁塔设计新颖独特，是世界建筑史上的技术杰作，是法国巴黎的突出标志。（游览时间约30分钟，外观）\n\n\n\n\n\n \n  \n  【塞纳河游船*】（含船票）：乘船游览巴黎塞纳河，欣赏沿途浪漫美景、两岸闻名遐迩的历史名胜及建筑，留恋忘返。（游览时间约50分钟）\n  \n \n\n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "埃菲尔铁塔",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/37/8b3778e91ee9adcc4aac4e32026326a7_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/37/8b3778e91ee9adcc4aac4e32026326a7_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/37/8b3778e91ee9adcc4aac4e32026326a7_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/8b/37/8b3778e91ee9adcc4aac4e32026326a7_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "塞纳河游船",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f6/8e/f68ec81907f82531ee833646e85f8f53_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f6/8e/f68ec81907f82531ee833646e85f8f53_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f6/8e/f68ec81907f82531ee833646e85f8f53_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/f6/8e/f68ec81907f82531ee833646e85f8f53_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "香榭丽舍大街",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e8/13/e813311fec37122f143b016e6f90d8ba_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e8/13/e813311fec37122f143b016e6f90d8ba_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e8/13/e813311fec37122f143b016e6f90d8ba_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e8/13/e813311fec37122f143b016e6f90d8ba_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "凯旋门",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e2/87/e287f8cf7b5431a6887f215c2113f187_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e2/87/e287f8cf7b5431a6887f215c2113f187_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e2/87/e287f8cf7b5431a6887f215c2113f187_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/e2/87/e287f8cf7b5431a6887f215c2113f187_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": " \n",
+                                "timeDesc": "\n\n\n\n\n \n  \n  前往游览位于巴黎西郊的世界文化遗产-凡尔赛宫，\n\n【凡尔塞宫*】：著名的波旁王朝宫殿，富丽堂皇，感受精美壁画的王室气息。（不含后花园，游览时间约1.5小时）\n\n\n\n\n\n \n  \n  \n【夏佑宫观景台】：欣赏埃菲尔铁塔的绝佳地点之一，整点时一个一个灯光争先恐后的闪耀，璀璨无比、花灯初上的巴黎在您的眼前绽放。（游览时间约20分钟）\n\n\n\n此日安排自助餐；\n\n行程结束后，入住酒店。\n  \n \n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "凡尔赛宫",
+                                        "subTitleText": "凡尔赛宫位于巴黎西南18公里的凡尔塞镇，这座以香槟酒和奶油色砖石砌成的庞大宫殿，以东西为轴，南北对称。整个宫殿占地面积为110万平方米，其中建筑\n面积为11万平方米，园林面积为100万平方米。17世纪由路易十四下令修建。凡尔赛宫及其园林堪称法国古建筑的杰出代表。其宫殿外观宏伟壮观，内部陈设\n及装潢也富有艺术魅力。200多间大殿小厅金碧辉煌，豪华非常。主要宫殿的墙壁和天花板上布满壁画和天顶画，题材主要是神话故事和国王战绩。1833年凡\n尔赛宫被辟为国家历史博物馆，1980年被列入世界文化和自然遗产名录。",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "凡尔赛宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/6e/07/6e07ceadb847aea90385d5859b0e94e5_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/6e/07/6e07ceadb847aea90385d5859b0e94e5_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/6e/07/6e07ceadb847aea90385d5859b0e94e5_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/6e/07/6e07ceadb847aea90385d5859b0e94e5_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "凡尔赛宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2d/36/2d362e9647cc4f1859cf6afadfd9163b_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2d/36/2d362e9647cc4f1859cf6afadfd9163b_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2d/36/2d362e9647cc4f1859cf6afadfd9163b_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2d/36/2d362e9647cc4f1859cf6afadfd9163b_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "凡尔赛宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/91/5d/915de25a1892d8d659b3a741a119cd05_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/91/5d/915de25a1892d8d659b3a741a119cd05_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/91/5d/915de25a1892d8d659b3a741a119cd05_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/91/5d/915de25a1892d8d659b3a741a119cd05_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "凡尔赛宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/c0/49/c0494abf480985f5e66e1bce430f3b9c_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/c0/49/c0494abf480985f5e66e1bce430f3b9c_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/c0/49/c0494abf480985f5e66e1bce430f3b9c_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/c0/49/c0494abf480985f5e66e1bce430f3b9c_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助 午餐：敬请自理  晚餐：自助餐",
+                            "stay": "法国当地酒店双人标准间\n\n参考酒店：MERCURE PARIS VELIZY 或 NOVOTEL\nPOISSY ORGEVAL或\n RESIDHOME\nSEINE SAINT GERMAIN或同级 "
+                        }
+                    },
+                    {
+                        "dayNum": 11,
+                        "journeyName": "第11天",
+                        "journeyIcon": "",
+                        "journeyDescription": "巴黎",
+                        "journeyInfor": "",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "\n\n\n\n\n \n  \n  早餐后，开始美妙的观光之旅，主要游览景点为：\n【卢浮宫*】（含讲解器）：世界上三大博物馆之一，欣赏镇馆三宝——神秘的蒙娜莉莎、唯美的维纳斯雕像和胜利女神像。（游览时间约2小时，含讲解）\n\n\n\n\n\n\n \n  \n  【巴黎圣母院】：位于法国巴黎市中心、西堤岛上的教堂建筑，也是天主教巴黎总教区的主教座堂。（游览时间约20分钟，可入内参观，不登塔楼）\n  \n \n\n\n\n\n",
+                                "journeyTimeInfor": [
+                                    {
+                                        "subTitle": "卢浮宫",
+                                        "subTitleText": "卢浮宫，是世界上最古老、最大、最著名的博物馆之一。位于法国巴黎市中心的塞纳河北岸（右岸），始建于1204年，历经800多年扩建、重修达到今天的规模。卢浮宫占地面积（含草坪）约为45公顷，建筑物占地面积为4.8公顷。全长680米。它的整体建筑呈“Ｕ”形，分为新、老两部分，老的建于路易十四时期，新的建于拿破仑时代。宫前的金字塔形玻璃入口，是华人建筑大师贝聿铭设计的。同时，卢浮宫也是法国历史上最悠久的王宫。 与卢浮宫有关的电影有《卢浮魅影》等。\n",
+                                        "photo": [
+                                            {
+                                                "strPicDesc": "卢浮宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/75/ba/75baf5968afc7aaccd59268144e66b6a_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/75/ba/75baf5968afc7aaccd59268144e66b6a_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/75/ba/75baf5968afc7aaccd59268144e66b6a_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/75/ba/75baf5968afc7aaccd59268144e66b6a_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "卢浮宫",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2f/9d/2f9d4d5f5734cef18d73fd643852d96a_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2f/9d/2f9d4d5f5734cef18d73fd643852d96a_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2f/9d/2f9d4d5f5734cef18d73fd643852d96a_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/2f/9d/2f9d4d5f5734cef18d73fd643852d96a_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "卢浮宫三宝之“蒙娜丽莎”",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/29/5a/295a3122bc0a4948d23a84cf7040a0dd_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/29/5a/295a3122bc0a4948d23a84cf7040a0dd_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/29/5a/295a3122bc0a4948d23a84cf7040a0dd_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/29/5a/295a3122bc0a4948d23a84cf7040a0dd_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            },
+                                            {
+                                                "strPicDesc": "巴黎圣母院",
+                                                "strBigPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/ac/31acc665fd12cfd486acfd52a4a8075f_w320_h240_c1_t0.jpg",
+                                                "strSmallPicUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/ac/31acc665fd12cfd486acfd52a4a8075f_w320_h240_c1_t0.jpg",
+                                                "imgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/ac/31acc665fd12cfd486acfd52a4a8075f_w320_h240_c1_t0_w640_h320_c1_t0.jpg",
+                                                "bigImgUrl": "http://m.tuniucdn.com/filebroker/cdn/prd/31/ac/31acc665fd12cfd486acfd52a4a8075f_w320_h240_c1_t0_w640_h320_c1_t0.jpg"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "【自由活动时间】：在繁华的奥斯曼大街自由活动，您可以喝一杯咖啡，同好友一起逛街，在巴黎著名的老佛爷百货或者春天百货为您的家人和朋友精心挑选欧洲制造的礼物，巴黎的美好时光由您自己掌握。（约4-5个小时）\n\n"
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助  午餐：六菜一汤   晚餐：敬请自理",
+                            "stay": "法国当地酒店双人标准间\n\n\n参考酒店：MERCURE PARIS VELIZY 或 NOVOTEL\nPOISSY ORGEVAL或\n RESIDHOME\nSEINE SAINT GERMAIN或同级\n"
+                        }
+                    },
+                    {
+                        "dayNum": 12,
+                        "journeyName": "第12天",
+                        "journeyIcon": "",
+                        "journeyDescription": "巴黎{plane}赫尔辛基{plane}上海",
+                        "journeyInfor": "参考航班：AY 872 CDGHEL 1050/1450 转 AY057  HELPVG 1710/0815+1",
+                        "journeyPeriodsTimeList": [
+                            {
+                                "journeyTime": "",
+                                "timeDesc": "早餐后，在导游的带领下前往机场办理登机、退税等各项手续后，搭乘赫尔辛基国际航班返回上海。"
+                            }
+                        ],
+                        "foodAndStays": {
+                            "food": "早餐：酒店自助   午餐：敬请自理 晚餐：敬请自理",
+                            "stay": "飞机上"
+                        }
+                    },
+                    {
+                        "dayNum": 13,
+                        "journeyName": "第13天",
+                        "journeyIcon": "",
+                        "journeyDescription": "上海\n",
+                        "journeyInfor": "抵达上海，团队顺利结束！\n请将您的护照、登机牌交予领队，以便递交领馆进行销签工作。根据领馆的要求，部分客人可能会被通知前往领馆进行面试销签，请提前做好思想准备，谢谢您的配合！\n\n",
+                        "foodAndStays": {
+                            "food": "早餐：敬请自理 午餐：敬请自理 晚餐：敬请自理",
+                            "stay": ""
+                        }
+                    }
+                ],
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "往返团队/散客机票含税费（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床，不含早，其余服务标准同成人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": "\n"
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    },
+                    {
+                        "type": 13,
+                        "title": "其他信息",
+                        "desc": ""
+                    }
+                ],
+                "shopRecommend": [],
+                "activeRecommend": [],
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404768,
+                    "journeyName": "B行程",
+                    "journeyAbstractDesc": "0927EK",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-09-27",
+                        "2016-09-30"
+                    ],
+                    "planDateStr": "9月27日，9月30日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/08/Cii9EVdGrhGIUgEQACAROT1jHdgAAGLhQPRmLcAIBFR900_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意11晚13日（阿联酋航-意签）全含，4-5星，赠送wifi 9月27日，9月30日.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/08/Cii9EFdGrgyIErbxABxbOchJtaQAAGLhQOyXC4AHFtR528.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404784,
+                    "journeyName": "C行程",
+                    "journeyAbstractDesc": "0607AY",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-07-12",
+                        "2016-07-16",
+                        "2016-08-06",
+                        "2016-08-07",
+                        "2016-08-13"
+                    ],
+                    "planDateStr": "7月12日，7月16日，8月6日，8月7日，8月13日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7C/Cii9EFdG1QiIS0Z0ACCM2KYNrAAAAGLuQMY6lcAIIzw132_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意11晚13日游（芬航-意签）全含，4-5星（5-8月行程）.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7C/Cii9EFdG1QSIcNPZAB2VS5l_MpEAAGLuQKPcrQAHZVj531.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404788,
+                    "journeyName": "D行程",
+                    "journeyAbstractDesc": "0622EK",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-07-15",
+                        "2016-07-19",
+                        "2016-07-29",
+                        "2016-08-04",
+                        "2016-10-13"
+                    ],
+                    "planDateStr": "7月15日，7月19日，7月29日，8月4日，10月13日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7D/Cii9EVdG1XCICa8wACBGNvGGM3IAAGLugHVVWkAIEZO333_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意11晚13日（阿联酋航-意签）全含，4-5星，赠送wifi.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7D/Cii9EFdG1WyIWtOdAB1Bb-cadRwAAGLugG1MaYAHUGH098.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404792,
+                    "journeyName": "E行程",
+                    "journeyAbstractDesc": "0809LX",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-08-19",
+                        "2016-09-06",
+                        "2016-09-08",
+                        "2016-09-23",
+                        "2016-10-03",
+                        "2016-10-05",
+                        "2016-10-06",
+                        "2016-10-20",
+                        "2016-10-26",
+                        "2016-10-28"
+                    ],
+                    "planDateStr": "8月19日，9月6日，9月8日，9月23日，10月3日，10月5日，10月6日，10月20日，10月26日，10月28日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7D/Cii9EVdG1Z2Ify0xACBpC6-ZXhQAAGLugJzrhsAIGkj488_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意（瑞航-意签）全含，4-5星（8、10月行程）.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/7D/Cii9EVdG1ZmIVlmTAB2Xe2GDB08AAGLugIb908AHZeT327.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404795,
+                    "journeyName": "F行程",
+                    "journeyAbstractDesc": "0711QR",
+                    "dayDuration": 14,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-07-11",
+                        "2016-07-30",
+                        "2016-10-23"
+                    ],
+                    "planDateStr": "7月11日，7月30日，10月23日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/80/Cii9EVdG1h6IMaEbACCcsFCw5xIAAGLuwDjJEsAIJzI809_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意14天（卡航-意签）全含，4-5星（7-10月行程）.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/80/Cii9EFdG1hmIOcOLAB2fdJBYsE4AAGLuwDEKUwAHZ-M784.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404797,
+                    "journeyName": "G行程",
+                    "journeyAbstractDesc": "0703LX",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-07-17",
+                        "2016-07-20",
+                        "2016-07-28"
+                    ],
+                    "planDateStr": "7月17日，7月20日，7月28日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/FB/B7/Cii9EFdUzsSIPmDFAB_T4h_gixAAAGZqgPZM6gAH9P6638_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—法瑞意（瑞航-意签）全含，4-5星（7月行程）.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/FB/B7/Cii9EFdUzsCIF_iPAB0NTE1raqIAAGZqgO8JkQAHQ1k972.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404799,
+                    "journeyName": "H行程",
+                    "journeyAbstractDesc": "0808LX",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-08-08",
+                        "2016-08-09"
+                    ],
+                    "planDateStr": "8月8日，8月9日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/81/Cii9EVdG10SIbIG_ACAl-ItFTXsAAGLvAGXdPEAICYQ065_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—8月8日、8月9日 法瑞意（瑞航-意签）全含，4-5星.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/81/Cii9EFdG10CIaTPbAB1EIJXmCvoAAGLvAFNlu4AHUQ4463.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404805,
+                    "journeyName": "I行程",
+                    "journeyAbstractDesc": "0812EK",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-08-12"
+                    ],
+                    "planDateStr": "8月12日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/85/Cii9EVdG2JWIOcibACA4yUSbA4oAAGLvgDAHPwAIDjh411_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—8月12日法瑞意（阿联酋航-意签）全含，4-5星，赠送wifi.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/85/Cii9EFdG2JKIOJG5AB1IeYeZasUAAGLvgCi1GsAHUiR606.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404806,
+                    "journeyName": "J行程",
+                    "journeyAbstractDesc": "0801AF",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-08-01"
+                    ],
+                    "planDateStr": "8月1日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E2/88/Cii9EFdHrKCIaZSIACAVXXRzkkYAAGMHgEq9QsAIBV1944_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—8月1日法瑞意（法荷航-意签）全含，4-5星，赠送wifi.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E2/88/Cii9EVdHrJuIb7XxAB0wA6o1nhwAAGMHgENxPAAHTAb355.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            },
+            {
+                "isDefaultJourney": 0,
+                "journeyBaseInfo": {
+                    "journeyId": 1404807,
+                    "journeyName": "K行程",
+                    "journeyAbstractDesc": "1019LH",
+                    "dayDuration": 13,
+                    "nightDuration": 11,
+                    "planDate": [
+                        "2016-10-19",
+                        "2016-11-30"
+                    ],
+                    "planDateStr": "10月19日，11月30日"
+                },
+                "otherJourneyDetail": {
+                    "image": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/86/Cii9EFdG2UaIQuCFACBO2ib6fFgAAGLvwO84A0AIE7y275_w800_h0_c1_t0.jpg",
+                    "fileName": "牛人专线465105—10月19日、11月30日法瑞意（汉莎-意签）全含，4-5星.pdf",
+                    "pdfPath": "http://m.tuniucdn.com/fb2/t1/G1/M00/E1/86/Cii9EVdG2UGISStPAB2Y9v7OSNgAAGLvwMGz8gAHZkO685.pdf"
+                },
+                "bookNotice": [
+                    {
+                        "title": "温馨提示",
+                        "content": [
+                            "1.欧洲领馆在通常情况下，最晚会在团队出发前1个工作日，返还团队旅游者的护照等原件给旅行社，届时才能准确获悉签证结果，若提前出签，我们将会第一时间通知您。（欧洲旅游旺季的时候，部分使领馆如意大利、希腊会出现提前半天出签的情况，此种情况较难理解，但实属欧洲使馆旺季情况下的通常做法，敬请谅解！）2.销签说明：团队回国后，需要将全团的护照原件和往返的登机牌交进领馆销签（登机牌不予退还，如您需要换取航空公司积分，可在机场航空公司柜台办理完积分之后再交给领队），也有可能领馆会要求您去面试销签，届时我们会提前通知您，请您配合；销签的时间通常为2个星期，但是旺季由于领馆繁忙，会出现一些团期销签需要二个月的时间，敬请谅解；3.当您从欧洲离境时，一定检查海关是否给您的护照盖了清晰的离境章，它是您已经回到中国的唯一凭证。如果没有盖章或者章不清晰无法辨认将会导致使馆要求您面试销签，由此造成不必要的损失，非常抱歉只能由本人承担，请您谅解的同时也请您自己务必仔细留意；4.行程中所列航班号及时间仅供参考，将根据实际情况做出合理的调整，若有调整，我们会与您确认；5.欧洲同北京时间慢，时差为：夏季六小时；冬季七小时（个别国家不同地区也会有时差，均以当地到达时间为准）；6.欧洲酒店：欧洲散拼团的酒店一般在城外35公里至100公里处，车程从市区到酒店一般要30分钟至90分钟，按惯例一般不安排在市区内，原因是会展旺季期间团队酒店的住房紧张，大型车的停车地及早餐的安排；酒店大堂都比较小，无商场，电梯每次只能乘坐两个人和行李，大部分酒店甚至没有电梯；有些酒店的双人标准房会设置一大一小两张床，方便有小孩的家庭游客；还有些酒店双人房只设置一张大的双人大床，放置双份床上用品，有时是二张单人床拼在一起，用时可拉开；7.欧洲用车：夏季欧洲旅游团队由于人数较多，且行车时间有时较长，可能导致空调系统无法充分制冷，另外欧盟规定空调只在长途车引擎发动的时候工作，而车辆在停车状态时启动引擎是违法的行为，因此无法在客人上车前10分钟提前制冷，因此可能导致车内温度较高，敬请谅解；8.由于各种原因如环保、历史悠久、欧洲气候较温和等，较多酒店无空调设备；9.欧洲习惯吃简单的早餐，酒店提供的早餐通常只有面包、咖啡、茶、果汁等；10.行程中所注明的城市间距离，参照境外地图，仅供参考，视当地交通状况进行调整；11.根据欧共体法律规定，导游和司机每天工作时间不得超过10小时。"
+                        ]
+                    },
+                    {
+                        "title": "出境特别条款",
+                        "content": [
+                            "因甲方原因发生拒签、延时交签造成本次出境行程变更或取消的，乙方不承担违约责任，甲方需承担申办签证费用____/人。",
+                            "此合同签订后即为出机票的有效确认，旅行社到出票时间点直接出票，恕不另行告知。",
+                            "若甲方因为个人原因无法出入境或提供的护照扫描件与在机场登记护照信息不符，责任自负，乙方不承担责任。",
+                            "特别提醒：此线路团款中不包含甲方所在地到出境城市的往返交通费及住宿费用，如产生此部分费用，请客人自理。建议旅游者在获悉此团队已送签证后再着手预订国内段交通及住宿。",
+                            "联运航班不保证当天航班，去程可能会提前一天，回程可能会晚一天。若产生住宿费由客人自理。最终以实际出票情况为准。"
+                        ]
+                    },
+                    {
+                        "title": "出境预订须知",
+                        "content": [
+                            "为了确保您能够按时出行，产品确认后请在48小时内付款，同时请按要求尽快提供出游所需的材料并签订出境旅游合同。",
+                            "团队报价按2人入住1间房核算，如出现单男单女，则尽量安排与其他同性别团友拼房或加床；若客人无需安排或旅行社无法安排，请补齐单房差以享用单人房间。<br>团队机票一经开出，不得更改，不得签转，不得退票；另飞行时间、车程时间、船程时间以当日实际所用时间为准。<br>如遇国家或航空公司政策性调整机票、燃油税价格，按调整后的实际价格结算。<br>当地购物时请慎重考虑，把握好质量与价格，请务必保存好所有的购物票据，若购物点提供发票，请索要。<br>是否给予签证或签注、是否准予出入境，是使领馆及有关部门的权力，如因游客自身原因或因提供材料存在问题不能及时办理签证或签注，以及被有关部门拒发签证或签注，不准出入境而影响行程的，签证费及其他费用损失由游客自行承担。<br>为了不耽误您的行程，请您在国际航班起飞前180分钟到达机场办理登机以及出入境相关手续；如涉及海外国内段行程，请您在航班起飞前60分钟到达机场办理登机手续。<br>出团通知最晚于出团前1个工作日发送，若能提前确定，我们将会第一时间通知您。",
+                            "此团收客人数不足20人时，本公司会于出发前20个工作日通知取消该行程，您可以选择延期出发、更改线路出行，或退回团款。",
+                            "团队游览中不允许擅自离团（自由活动除外），如有不便敬请谅解。",
+                            "销签说明：团队返回后，请务必将护照及返程登机牌的原件交于领队统一办理销签手续（其中登机牌原件递送进领馆后是不予退还的，如您需要换取航空公司的积分，可在机场换取登机牌时同时办理）；且按照各使领馆现行规定，会抽查团队部分或全部出团游客回国后面试销签，届时抽查到的游客必须按照使馆通知的时间本人前往使馆面试销签。"
+                        ]
+                    },
+                    {
+                        "title": "特殊人群限制",
+                        "content": [
+                            "· 病患者、孕妇及行动不便者",
+                            "1.为了确保旅游顺利出行，防止旅途中发生人身意外伤害事故，请旅游者在出行前做一次必要的身体检查，如存在下列情况，因服务能力所限无法接待：",
+                            "（1）传染性疾病患者，如传染性肝炎、活动期肺结核、伤寒等传染病人；",
+                            "（2）心血管疾病患者，如严重高血压、心功能不全、心肌缺氧、心肌梗塞等病人；",
+                            "（3）脑血管疾病患者，如脑栓塞、脑出血、脑肿瘤等病人；",
+                            "（4）呼吸系统疾病患者，如肺气肿、肺心病等病人；",
+                            "（5）精神病患者，如癫痫及各种精神病人；",
+                            "（6）严重贫血病患者，如血红蛋白量水平在50克/升以下的病人；",
+                            "（7）大中型手术的恢复期病患者；",
+                            "（8）孕妇及行动不便者。",
+                            "· 老年人",
+                            "1. 70周岁以上老年人预订出游，须与我司签订《健康证明》并有家属或朋友（因服务能力所限无法接待及限制接待的人除外）陪同方可出游。",
+                            "2. 因服务能力所限，无法接待80周岁以上的旅游者报名出游，敬请谅解。",
+                            "3. 因服务能力所限，不受理65周岁（含65周岁）以上老年人预订云南跟团产品。",
+                            "4. 因服务能力所限，不受理70周岁（含70周岁）以上老年人预订四川跟团产品。",
+                            "· 未成年人",
+                            "1.未满18周岁的旅游者请由家属（因服务能力所限无法接待及限制接待的人除外）陪同参团。",
+                            "2.因服务能力所限，无法接待18周岁以下旅游者单独报名出游，敬请谅解。",
+                            "· 外籍友人",
+                            "本产品网上报价适用持有大陆居民身份证的游客。如您持有其他国家或地区的护照，请在预订过程中注明。"
+                        ]
+                    }
+                ],
+                "costInclude": [
+                    {
+                        "title": "交通",
+                        "content": [
+                            "含税费团队/散客机票往返（团队机票将统一出票，散客机票因实时计价预定后即刻出票）",
+                            "中间段火车票（城际列车二等座）",
+                            "当地旅游巴士"
+                        ]
+                    },
+                    {
+                        "title": "住宿",
+                        "content": [
+                            "酒店标准2人间。<br>"
+                        ]
+                    },
+                    {
+                        "title": "用餐",
+                        "content": [
+                            "行程中团队标准用餐，全程正餐（中、晚餐）六菜一汤，赠送一餐意大利特色餐，一餐中式自助餐，具体餐顿安排见行程；（****用餐时间在飞机或船上以机船餐为准，不再另退餐费；在欧洲旅途过程中，为了便于游览进程的安排，可能会遇到3-4顿左右境外退餐的情况。届时我们会按照每人每顿7欧元的标准来退餐，其中瑞士段按照9欧元标准来退餐；）（中式餐或自助餐或特色餐，含飞机上用餐，自由活动期间用餐请自理；如因自身原因放弃用餐，则餐费不退）。"
+                        ]
+                    },
+                    {
+                        "title": "门票",
+                        "content": [
+                            "行程中所含的景点首道大门票，卢浮宫（含卢浮宫中文讲解）、埃菲尔铁塔（登二层）、凡尔赛宫、塞纳河游船、少女峰、比萨斜塔（不登塔）、贡多拉，酒庄品酒、罗马深度游，五渔村火车票。"
+                        ]
+                    },
+                    {
+                        "title": "导服",
+                        "content": [
+                            "专职中文领队兼导游，或者专职领队及当地中文导游。"
+                        ]
+                    },
+                    {
+                        "title": "儿童价标准",
+                        "content": [
+                            "年龄2~6周岁（不含），不占床,不含早，其余服务标准同成人。"
+                        ]
+                    },
+                    {
+                        "title": "签证",
+                        "content": [
+                            "团队旅游签证元/人。"
+                        ]
+                    }
+                ],
+                "costExclude": [
+                    {
+                        "title": "单房差",
+                        "content": [
+                            "单房差（）。"
+                        ]
+                    },
+                    {
+                        "title": "补充",
+                        "content": [
+                            "出入境个人物品海关征税，超重行李的托运费、保管费。",
+                            "因交通延阻、战争、政变、罢工、天气、飞机机器故障、航班取消或更改时间等不可抗力原因所引致的额外费用。",
+                            "酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费。"
+                        ]
+                    }
+                ],
+                "tourRecommend": [
+                    {
+                        "type": 12,
+                        "title": "产品特色",
+                        "desc": "★瑞士国家旅游局、法国旅游发展署、意大利国家旅游局推荐产品\n\n此线路为2015年途牛旅游网倾心打造牛人专线系列畅销产品！跟团游欧洲，选择此线路，高性价比，高体验度。\n\n2015年3月份起的所有团组全程酒店餐饮升级！全程4-5星，特别安排意大利一晚五星庄园酒店。震撼体验！\n\n此线路精选欧洲专业资深导游，郑重承诺杜绝使用出现在黑名单中的导游，服务更加人性化。\n\n【贴心物语】\n1. VIP体验：牛人专线产品一价全含；  \n\n2. 贴心赠送：全程赠送WIFI使用（5人一台设备），随时随地分享您的旅途心情，记录难忘瞬间。\n  \n3.每人赠送一份途牛大礼包（颈枕、转换插头、眼罩）   \n\n\n【航班安排】：此线路全部团期均采用外航或东航国际航空公司航班班机，成就完美旅途。\n\n【进出安排】：罗马进巴黎出或巴黎进罗马出，法瑞意最优化行程，给您更体贴的行程体验；\n\n【用餐安排】：正餐（午、晚餐）升级为六菜一汤，赠送当地特色餐，巴黎安排中式自助餐；（退餐按每人每餐7欧，其中瑞士段为每人每餐9欧退费）\n\n【住宿安排】：  全程精选4-5星酒店标准双人间配套住宿， 酒店含自助热早餐；意大利一晚五星级庄园酒店，震撼体验！   \n \n【行程安排】：精致意大利深度6晚、瑞士深度2晚、巴黎深度3晚\n\n★精致意大利：特别安排意大利六晚住宿，罗马、锡耶纳、佛罗伦萨、比萨、五渔村、威尼斯、米兰深度游览，精心设计游程结合世界遗产，与您一探世界瑰宝、文化传承，丰富您的游趣，行程精心安排6个意大利世界遗产：\n1.威尼斯并周遭泻湖区(1987)  \n2.五渔村(2002)   \n3.比萨大教堂广场(1987)  \n4.佛罗伦萨古城区(1982)  \n5.锡耶纳古城区(1995)  \n6.罗马古市集(1980、1990) \n\n★罗马深度：一整天充足游览时间，斗兽场、古罗马废墟、许愿池，西班牙广场，万神庙等，追寻奥黛丽赫本的脚步，度过您自己的罗马假日，带您充分解读古罗马的永恒与博大精深；赠送罗马深度游。\n\n★巴黎深度：特别安排巴黎3晚住宿，深度体验巴黎全景，世界三大博物馆之一的法国国家艺术宝库—“卢浮宫”(含专业讲解，2小时以上的游览时间)；世界文化遗产-凡尔赛宫（约1.5小时），赠送塞纳河游船（约40分钟）\n\n★畅游瑞士：湖光山色—琉森，安排图恩湖及布里恩湖之间的瑞士小镇—因特拉肯，特别安排登临最美的阿尔卑斯雪山－【少女峰】或【铁力士雪山】；首都-伯尔尼。新增欧洲久负盛名的金色山口快车-GOLDENPASS LINE，体验瑞士深度，精华金色观光火车、雪山、老城全部包含。\n\n【购物嘉年华】：特别安排The Mall 购物村，尽享热辣折扣，低价抢购心仪名牌；\n\n【超值包含】货真价实的一价全包。\n\n1.卢浮宫（含专业中文讲解，约2小时）\n\n2.凡尔赛宫（含门票，约1.5小时）\n\n3.塞纳河游船（含船票，约45分钟）\n\n4.比萨斜塔（不登塔，含进城费，约30分钟）\n\n5.威尼斯贡多拉游船（含船票，约30分钟）\n\n6.瑞士少女峰雪山或铁力士雪山（含上下山火车，约5小时）\n\n7.巴黎圣母院（约30分钟）\n\n8.罗马深度游（多项景点，赠送耳机讲解）\n\n9.五渔村（含火车票）\n\n新增瑞士盛名的景观列车-金色山口快车GOLDENPASS LINE，列车穿梭于连绵山峦之间，让您饱览瑞士的旖旎风光； \n\n\n\n"
+                    },
+                    {
+                        "type": 1,
+                        "title": "用餐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 2,
+                        "title": "住宿安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 3,
+                        "title": "行程安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 4,
+                        "title": "游玩安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 5,
+                        "title": "购物安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 6,
+                        "title": "娱乐安排",
+                        "desc": ""
+                    },
+                    {
+                        "type": 7,
+                        "title": "贴心赠送",
+                        "desc": ""
+                    },
+                    {
+                        "type": 9,
+                        "title": "特别优惠",
+                        "desc": ""
+                    },
+                    {
+                        "type": 10,
+                        "title": "重要提醒",
+                        "desc": "成功开通并使用首付出发支付此产品，即可参与抽奖活动，奖品包括：运动相机Hero4、Apple Watch、LG迷你打印机、公牛全世界转换插头、旅行行李带，抽奖活动时间：12月19日10:00:00至1月22日23:59:59。"
+                    },
+                    {
+                        "type": 11,
+                        "title": "交通信息",
+                        "desc": ""
+                    }
+                ],
+                "recommendNote": null,
+                "shopRecommend": null,
+                "activeRecommend": null,
+                "hasVisaFlag": 1
+            }
+        ],
+        "characteristic": "【产品经理说】\r\n此牛人专线线路自发团以来，得到市场及客人的高度认可，感谢大家对我们的支持与信任，使我们有更大的动力与信心去完善、继续升级与提高，直到完美极致。\r\n\r\n2015年3月份起所有团组全程酒店餐饮升级！全程4-5星，意大利一晚特别安排五星级庄园酒店。震撼体验！ \r\n\r\n全程用餐继续升级，确保餐标，安排意大利特色餐及法国中式自助餐。",
+        "productManagerImage": "http://img2.tuniucdn.com/u/mainpic/pingdao/niuzhuan/chanpinjingli2/4.png",
+        "recommendTags": [
+            "情侣蜜月",
+            "购物血拼",
+            "免费wifi"
+        ],
+        "visaInfoUrl": "http://m.tuniu.com/m2015/book/groupTourBook/visaMaterialList?bookCityCode=2500&productId=210139110&all=1"
+    }
+}

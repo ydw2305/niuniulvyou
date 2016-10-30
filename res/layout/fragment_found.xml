@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tuniu.fragment.FoundFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff" >
+
+        <include
+            android:id="@+id/found_top"
+            layout="@layout/search_found" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/scrollView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <include
+                    android:id="@+id/clue_happen"
+                    layout="@layout/find_happen" />
+
+                <LinearLayout
+                    android:id="@+id/found_jinxuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:id="@+id/lin_thortallist"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp" >
+
+                        <com.common.widget.hzlib.HorizontalListView
+                            android:id="@+id/threethortallist"
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            app:listSelector="#00000000" >
+                        </com.common.widget.hzlib.HorizontalListView>
+                    </RelativeLayout>
+
+                    <com.xinbo.widget.ListView4ScrollView
+                        android:id="@+id/listView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:listSelector="#00000000" >
+                    </com.xinbo.widget.ListView4ScrollView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/found_xinqu"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <include
+                        android:id="@+id/clu_found_xinqu_"
+                        layout="@layout/found_xinqu" />
+                </LinearLayout>
+            </LinearLayout>
+        </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+        <LinearLayout
+            android:id="@+id/lin_shang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:padding="10dp"
+            android:visibility="visible" >
+
+            <RelativeLayout
+                android:id="@+id/rel_jinxuan_shang"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/tv_jinxuana"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="每日精选"
+                    android:textColor="#FFA139" />
+
+                <TextView
+                    android:id="@+id/tv_jinxuan_inditea"
+                    android:layout_width="40dp"
+                    android:layout_height="0.5dp"
+                    android:layout_below="@+id/tv_jinxuana"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:background="#FFA139" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/textView57"
+                android:layout_width="0.5dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#aaaaaa" />
+
+            <RelativeLayout
+                android:id="@+id/rel_xinqu_shang"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/tv_xinqua"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="我的兴趣" />
+
+                <TextView
+                    android:id="@+id/tv_xinquaindex"
+                    android:layout_width="40dp"
+                    android:layout_height="0.5dp"
+                    android:layout_below="@+id/tv_xinqua"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:background="#FFA139"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_jia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="20dp"
+            android:src="@drawable/icon_finder_publish_v2" />
+
+        <ImageView
+            android:id="@+id/img_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="80dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/finder_home_go_top_icon"
+            android:visibility="gone" />
+    </FrameLayout>
+
+</LinearLayout>
